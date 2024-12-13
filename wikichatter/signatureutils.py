@@ -42,9 +42,7 @@ _USER_RE_1 = re.compile(r"(\[\[\W*用户\W*:(.*?)\|[^\]]+\]\])", re.I)
 USER_RE = [_USER_RE_0, _USER_RE_1]
 
 # English and Chinese user talk page link format (same)
-_USER_TALK_RE_0 = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
-
-USER_TALK_RE = [_USER_TALK_RE_0]
+USER_TALK_RE = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:Contributions/(.*?)\|[^\]]+\]\])", re.I)
 
@@ -220,11 +218,11 @@ def _extract_userpage_user(text):
 
 
 def _extract_usertalk_user(text):
-    ut = re.findall(USER_TALK_RE, text)
-    if len(ut) == 0:
+    ut = USER_TALK_RE.match(text)
+    if ut is None:
         raise NoUsernameError(text)
     
-    raw_username = ut[0].group(2)
+    raw_username = ut.group(2)
     return _clean_extracted_username(raw_username)
 
 
