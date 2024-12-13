@@ -28,7 +28,7 @@ _TIMESTAMP_RE_2 = r"[0-9]{2}:[0-9]{2}:[0-9]{2}, [0-9]{4}-[0-9]{2}-[0-9]{2} \(UTC
 
 ## Chinese timestamp formats
 # 2011年5月22日 (日) 04:24 (UTC)
-_TIMESTAMP_RE_3 = r"(\d{4})年(\d{1,2})月(\d{1,2})日(?: \((.*?)\))? (\d{2}:\d{2}) \(UTC\)"
+_TIMESTAMP_RE_3 = r"[0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日(?: \(\S\))? [0-9]{2}:[0-9]{2} \(UTC\)"
 
 _TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
