@@ -214,7 +214,7 @@ def _extract_userpage_user(text):
     if len(up) == 0:
         raise NoUsernameError(text)
     
-    raw_username = up[0].group(2)
+    raw_username = up[0][1]
     return _clean_extracted_username(raw_username)
 
 
