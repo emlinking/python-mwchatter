@@ -33,14 +33,8 @@ _TIMESTAMP_RE_3 = r"[0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日(?: \(\S\))? [0-9]{2}:[
 _TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
-# English user page link format
-_USER_RE_0 = r"(\[\[\W*user\W*:(.*?)\|[^\]]+\]\])"
-
-# Chinese user page link format
-_USER_RE_1 = r"(\[\[\W*用户\W*:(.*?)\|[^\]]+\]\])"
-
-_USER_RE = [_USER_RE_0, _USER_RE_1]
-USER_RE = re.compile(r'|'.join(_USER_RE), re.I)
+# English or Chinese user page link format
+USER_RE = re.compile(r"(\[\[\W*(?:user|用户)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 USER_TALK_RE = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
