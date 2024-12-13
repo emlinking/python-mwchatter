@@ -29,7 +29,7 @@ def _sort_into_hierarchy(comment_list):
                 comment_stack.append(comment)
                 break
             comment_stack.pop()
-        if len(comment_stack) is 0:
+        if len(comment_stack) == 0:
             top_level_comments.append(comment)
             comment_stack.append(comment)
     return top_level_comments

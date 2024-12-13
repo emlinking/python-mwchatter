@@ -81,7 +81,7 @@ def _sort_into_hierarchy(section_list):
                 section_stack.append(section)
                 break
             section_stack.pop()
-        if len(section_stack) is 0:
+        if len(section_stack) == 0:
             top_level_sections.append(section)
             section_stack.append(section)
     return top_level_sections
