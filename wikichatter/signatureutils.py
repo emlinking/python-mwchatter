@@ -18,18 +18,34 @@ class NoTimestampError(SignatureUtilsError):
 class NoSignature(SignatureUtilsError):
     pass
 
-
+## English timestamp formats
 # 01:52, 20 September 2013 (UTC)
 _TIMESTAMP_RE_0 = r"[0-9]{2}:[0-9]{2}, [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
 # 18:45 Mar 10, 2003 (UTC)
 _TIMESTAMP_RE_1 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{1,2}, [0-9]{4} \(UTC\)"
 # 01:54:53, 2005-09-08 (UTC)
 _TIMESTAMP_RE_2 = r"[0-9]{2}:[0-9]{2}:[0-9]{2}, [0-9]{4}-[0-9]{2}-[0-9]{2} \(UTC\)"
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2]
+
+## Chinese timestamp formats
+# 2011年5月22日 (日) 04:24 (UTC)
+_TIMESTAMP_RE_3 = r"(\d{4})年(\d{1,2})月(\d{1,2})日(?: \((.*?)\))? (\d{2}:\d{2}) \(UTC\)"
+
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
-USER_RE = re.compile(r"(\[\[\W*user\W*:(.*?)\|[^\]]+\]\])", re.I)
-USER_TALK_RE = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
+# English user page link format
+_USER_RE_0 = re.compile(r"(\[\[\W*user\W*:(.*?)\|[^\]]+\]\])", re.I)
+
+# Chinese user page link format
+_USER_RE_1 = re.compile(r"(\[\[\W*用户\W*:(.*?)\|[^\]]+\]\])", re.I)
+
+USER_RE = [_USER_RE_0, _USER_RE_1]
+
+# English and Chinese user talk page link format (same)
+_USER_TALK_RE_0 = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
+
+USER_TALK_RE = [_USER_TALK_RE_0]
+
 USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:Contributions/(.*?)\|[^\]]+\]\])", re.I)
 
 
@@ -195,18 +211,20 @@ def _extract_rightmost_user(wcode):
 
 
 def _extract_userpage_user(text):
-    up = USER_RE.match(text)
-    if up is None:
+    up = re.findall(USER_RE, text)
+    if len(up) == 0:
         raise NoUsernameError(text)
-    raw_username = up.group(2)
+    
+    raw_username = up[0].group(2)
     return _clean_extracted_username(raw_username)
 
 
 def _extract_usertalk_user(text):
-    ut = USER_TALK_RE.match(text)
-    if ut is None:
+    ut = re.findall(USER_TALK_RE, text)
+    if len(ut) == 0:
         raise NoUsernameError(text)
-    raw_username = ut.group(2)
+    
+    raw_username = ut[0].group(2)
     return _clean_extracted_username(raw_username)
 
 
