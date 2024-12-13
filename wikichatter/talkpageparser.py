@@ -13,5 +13,7 @@ def parse(text, title=None):
     p.extract_comments(extractor.linear_extractor)
     
     print("After running comment extractor: p.sections =", p.sections)
+    print("After running comment extractor: p.sections[0].comments =", p.sections[0].comments)
     print("After running comment extractor: p.sections[0]._subsections", p.sections[0]._subsections)
+    print("After running comment extractor: p.sections[0]._subsections[0].comments", p.sections[0]._subsections[0].comments)
     return p.simplify()
