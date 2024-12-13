@@ -96,6 +96,17 @@ that broke indentation rather than the original poster.
 
 Additional issues (added by emlinking):
 * Even in the original package, sometimes an extra empty comment is parsed at the end of a section.
+* The package may miss user signatures in some cases--_find_signatures_in_nodes() searches for signatures by first looking for timestamps. When users don't use the default signature formatting (see below for an example from https://zh.wikipedia.org/wiki/User_talk:Mayfly~zhwiki), the parse will not capture their signatures from the text.
+
+Keegan Peterzell
+維基媒體基金會社群聯絡員
+
+2015年3月20日 (五) 10:40 (UTC) 
+
+* The lead of a talk page and subsequent comments may get parsed as a single comment if the users did not properly start a section to put their comment into.
+* If a section has subsections, but there is text preceding the first titled subsection, the text preceding the first titled subsection may appear AFTER the text of the titled subsection (swapped order): https://zh.wikipedia.org/w/index.php?title=Talk:%E5%AD%94%E5%AD%90&oldid=82092240#%E4%B8%AD%E7%AB%8B%E6%80%A7
+    * This error likely originates from generate_sections_from_wikicode() which calls _sort_into_hierarchy()
+* USER_CONTRIBS_RE and USER_TALK_RE in signatureutils.py have not been tailored for Chinese.
 
 ## Running tests ##
 From base directory

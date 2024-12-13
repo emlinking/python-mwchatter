@@ -9,6 +9,8 @@ class Page(object):
         self.sections = section.generate_sections_from_wikicode(wcode)
 
     def extract_comments(self, extractor):
+        print("Calling extract_comments()")
+        print("p.sections =", self.sections)
         for s in self.sections:
             s.extract_comments(extractor)
 
