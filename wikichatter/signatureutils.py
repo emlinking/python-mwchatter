@@ -39,7 +39,8 @@ _USER_RE_0 = re.compile(r"(\[\[\W*user\W*:(.*?)\|[^\]]+\]\])", re.I)
 # Chinese user page link format
 _USER_RE_1 = re.compile(r"(\[\[\W*用户\W*:(.*?)\|[^\]]+\]\])", re.I)
 
-USER_RE = [_USER_RE_0, _USER_RE_1]
+_USER_RE = [_USER_RE_0, _USER_RE_1]
+USER_RE = re.compile(r'|'.join(_USER_RE))
 
 # English and Chinese user talk page link format (same)
 USER_TALK_RE = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
