@@ -104,7 +104,6 @@ Keegan Peterzell
 2015年3月20日 (五) 10:40 (UTC) 
 
 * The lead of a talk page and subsequent comments may get parsed as a single comment if the users did not properly start a section to put their comment into.
-* USER_CONTRIBS_RE and USER_TALK_RE in signatureutils.py have not been tailored for Chinese.
 
 ## Running tests ##
 From base directory

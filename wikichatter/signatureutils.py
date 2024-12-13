@@ -39,10 +39,10 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 USER_RE = re.compile(r"(\[\[\W*(?:user|用户)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
-USER_TALK_RE = re.compile(r"(\[\[\W*user[_ ]talk\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_TALK_RE = re.compile(r"(\[\[\W*(?:user[_ ]talk|用户讨论)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
-USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:Contributions/(.*?)\|[^\]]+\]\])", re.I)
-
+# English or Chinese user contributions page format
+USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
 
 def extract_signatures(wcode):
     """
