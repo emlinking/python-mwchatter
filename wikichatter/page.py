@@ -11,7 +11,7 @@ class Page(object):
     def extract_comments(self, extractor):
         print("Calling extract_comments()")
         print("p.sections =", self.sections)
-        print("p.sections[0]._subsections", self.sections._subsections)
+        print("p.sections[0]._subsections", self.sections[0]._subsections)
         for s in self.sections:
             s.extract_comments(extractor)
 
