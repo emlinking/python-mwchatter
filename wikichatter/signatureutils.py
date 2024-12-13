@@ -29,8 +29,10 @@ _TIMESTAMP_RE_2 = r"[0-9]{2}:[0-9]{2}:[0-9]{2}, [0-9]{4}-[0-9]{2}-[0-9]{2} \(UTC
 ## Chinese timestamp formats
 # 2011年5月22日 (日) 04:24 (UTC)
 _TIMESTAMP_RE_3 = r"[0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日(?: \(\S\))? [0-9]{2}:[0-9]{2} \(UTC\)"
+# 14:52 2004年8月10日 (UTC) 
+_TIMESTAMP_RE_4 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UTC\)"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3]
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese user page link format
