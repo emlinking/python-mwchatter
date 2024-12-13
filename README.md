@@ -1,6 +1,8 @@
 # MWChatter
 This is a library currently in development to parse conversations on Wikipedia
-talk pages
+talk pages.
+
+I (emlinking) have made some modifications to accomodate parsing Chinese Wiki Talk Pages, in addition to English ones.
 
 ## Basic use ##
     import wikichatter as wc
@@ -91,6 +93,9 @@ a level. This has specifically been observed to happen when a user inserts an
 image, since attempting to indent the image may not make sense. In this cases
 users commenting below them will be interpreted to be replying to the person
 that broke indentation rather than the original poster.
+
+Additional issues (added by emlinking):
+* Even in the original package, sometimes an extra empty comment is parsed at the end of a section.
 
 ## Running tests ##
 From base directory
