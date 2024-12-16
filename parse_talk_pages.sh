@@ -16,8 +16,8 @@ else
 fi
 
 # scrape file
-echo python ~/projects/code-switching/scrapeTalkPages.py $UNZIPFILE $OUTDIR
-python ~/projects/code-switching/scrapeTalkPages.py $UNZIPFILE $OUTDIR
+echo python ~/projects/code-switching/wiki/python-mwchatter/scrapeTalkPages.py $UNZIPFILE $OUTDIR
+python ~/projects/code-switching/wiki/python-mwchatter/scrapeTalkPages.py $UNZIPFILE $OUTDIR
 
 # Check if the scraping succeeded
 if [ $? -ne 0 ]; then
