@@ -14,7 +14,7 @@ OUTDIR=$3
 if [ -f "$UNZIPDIR/$UNZIPFILE" ]; then
     echo "The file '$UNZIPDIR/$UNZIPFILE ' already exists. Skipping unzip."
 else
-    echo bzip2 -cdk $ZIPFILE > $UNZIPDIR/$UNZIPFILE 
+    echo "bzip2 -cdk $ZIPFILE > $UNZIPDIR/$UNZIPFILE" 
     bzip2 -cdk $ZIPFILE > $UNZIPDIR/$UNZIPFILE 
 fi
 
