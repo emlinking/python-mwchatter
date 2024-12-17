@@ -26,7 +26,13 @@ def main(fp, dir):
         print(f"Subdirectory '{subdirectory}' already exists.")
 
     # loop over pages in dump file
-    for page in tqdm.tqdm(dump):
+    # we can extract total count of pages from filename: zhwiki-20240401-pages-meta-history1.xml-p1p2289.bz2 
+    pages = fp.split("-")[-1].replace(".bz2", "")
+    pages = pages.split("p")
+    first, last = int(pages[-2]), int(pages[-1])
+    pages = last - first
+
+    for page in tqdm.tqdm(dump, total=pages):
         
         # grab only the Talk and User talk pages
         if page.namespace in {1,3}:
