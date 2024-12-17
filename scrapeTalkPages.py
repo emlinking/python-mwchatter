@@ -36,9 +36,7 @@ def main(fp, dir):
     processed = os.listdir(subdirectory)
     processed = set([int(filename.split("_")[0]) for filename in processed])
     print("Already processed {} files from this dump".format(len(processed)))
-
-    pages -= len(processed)
-    print("Processing remaining {} pages from this dump".format(pages))
+    print("Processing remaining {} pages from this dump".format(pages - len(processed)))
 
     for page in tqdm.tqdm(dump, total=pages):
         
