@@ -42,7 +42,8 @@ def main(fp, dir):
         
         # grab only the Talk and User talk pages
         if page.id in processed:
-            print("skipped")
+            print("skipped {}".format(page.id))
+            
         if (page.namespace in {1,3}) and (page.id not in processed):
 
             # grab most recent revision
