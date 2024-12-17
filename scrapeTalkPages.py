@@ -15,7 +15,7 @@ def main(fp, dir):
     dump = mwxml.Dump.from_file(open(fp))
 
     # make subdirectory if it does not already exist
-    subdirectory = os.path.join(dir, fp.replace(".xml", ""))
+    subdirectory = os.path.join(dir, fp.split("/")[-1].replace(".xml", ""))
 
     if not os.path.isdir(subdirectory):
         # Create the subdirectory if it does not exist
@@ -44,10 +44,9 @@ def main(fp, dir):
                 pass
 
             # create filename that saves key info about this page and revision
-            save_path = "{}_{}_{}_{}.json".format(page.id,
-                                                  page.namespace,
-                                                  revision.id, 
-                                                  revision.timestamp).replace(":", "-")
+            save_path = "{}_{}_{}.json".format(page.id,
+                                               page.namespace,
+                                               revision.id)
             
             save_path = os.path.join(subdirectory, save_path)
             
@@ -61,5 +60,5 @@ def main(fp, dir):
 
 if __name__=="__main__":
     fp, dir = sys.argv[1], sys.argv[2]
-
+    
     main(fp, dir)
