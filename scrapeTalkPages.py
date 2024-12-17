@@ -38,13 +38,13 @@ def main(fp, dir):
                 pass
 
             # create filename that saves key info about this page and revision
-            save_path = "{}_{}_{}_{}_{}_{}_{}".format(revision.page.title,
-                                      revision.page.id,
-                                      revision.namespace,
-                                      revision.id, 
-                                      revision.timestamp, 
-                                      revision.user.text, 
-                                      revision.user.id).replace(":", "-")
+            save_path = "{}_{}_{}_{}_{}_{}_{}".format(page.title,
+                                                      page.id,
+                                                      page.namespace,
+                                                      revision.id, 
+                                                      revision.timestamp, 
+                                                      revision.user.text, 
+                                                      revision.user.id).replace(":", "-")
             
             save_path = os.path.join(subdirectory, save_path)
             
