@@ -35,6 +35,10 @@ def main(fp, dir):
     # see which pages are already parsed
     processed = os.listdir(subdirectory)
     processed = set([int(filename.split("_")[0]) for filename in processed])
+    print("Already processed {} files from this dump".format(len(processed)))
+
+    pages -= len(processed)
+    print("Processing remaining {} pages from this dump".format(pages))
 
     for page in tqdm.tqdm(dump, total=pages):
         
