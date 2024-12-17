@@ -32,10 +32,14 @@ def main(fp, dir):
     first, last = int(pages[-2]), int(pages[-1])
     pages = last - first
 
+    # see which pages are already parsed
+    processed = os.listdir(subdirectory)
+    processed = set([int(filename.split("_")[0]) for filename in processed])
+
     for page in tqdm.tqdm(dump, total=pages):
         
         # grab only the Talk and User talk pages
-        if page.namespace in {1,3}:
+        if (page.namespace in {1,3}) and (page.id not in processed):
 
             # grab most recent revision
             revision = None
@@ -51,12 +55,15 @@ def main(fp, dir):
             save_path = os.path.join(subdirectory, save_path)
             
             # parse the page
-            parse = wc.parse(revision.text)
+            try:
+                parse = wc.parse(revision.text)
 
-            # save the parse
-            # https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/#convert-dictionary-in-python-to-json-file-using-jsondump
-            with open(save_path, "w") as outfile:
-                json.dump(parse, outfile)
+                # save the parse
+                # https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/#convert-dictionary-in-python-to-json-file-using-jsondump
+                with open(save_path, "w") as outfile:
+                    json.dump(parse, outfile)
+            except wc.error.MalformedWikitextError as e:
+                print(e)
 
 if __name__=="__main__":
     fp, dir = sys.argv[1], sys.argv[2]
