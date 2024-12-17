@@ -65,7 +65,14 @@ def main(fp, dir):
                 with open(save_path, "w") as outfile:
                     json.dump(parse, outfile)
             except wc.error.MalformedWikitextError as e:
-                print(e)
+                print("Encountered malformed Wikitext on page '{}' (id: {})".format(page.title, page.id))
+                print("Error:", e)
+            except wc.signatureutils.NoUsernameError as e:
+                print("Encountered signature missing username on page '{}' (id: {})".format(page.title, page.id))
+                print("Error:", e)
+            except Exception as e:
+                print("Encountered exception while parsing page '{}' (id: {})".format(page.title, page.id))
+                print("Error:", e)
 
 if __name__=="__main__":
     fp, dir = sys.argv[1], sys.argv[2]
