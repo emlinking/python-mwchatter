@@ -1,1 +1,2 @@
 spanish_test1.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Toxicofera&oldid=107968521
+spanish_test2.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Lanius_somalicus&oldid=85705136
