@@ -12,11 +12,13 @@ def main():
 
         for tf in test_files:
             tf = os.path.join(TEST_DIR, tf.strip().split(",")[0])
+            url = tf.strip().split(",")[1]
 
             test_text = open(tf, "r").read()
 
             parse = wc.parse(test_text)
 
+            print(tf, url)
             pprint.pprint(parse)
 
 if __name__=="__main__":
