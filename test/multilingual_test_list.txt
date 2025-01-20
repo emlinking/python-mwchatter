@@ -1,2 +1,1 @@
-file, url
-spanish_test1.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Toxicofera&action=edit
+spanish_test1.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Toxicofera&oldid=107968521
