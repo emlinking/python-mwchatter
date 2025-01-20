@@ -11,8 +11,8 @@ def main():
         test_files = f.readlines()
 
         for tf in test_files:
-            tf = os.path.join(TEST_DIR, tf.strip().split(",")[0])
             url = tf.strip().split(",")[1]
+            tf = os.path.join(TEST_DIR, tf.strip().split(",")[0])
 
             test_text = open(tf, "r").read()
 
