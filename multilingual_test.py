@@ -1,5 +1,6 @@
 # multlingual_test.py
 import os
+import pprint
 import wikichatter as wc
 
 TEST_DIR = "test/"
@@ -15,7 +16,8 @@ def main():
             test_text = open(tf, "r").read()
 
             parse = wc.parse(test_text)
-            print(parse)
-            
+
+            pprint.pprint(parse)
+
 if __name__=="__main__":
     main()
