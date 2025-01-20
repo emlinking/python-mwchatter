@@ -1,0 +1,21 @@
+== Enlaces externos modificados ==
+
+Hola,
+
+Acabo de modificar 1 enlaces externos en [[Toxicofera]]. Por favor tomaos un momento para revisar [https://es.wikipedia.org/w/index.php?diff=prev&oldid=104317942 mi edición]. Si tenéis alguna pregunta o necesitáis que el bot ignore los enlaces o toda la página en su conjunto, por favor visitad [[:m:InternetArchiveBot/FAQ|esta simple guía]] para ver información adicional. He realizado los siguientes cambios:
+*Se añadió el archivo https://web.archive.org/web/20090730210949/http://evo.bio.psu.edu/hedgeslab/Publications/PDF-files/170.pdf a http://evo.bio.psu.edu/hedgeslab/Publications/PDF-files/170.pdf
+
+Por favor acudid a la guía anteriormente enlazada para más información sobre cómo corregir los errores que el bot pueda cometer.
+
+Saludos.—[[:en:User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[:en:User talk:InternetArchiveBot|Reportar un error]])</span> 17:38 19 dic 2017 (UTC)
+
+== Enlaces externos modificados ==
+
+Hola,
+
+Acabo de modificar 1 enlaces externos en [[Toxicofera]]. Por favor tomaos un momento para revisar [https://es.wikipedia.org/w/index.php?diff=prev&oldid=107968520 mi edición]. Si tenéis alguna pregunta o necesitáis que el bot ignore los enlaces o toda la página en su conjunto, por favor visitad [[:m:InternetArchiveBot/FAQ|esta simple guía]] para ver información adicional. He realizado los siguientes cambios:
+*Se añadió el archivo https://web.archive.org/web/20120224191253/http://www.venomdoc.com/downloads/2003_BGF_Elapid_3FTx_phylog.pdf a http://www.venomdoc.com/downloads/2003_BGF_Elapid_3FTx_phylog.pdf
+
+Por favor acudid a la guía anteriormente enlazada para más información sobre cómo corregir los errores que el bot pueda cometer.
+
+Saludos.—[[:en:User:InternetArchiveBot|'''<span style="color:darkgrey;font-family:monospace">InternetArchiveBot</span>''']] <span style="color:green;font-family:Rockwell">([[:en:User talk:InternetArchiveBot|Reportar un error]])</span> 09:08 20 may 2018 (UTC)
