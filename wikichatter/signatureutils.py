@@ -59,7 +59,7 @@ USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuar
 
 # English, Chinese, or Spanish user contributions page format
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
-USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial):(Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
+USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial):(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
 
 def extract_signatures(wcode):
     """
