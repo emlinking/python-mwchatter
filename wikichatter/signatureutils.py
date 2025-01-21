@@ -42,7 +42,7 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # English or Chinese or Spanish user page link format
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
 # Spanish: [[Usuario:Elvisor|Elvisor]]
-USER_RE = re.compile(r"(\[\[\W*(?:user|用户|Usuario)\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_RE = re.compile(r"(\[\[(?:\w*:)?\W*(?:user|用户|Usuario)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
