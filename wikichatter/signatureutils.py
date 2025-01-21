@@ -47,7 +47,7 @@ USER_RE = re.compile(r"(\[\[\W*(?:user|用户|Usuario)\W*:(.*?)\|[^\]]+\]\])", r
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
 # Spanish: ([[Usuario Discusión:Elvisor|discusión]])
-USER_TALK_RE = re.compile(r"(\[\[\W*(?:user[_ ]talk|用户讨论|Usuario Discusión)\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_TALK_RE = re.compile(r"(\[\[(?:\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English or Chinese user contributions page format
 USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
