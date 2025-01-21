@@ -46,14 +46,14 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # English or Chinese or Spanish user page link format
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
 # Spanish: [[Usuario:Elvisor|Elvisor]]
-# German: [[Benutzer:Beispielnutzer|Beispielnutzer]]
-USER_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user|用户|Usuario|Benutzer)\W*:(.*?)\|[^\]]+\]\])", re.I)
+# German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]]&nbsp;[[Benutzerin Diskussion:Lómelinde#top|Diskussion]]
+USER_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
 # Spanish: ([[Usuario Discusión:Elvisor|discusión]])
 # German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]])
-USER_TALK_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion)\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_TALK_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English or Chinese user contributions page format
 USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
