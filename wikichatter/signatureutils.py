@@ -34,7 +34,7 @@ _TIMESTAMP_RE_4 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UT
 
 ## Spanish timestamp formats
 # 23:48 23 sep 2012 (UTC)
-_TIMETAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} (UTC)"
+_TIMETAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
 
 _TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMETAMP_RE_5]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
