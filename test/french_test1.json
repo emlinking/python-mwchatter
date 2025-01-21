@@ -36,7 +36,15 @@
                             "comments": [
                                 {
                                     "text_blocks": [
-                                        "* D'accord avec toi, mais je remplacerais \u00ab Quelle signature utiliser ? \u00bb par \u00ab Comment pr\u00e9d\u00e9finir sa signature ? \u00bb, pour continuer sur la lanc\u00e9e des questions. Je remplacerais aussi \u00ab Que signer ? \u00bb par \u00ab O\u00f9 signer ? \u00bb, qui est \u00e0 mon avis plus clair. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/23.11.2007/19:54&nbsp;UTC/</tt>\n",
+                                        "* D'accord avec toi, mais je remplacerais \u00ab Quelle signature utiliser ? \u00bb par \u00ab Comment pr\u00e9d\u00e9finir sa signature ? \u00bb, pour continuer sur la lanc\u00e9e des questions. Je remplacerais aussi \u00ab Que signer ? \u00bb par \u00ab O\u00f9 signer ? \u00bb, qui est \u00e0 mon avis plus clair. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/23.11.2007/19:54&nbsp;UTC/</tt>\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "IP 84.5",
+                                    "time_stamp": "23.11.2007/19:54&nbsp;UTC"
+                                },
+                                {
+                                    "text_blocks": [
                                         "* {{contre}} Non au remplacement d'une page qui se veut concise par un \u00e9norme texte indigeste. Au d\u00e9part, la page contenait [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 ceci] (mai 2006). Le but c'est d'y dire l'essentiel aux nouveaux : on ne signe pas les articles, on signe les discussions, et on explique la syntaxe des tildes. Tout le reste est un tissu de \"fausses bonnes id\u00e9es\" qui embrouillent les nouveaux. Ce n'est plus une page d'aide, et cela devient une \"page qui n'aide pas\". [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 02:32 (CET)\n"
                                     ],
                                     "comments": [
@@ -44,20 +52,39 @@
                                             "text_blocks": [
                                                 "*: +1, pour un expos\u00e9 plus bref. Dommage que la forme de ta remarque laisse para\u00eetre une certaine col\u00e8re, qui laisse penser que je me fais \u00ab engueuler \u00bb, alors que je ne suis pas l'auteur du pav\u00e9 qui te d\u00e9pla\u00eet tant. Donc, je propose de travailler cette page, sans haine ni col\u00e8re entre nous tous {{sourire}}. En route vers de nouvelles aventures ... --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 07:22 (CET)\n"
                                             ],
-                                            "comments": [],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "*::Euh, quel pav\u00e9 ? Je n'ai fait que repartir de la structure telle que tu l'as r\u00e9organis\u00e9e. Dommage que tu changes d'avis d\u00e8s qu'une opposition est exprim\u00e9e.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "IP 84.5",
+                                                    "time_stamp": "24.11.2007/06:55&nbsp;UTC"
+                                                }
+                                            ],
                                             "cosigners": [],
                                             "author": "brunodesacacias",
                                             "time_stamp": "24 novembre 2007 \u00e0 07:22 (CET)"
                                         },
                                         {
                                             "text_blocks": [
-                                                "*::Euh, quel pav\u00e9 ? Je n'ai fait que repartir de la structure telle que tu l'as r\u00e9organis\u00e9e. Dommage que tu changes d'avis d\u00e8s qu'une opposition est exprim\u00e9e.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
-                                                "*:J'aimerais qu'on m'explique ce qui n'est pas clair. Au contraire, j'ai ins\u00e9r\u00e9 un cadre de r\u00e9sum\u00e9 en en-t\u00eate, ce qui \u00e9nonce plus clairement les choses importantes d\u00e8s le d\u00e9but. Le plan est presque le m\u00eame qu'avant, mais en plus logique en ce qui concerne les niveaux h1, h2, etc. Bref il n'y a pas beaucoup de changement par rapport \u00e0 la version pr\u00e9c\u00e9dente, juste un plan diff\u00e9rent. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
-                                                "*::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n",
-                                                "\n"
+                                                "*:J'aimerais qu'on m'explique ce qui n'est pas clair. Au contraire, j'ai ins\u00e9r\u00e9 un cadre de r\u00e9sum\u00e9 en en-t\u00eate, ce qui \u00e9nonce plus clairement les choses importantes d\u00e8s le d\u00e9but. Le plan est presque le m\u00eame qu'avant, mais en plus logique en ce qui concerne les niveaux h1, h2, etc. Bref il n'y a pas beaucoup de changement par rapport \u00e0 la version pr\u00e9c\u00e9dente, juste un plan diff\u00e9rent. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n"
                                             ],
-                                            "comments": [],
-                                            "cosigners": []
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "*::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "IP 84.5",
+                                                    "time_stamp": "24.11.2007/07:47&nbsp;UTC"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "IP 84.5",
+                                            "time_stamp": "24.11.2007/06:55&nbsp;UTC"
                                         }
                                     ],
                                     "cosigners": [],
@@ -73,6 +100,13 @@
                             ],
                             "author": "brunodesacacias",
                             "time_stamp": "23 novembre 2007 \u00e0 20:48 (CET)"
+                        },
+                        {
+                            "text_blocks": [
+                                "\n"
+                            ],
+                            "comments": [],
+                            "cosigners": []
                         }
                     ],
                     "heading": " Les avis "
@@ -117,15 +151,41 @@
                                 "# {{Pour}} Les instructions de mai 2006 forment l'essentiel pour qu'un d\u00e9butant sache signer. Tout le d\u00e9tail pour modifier sa signature doit \u00eatre sur une autre page. Voil\u00e0. {{non sign\u00e9|Brunodesacacias|24 novembre 2007 \u00e0 06:38 UTC|23356150|23355898}}\n",
                                 "#: Rien n'interdit de r\u00e9sumer tout \u00e7a dans un cadre en en-t\u00eate, par exemple en reprenant la version que tu proposes, et d'approfondir par la suite, ou dans une autre page.\n",
                                 "#:Je ne comprends pas les r\u00e9criminations de Teofilo. Car ce qu'il pr\u00e9sente comme inutile et indigeste r\u00e9pond \u00e0 des questions qui ont \u00e9t\u00e9 pos\u00e9es sur le Bistro et dans la Guilde (probl\u00e8me avec les |, peut-on signer les images ?, comment personnaliser sa signature ?). Le supprimer serait une perte de temps. \n",
-                                "#:Mais je suis d'accord pour mettre en valeur ce qui est le plus important et le plus utile.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:07&nbsp;UTC/</tt>\n",
-                                "#::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n",
-                                "#:::Ben voyons ! Le pav\u00e9 \"Ce texte est consid\u00e9r\u00e9 comme une recommandation dans Wikip\u00e9dia. Il d\u00e9crit les exigences dont le principe est accept\u00e9 par un grand nombre de wikip\u00e9diens. Raccourci [+]WP:SIGN Vous pouvez librement modifier cette page, mais veuillez utiliser la page de discussion pour proposer une modification majeure.\" c'est essentiel ? Dans ta conception tr\u00e8s bureaucratique de Wikip\u00e9dia, probablement ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 12:57 (CET)\n"
+                                "#:Mais je suis d'accord pour mettre en valeur ce qui est le plus important et le plus utile.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:07&nbsp;UTC/</tt>\n"
                             ],
                             "comments": [
                                 {
                                     "text_blocks": [
-                                        "#::::Ce \"pav\u00e9\" que tu pointes du doigt, {{m|recommandation}}, \u00e9tait d\u00e9j\u00e0 pr\u00e9sent dans la version vers laquelle tu as revert\u00e9. Je ne te comprends pas. Moi je veux bien l'enlever, dans la mesure o\u00f9 ce n'est pas vraiment une recommandation (\u00e0 part la partie : on signe les messages, pas les articles).\n",
-                                        "#::::Je parlais bien \u00e9videmement de {{m|En r\u00e9sum\u00e9}}. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n",
+                                        "#::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "#:::Ben voyons ! Le pav\u00e9 \"Ce texte est consid\u00e9r\u00e9 comme une recommandation dans Wikip\u00e9dia. Il d\u00e9crit les exigences dont le principe est accept\u00e9 par un grand nombre de wikip\u00e9diens. Raccourci [+]WP:SIGN Vous pouvez librement modifier cette page, mais veuillez utiliser la page de discussion pour proposer une modification majeure.\" c'est essentiel ? Dans ta conception tr\u00e8s bureaucratique de Wikip\u00e9dia, probablement ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 12:57 (CET)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "#::::Ce \"pav\u00e9\" que tu pointes du doigt, {{m|recommandation}}, \u00e9tait d\u00e9j\u00e0 pr\u00e9sent dans la version vers laquelle tu as revert\u00e9. Je ne te comprends pas. Moi je veux bien l'enlever, dans la mesure o\u00f9 ce n'est pas vraiment une recommandation (\u00e0 part la partie : on signe les messages, pas les articles).\n",
+                                                        "#::::Je parlais bien \u00e9videmement de {{m|En r\u00e9sum\u00e9}}. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "IP 84.5",
+                                                    "time_stamp": "24.11.2007/12:35&nbsp;UTC"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "Teofilo",
+                                            "time_stamp": "24 novembre 2007 \u00e0 12:57 (CET)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "IP 84.5",
+                                    "time_stamp": "24.11.2007/07:47&nbsp;UTC"
+                                },
+                                {
+                                    "text_blocks": [
                                         "#::\n",
                                         "#:::<s>\"En suivant les liens vers les sections ?\" Alors que le plan clair et explicite : \"1 Dans les articles encyclop\u00e9diques 2 Signer une image 3 Dans les pages de discussion\" a \u00e9t\u00e9 remplac\u00e9 par des titres qui donnent une impression de complexit\u00e9 extr\u00eame : \"1 Quand signer ? 1.1 Que faut-il signer ? 1.1.1 Les messages dans les pages de discussion 1.1.2 Les avis au cours de proc\u00e9dures 1.2 Que ne faut-il pas signer ? 1.2.1 Les articles 1.2.2 Les images \" : des titres qui sont propres \u00e0 d\u00e9contenancer le lecteur, qui se dit en voyant cela \"c'est s\u00fbr, je vais me tromper, il y a tellement de cas, tellement d'incertitude avec tous ces points d'interrogation...\". Ce nouveau plan est compl\u00e8tement ins\u00e9curisant pour le lecteur. Il se dit, dans quelle maison de fous je suis tomb\u00e9 ?, quand il voit \u00e7a ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 13:10 (CET)</s>\n"
                                     ],
@@ -136,8 +196,8 @@
                                 }
                             ],
                             "cosigners": [],
-                            "author": "Teofilo",
-                            "time_stamp": "24 novembre 2007 \u00e0 12:57 (CET)"
+                            "author": "IP 84.5",
+                            "time_stamp": "24.11.2007/07:07&nbsp;UTC"
                         },
                         {
                             "text_blocks": [
@@ -145,11 +205,19 @@
                                 "\n",
                                 "Au contraire, le nouveau plan pose clairement les questions que le lecteur peut se poser (o\u00f9 est-ce que je dois signer ? o\u00f9 est-ce que je ne dois pas le faire ?) et y r\u00e9pond tout naturellement. D'autre part, l'indentation du sommaire montre clairement qu'est-ce qui vient r\u00e9pondre \u00e0 quoi :\n",
                                 "\n",
-                                "On peut d'ailleurs reproduire cette indentation dans le texte aussi, \u00e7a ne serait pas du luxe. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n",
-                                "\n",
-                                ":Je vous laisse. J'ai lu en diagonale. Le ton de l'un de nous est (toujours aussi) insupportable pour moi. Je ne sais pas coop\u00e9rer dans ces conditions (probablement un handicap ...). Bonne continuation. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 13:31 (CET)\n"
+                                "On peut d'ailleurs reproduire cette indentation dans le texte aussi, \u00e7a ne serait pas du luxe. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n"
                             ],
                             "comments": [
+                                {
+                                    "text_blocks": [
+                                        "\n",
+                                        ":Je vous laisse. J'ai lu en diagonale. Le ton de l'un de nous est (toujours aussi) insupportable pour moi. Je ne sais pas coop\u00e9rer dans ces conditions (probablement un handicap ...). Bonne continuation. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 13:31 (CET)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "brunodesacacias",
+                                    "time_stamp": "24 novembre 2007 \u00e0 13:31 (CET)"
+                                },
                                 {
                                     "text_blocks": [
                                         "\n",
@@ -158,11 +226,12 @@
                                     "comments": [
                                         {
                                             "text_blocks": [
-                                                "::J'enl\u00e8ve aussi mes commentaires agressifs. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:09&nbsp;UTC/</tt>\n",
-                                                "\n"
+                                                "::J'enl\u00e8ve aussi mes commentaires agressifs. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:09&nbsp;UTC/</tt>\n"
                                             ],
                                             "comments": [],
-                                            "cosigners": []
+                                            "cosigners": [],
+                                            "author": "IP 84.5",
+                                            "time_stamp": "24.11.2007/13:09&nbsp;UTC"
                                         }
                                     ],
                                     "cosigners": [],
@@ -171,8 +240,15 @@
                                 }
                             ],
                             "cosigners": [],
-                            "author": "brunodesacacias",
-                            "time_stamp": "24 novembre 2007 \u00e0 13:31 (CET)"
+                            "author": "IP 84.5",
+                            "time_stamp": "24.11.2007/12:35&nbsp;UTC"
+                        },
+                        {
+                            "text_blocks": [
+                                "\n"
+                            ],
+                            "comments": [],
+                            "cosigners": []
                         }
                     ],
                     "heading": " Les avis "
@@ -213,24 +289,41 @@
                         "\n",
                         "\u00c0 propos de ce que dit Teofilo dans le r\u00e9sum\u00e9 de son diff :\n",
                         ":''Les techniques font partie des usages. C'est vraiment le plaisir de rallonger les phrases pour les rallonger !''\n",
-                        "Pour moi, les \u00ab usages \u00bb faisaient seulement r\u00e9f\u00e9rence \u00e0 ce qu'il faut / ne faut pas signer (discussions / articles), et la technique m'apparaissait sinc\u00e8rement disjointe des usages. Oui c'est un d\u00e9tail. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:08&nbsp;UTC/</tt>\n",
-                        ":\n",
-                        ":Je crois avoir trouv\u00e9 une formulation qui inclut le mot \"technique\", mais sans trop rallonger la phrase : \u00ab Cette page expose les techniques et les usages relatifs aux signatures sur Wikip\u00e9dia \u00bb. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:07 (CET)\n"
+                        "Pour moi, les \u00ab usages \u00bb faisaient seulement r\u00e9f\u00e9rence \u00e0 ce qu'il faut / ne faut pas signer (discussions / articles), et la technique m'apparaissait sinc\u00e8rement disjointe des usages. Oui c'est un d\u00e9tail. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:08&nbsp;UTC/</tt>\n"
                     ],
                     "comments": [
                         {
                             "text_blocks": [
-                                "::\n",
-                                "::OK, mais ce n'\u00e9tait pas un plaidoyer pour le remettre, j'expliquais juste que ce n'\u00e9tait pas pour le plaisir de faire de longues phrases. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:39&nbsp;UTC/</tt>\n",
-                                "\n"
+                                ":\n",
+                                ":Je crois avoir trouv\u00e9 une formulation qui inclut le mot \"technique\", mais sans trop rallonger la phrase : \u00ab Cette page expose les techniques et les usages relatifs aux signatures sur Wikip\u00e9dia \u00bb. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:07 (CET)\n"
                             ],
-                            "comments": [],
-                            "cosigners": []
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::\n",
+                                        "::OK, mais ce n'\u00e9tait pas un plaidoyer pour le remettre, j'expliquais juste que ce n'\u00e9tait pas pour le plaisir de faire de longues phrases. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:39&nbsp;UTC/</tt>\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "IP 84.5",
+                                    "time_stamp": "24.11.2007/14:39&nbsp;UTC"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Teofilo",
+                            "time_stamp": "24 novembre 2007 \u00e0 15:07 (CET)"
                         }
                     ],
                     "cosigners": [],
-                    "author": "Teofilo",
-                    "time_stamp": "24 novembre 2007 \u00e0 15:07 (CET)"
+                    "author": "IP 84.5",
+                    "time_stamp": "24.11.2007/13:08&nbsp;UTC"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
                 }
             ],
             "heading": " Usage / Technique "
@@ -252,50 +345,83 @@
                                 ":Tu as remis les tableaux d\u00e8s l'en-t\u00eate ? Quel int\u00e9r\u00eat ? Tu te perds en d\u00e9tails inutiles dans un r\u00e9sum\u00e9 (il faut utiliser 126 Ctrl Alt Gr N je-sais-pas-quoi) alors que tout \u00e7a, on peut y acc\u00e9der, de mani\u00e8re plus propre, en cliquant simplement sur le petit lien [+ d'info].\n",
                                 ":Le but de cette en-t\u00eate n'est-elle pas d'\u00eatre synth\u00e9tique ? La version que tu as remise l'est beaucoup moins que :\n",
                                 "::\u00ab En revanche, lorsque vous prenez part \u00e0 une '''discussion''', il est '''recommand\u00e9 de signer''' votre message en ins\u00e9rant 3 tildes (<code><nowiki>~~~</nowiki></code>) qui seront automatiquement remplac\u00e9s par votre nom d'utilisateur (ou votre adresse IP si vous n'\u00eates pas connect\u00e9) ; avec 4 tildes, la date du message est ajout\u00e9e. \u00bb.\n",
-                                ":<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:26&nbsp;UTC/</tt>\n",
-                                "::J'ajoute que les d\u00e9tails sur la mani\u00e8re d'obtenir le tilde, \u00e7a n'a rien \u00e0 voir avec Wikip\u00e9dia. Les pages d'aide de Wikip\u00e9dia n'ont pas vocation \u00e0 apprendre \u00e0 l'utilisateur \u00e0 se servir d'un ordinateur. Sinon, pourquoi pas une page d'aide sur la mani\u00e8re de se servir de son navigateur ?\n",
-                                "::Qu'on en parle, malgr\u00e9 tout, dans cette page d'aide, OK, mais certainement pas d\u00e8s les premi\u00e8res lignes, dans ce qui se veut une synth\u00e8se. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:28&nbsp;UTC/</tt>\n",
-                                ":::Enfin, tu parles d'un plan labyrinthique, mais il a \u00e9t\u00e9 grandement simplifi\u00e9 : il n'y a pas plus de deux niveaux, les points d'interrogation ont \u00e9t\u00e9 supprim\u00e9s, bref j'ai \u00e9cout\u00e9 ce que tu pr\u00e9conisais.\n",
-                                ":::Et quand bien m\u00eame ce plan fut-il labyrinthique, de toutes fa\u00e7ons, il suffit de cliquer sur le lien [+ d'info] pour acc\u00e9der directement \u00e0 l'info recherch\u00e9e. Pas besoin de chercher, de lire des \u00ab explications ampoul\u00e9es \u00bb, non, il suffit juste de cliquer... et toutes les informations anecdotiques que tu tiens \u00e0 tous prix \u00e0 faire figurer d\u00e8s le r\u00e9sum\u00e9 introductif sont disponibles imm\u00e9diatement.\n",
-                                ":::Non, vraiment, je ne te comprends pas. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:34&nbsp;UTC/</tt>\n",
-                                "::::\n",
-                                "::::Le terme \"tilde\" est dans le dictionnaire, mais le glyphe est inutilis\u00e9, \u00e0 part dans les math\u00e9matiques de haut niveau, et le terme \"ca\u00f1on\" qui est une exception.\n",
-                                ":::\n",
-                                "::::La Wikip\u00e9dia que tu construis n'est accessible qu'aux \"computer litterati\". Je pense pour ma part que Wikip\u00e9dia doit \u00eatre accessible \u00e0 tous. Et si Wikip\u00e9dia n'a pas \u00e0 parler de la mani\u00e8re d'obtenir un tilde au clavier, cela n'a rien \u00e0 faire non plus dans le corps de l'article. \n",
-                                ":::\n",
-                                "::::J'ai peur \u00e9galement que nous soyons en d\u00e9saccord sur ce que tu entends par \"synth\u00e9tique\". Pour moi l'en-t\u00eate ne doit pas \u00eatre une introduction qui donne envie d'aller lire la suite, mais au contraire un expos\u00e9 minimaliste qui permet justement de ne pas \u00eatre oblig\u00e9 de consulter la suite. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                                ":<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:26&nbsp;UTC/</tt>\n"
                             ],
                             "comments": [
                                 {
                                     "text_blocks": [
-                                        ":::\n",
-                                        "::::La page \"Aide:Signature\" est la page qu'on donne en lien quand on explique \u00e0 un nouveau qui n'a pas sign\u00e9 qu'il est pr\u00e9f\u00e9rable de signer. Si la page est un roman, alors le conseil \"tu devrais lire [[Aide:Signature]]\" est une punition. Ce n'est donc pas moi qui suis agressif, mais bien les personnes qui transforment la page en punition. Je d\u00e9fends ici les nouveaux et [[Wikip\u00e9dia:Ne mordez pas les nouveaux]]. On va se retrouver dans la situation o\u00f9 la bonne fa\u00e7on d'expliquer \u00e0 un nouveau comment signer est de lui \u00e9crire soi-m\u00eame quelques lignes sur sa page de discussion et surtout pas de lui donner un lien vers le monstre [[Aide:Signature]]. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                                        "::J'ajoute que les d\u00e9tails sur la mani\u00e8re d'obtenir le tilde, \u00e7a n'a rien \u00e0 voir avec Wikip\u00e9dia. Les pages d'aide de Wikip\u00e9dia n'ont pas vocation \u00e0 apprendre \u00e0 l'utilisateur \u00e0 se servir d'un ordinateur. Sinon, pourquoi pas une page d'aide sur la mani\u00e8re de se servir de son navigateur ?\n",
+                                        "::Qu'on en parle, malgr\u00e9 tout, dans cette page d'aide, OK, mais certainement pas d\u00e8s les premi\u00e8res lignes, dans ce qui se veut une synth\u00e8se. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:28&nbsp;UTC/</tt>\n"
                                     ],
                                     "comments": [
                                         {
                                             "text_blocks": [
-                                                ":::::Tu exag\u00e8res. Ne pas expliquer, d\u00e8s les premi\u00e8res lignes d'une page d'aide '''sur Wikip\u00e9dia''', comment se servir d'un ordinateur, ce n'est pas mordre les nouveaux (d'autant que l'explication \u00e9tait \u00e0 un clic de distance).\n",
-                                                ":::::D'autre part, ''Ce n'est donc pas moi qui suis agressif'' : quand tu arrives en disant que c'est un \u00e9norme texte indigeste (alors que peu de modifications avaient \u00e9t\u00e9 faites, la version pr\u00e9c\u00e9dente \u00e9tait tout aussi indigeste selon ton point de vue, mais \u00e7a n'avait pas l'air de te g\u00eaner jusqu'\u00e0 pr\u00e9sent), ce n'est pas un exemple d'esprit convivial.\n",
-                                                ":::::Ceci dit je me suis rang\u00e9 \u00e0 tes arguments, et j'ai remis une version proche de celle que tu souhaitais. J'esp\u00e8re que \u00e7a te conviendra et qu'on pourra passer \u00e0 autre chose. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:19&nbsp;UTC/</tt>\n",
-                                                "\n"
+                                                ":::Enfin, tu parles d'un plan labyrinthique, mais il a \u00e9t\u00e9 grandement simplifi\u00e9 : il n'y a pas plus de deux niveaux, les points d'interrogation ont \u00e9t\u00e9 supprim\u00e9s, bref j'ai \u00e9cout\u00e9 ce que tu pr\u00e9conisais.\n",
+                                                ":::Et quand bien m\u00eame ce plan fut-il labyrinthique, de toutes fa\u00e7ons, il suffit de cliquer sur le lien [+ d'info] pour acc\u00e9der directement \u00e0 l'info recherch\u00e9e. Pas besoin de chercher, de lire des \u00ab explications ampoul\u00e9es \u00bb, non, il suffit juste de cliquer... et toutes les informations anecdotiques que tu tiens \u00e0 tous prix \u00e0 faire figurer d\u00e8s le r\u00e9sum\u00e9 introductif sont disponibles imm\u00e9diatement.\n",
+                                                ":::Non, vraiment, je ne te comprends pas. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:34&nbsp;UTC/</tt>\n"
                                             ],
                                             "comments": [],
-                                            "cosigners": []
+                                            "cosigners": [],
+                                            "author": "IP 84.5",
+                                            "time_stamp": "24.11.2007/14:34&nbsp;UTC"
+                                        },
+                                        {
+                                            "text_blocks": [
+                                                "::::\n",
+                                                "::::Le terme \"tilde\" est dans le dictionnaire, mais le glyphe est inutilis\u00e9, \u00e0 part dans les math\u00e9matiques de haut niveau, et le terme \"ca\u00f1on\" qui est une exception.\n",
+                                                ":::\n",
+                                                "::::La Wikip\u00e9dia que tu construis n'est accessible qu'aux \"computer litterati\". Je pense pour ma part que Wikip\u00e9dia doit \u00eatre accessible \u00e0 tous. Et si Wikip\u00e9dia n'a pas \u00e0 parler de la mani\u00e8re d'obtenir un tilde au clavier, cela n'a rien \u00e0 faire non plus dans le corps de l'article. \n",
+                                                ":::\n",
+                                                "::::J'ai peur \u00e9galement que nous soyons en d\u00e9saccord sur ce que tu entends par \"synth\u00e9tique\". Pour moi l'en-t\u00eate ne doit pas \u00eatre une introduction qui donne envie d'aller lire la suite, mais au contraire un expos\u00e9 minimaliste qui permet justement de ne pas \u00eatre oblig\u00e9 de consulter la suite. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": [],
+                                            "author": "Teofilo",
+                                            "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
+                                        },
+                                        {
+                                            "text_blocks": [
+                                                ":::\n",
+                                                "::::La page \"Aide:Signature\" est la page qu'on donne en lien quand on explique \u00e0 un nouveau qui n'a pas sign\u00e9 qu'il est pr\u00e9f\u00e9rable de signer. Si la page est un roman, alors le conseil \"tu devrais lire [[Aide:Signature]]\" est une punition. Ce n'est donc pas moi qui suis agressif, mais bien les personnes qui transforment la page en punition. Je d\u00e9fends ici les nouveaux et [[Wikip\u00e9dia:Ne mordez pas les nouveaux]]. On va se retrouver dans la situation o\u00f9 la bonne fa\u00e7on d'expliquer \u00e0 un nouveau comment signer est de lui \u00e9crire soi-m\u00eame quelques lignes sur sa page de discussion et surtout pas de lui donner un lien vers le monstre [[Aide:Signature]]. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        ":::::Tu exag\u00e8res. Ne pas expliquer, d\u00e8s les premi\u00e8res lignes d'une page d'aide '''sur Wikip\u00e9dia''', comment se servir d'un ordinateur, ce n'est pas mordre les nouveaux (d'autant que l'explication \u00e9tait \u00e0 un clic de distance).\n",
+                                                        ":::::D'autre part, ''Ce n'est donc pas moi qui suis agressif'' : quand tu arrives en disant que c'est un \u00e9norme texte indigeste (alors que peu de modifications avaient \u00e9t\u00e9 faites, la version pr\u00e9c\u00e9dente \u00e9tait tout aussi indigeste selon ton point de vue, mais \u00e7a n'avait pas l'air de te g\u00eaner jusqu'\u00e0 pr\u00e9sent), ce n'est pas un exemple d'esprit convivial.\n",
+                                                        ":::::Ceci dit je me suis rang\u00e9 \u00e0 tes arguments, et j'ai remis une version proche de celle que tu souhaitais. J'esp\u00e8re que \u00e7a te conviendra et qu'on pourra passer \u00e0 autre chose. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:19&nbsp;UTC/</tt>\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "IP 84.5",
+                                                    "time_stamp": "24.11.2007/18:19&nbsp;UTC"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "Teofilo",
+                                            "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
                                         }
                                     ],
                                     "cosigners": [],
-                                    "author": "Teofilo",
-                                    "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
+                                    "author": "IP 84.5",
+                                    "time_stamp": "24.11.2007/14:28&nbsp;UTC"
                                 }
                             ],
                             "cosigners": [],
-                            "author": "Teofilo",
-                            "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
+                            "author": "IP 84.5",
+                            "time_stamp": "24.11.2007/14:26&nbsp;UTC"
                         }
                     ],
                     "cosigners": [],
                     "author": "Teofilo",
                     "time_stamp": "24 novembre 2007 \u00e0 15:12 (CET)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
                 }
             ],
             "heading": " Encore un peu de psychologie de bazar "
@@ -315,13 +441,22 @@
                         {
                             "text_blocks": [
                                 ":\n",
-                                ":Je suis revenu \u00e0 une version assez proche de ce que tu souhaitais, j'esp\u00e8re que \u00e7a te conviendra et qu'on pourra revenir \u00e0 la situation ant\u00e9rieure sur {{m|non sign\u00e9}}, et transformer [[Aide:Signature/r\u00e9sum\u00e9]] en redirect (ou, si tu le pr\u00e9f\u00e8res, transf\u00e9rer le contenu du cadre vers cette sous-page, et inclure cette derni\u00e8re dans la page principale). <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:15&nbsp;UTC/</tt>\n",
-                                ":: Moi, j'aime bien 1/ En prise direct sur l'essentiel gr\u00e2ce au r\u00e9sum\u00e9 2/ Compl\u00e9t\u00e9 par l'expos\u00e9 des d\u00e9tails quand on a besoin ... des d\u00e9tails. Merci. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 22:34 (CET)\n"
+                                ":Je suis revenu \u00e0 une version assez proche de ce que tu souhaitais, j'esp\u00e8re que \u00e7a te conviendra et qu'on pourra revenir \u00e0 la situation ant\u00e9rieure sur {{m|non sign\u00e9}}, et transformer [[Aide:Signature/r\u00e9sum\u00e9]] en redirect (ou, si tu le pr\u00e9f\u00e8res, transf\u00e9rer le contenu du cadre vers cette sous-page, et inclure cette derni\u00e8re dans la page principale). <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:15&nbsp;UTC/</tt>\n"
                             ],
-                            "comments": [],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        ":: Moi, j'aime bien 1/ En prise direct sur l'essentiel gr\u00e2ce au r\u00e9sum\u00e9 2/ Compl\u00e9t\u00e9 par l'expos\u00e9 des d\u00e9tails quand on a besoin ... des d\u00e9tails. Merci. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 22:34 (CET)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "brunodesacacias",
+                                    "time_stamp": "24 novembre 2007 \u00e0 22:34 (CET)"
+                                }
+                            ],
                             "cosigners": [],
-                            "author": "brunodesacacias",
-                            "time_stamp": "24 novembre 2007 \u00e0 22:34 (CET)"
+                            "author": "IP 84.5",
+                            "time_stamp": "24.11.2007/18:15&nbsp;UTC"
                         }
                     ],
                     "cosigners": [],
@@ -379,50 +514,59 @@
                         "#. ''If you are using the edit toolbar option (it usually appears above the edit screen as a default[1]), click the signature icon [[Image:Signature_icon.png]] to add the four tildes.''''\n",
                         "\n",
                         "Des objections ? [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]]\n",
-                        ":Peut-\u00eatre peut-on faire ce que tu proposes dans le r\u00e9sum\u00e9 qui appara\u00eet en t\u00eate de la page, et d\u00e9tailler un peu plus loin toutes les m\u00e9thodes possibles, mais sans les mettre en valeur. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/15.01.2008/10:56&nbsp;UTC/</tt>\n",
-                        ":: Aucune objection de ma part. Je rappellerais que signer sans date un document destin\u00e9 \u00e0 un public est contraire aux r\u00e8gles \u00e9l\u00e9mentaires de la vie en soci\u00e9t\u00e9, ici comme ailleurs. Je me permettrais m\u00eame de conseiller, par exemple de toujours signer et dater un message laiss\u00e9 \u00e0 son patron ou \u00e0 son voisin de pallier ... pour \u00e9viter les ennuis. S'il y avait \u00e0 ajouter un point d'aide \u00e0 l'usage de la signature pour \u00e9viter des signatures non dat\u00e9es, ce serait d'ajouter cette remarque au descriptif de la technique de signature sans date. Du style, \u00ab Par courtoisie pour les lecteurs et pour leur faciliter la lecture chronologique des commentaires, chacun est invit\u00e9 \u00e0 dater les propos qu'il signe. Le recours de la technique de signature sans date est donc \u00e0 \u00e9viter. \u00bb Si on ne pouvait signer sans date qu'en for\u00e7ant la signature, je serais enchant\u00e9. Pour ma part, ma position est plus radicale. Je ne vois pas l'int\u00e9r\u00eat de signer sans le dater un commentaire dans un environnement aussi mobile que celui de Wikip\u00e9dia. Ici, un commentaire n'a de valeur qu'\u00e0 un instant bien pr\u00e9cis, \u00e0 la minute pr\u00e8s parfois. Bref, pour moi, les contributeurs qui signent sans dater sont des maladroits impolis qui devraient s'abstenir de poster des commentaires ou bien apprendre \u00e0 bien signer. Sign\u00e9 par moi ce jour mardi 15 janvier : --[[Utilisateur:brunodesacacias|Bruno des acacias]] 15 janvier 2008 \u00e0 13:40 (CET)\n"
+                        ":Peut-\u00eatre peut-on faire ce que tu proposes dans le r\u00e9sum\u00e9 qui appara\u00eet en t\u00eate de la page, et d\u00e9tailler un peu plus loin toutes les m\u00e9thodes possibles, mais sans les mettre en valeur. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/15.01.2008/10:56&nbsp;UTC/</tt>\n"
                     ],
                     "comments": [
                         {
                             "text_blocks": [
-                                ":::Oh je suis presque aussi radical que toi !\n",
-                                ":::Il y a pourtant des faits qui interrogent, notamment qu'[[user:Anthere|Anthere]], que je ne te pr\u00e9sente pas, ne date que par inadvertance? ses messages, peut-\u00eatre un vestige ou m\u00e9lancolie du temps o\u00f9 les signatures \u00e9taient sans date (2002-2003). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 13:56 (CET)\n"
+                                ":: Aucune objection de ma part. Je rappellerais que signer sans date un document destin\u00e9 \u00e0 un public est contraire aux r\u00e8gles \u00e9l\u00e9mentaires de la vie en soci\u00e9t\u00e9, ici comme ailleurs. Je me permettrais m\u00eame de conseiller, par exemple de toujours signer et dater un message laiss\u00e9 \u00e0 son patron ou \u00e0 son voisin de pallier ... pour \u00e9viter les ennuis. S'il y avait \u00e0 ajouter un point d'aide \u00e0 l'usage de la signature pour \u00e9viter des signatures non dat\u00e9es, ce serait d'ajouter cette remarque au descriptif de la technique de signature sans date. Du style, \u00ab Par courtoisie pour les lecteurs et pour leur faciliter la lecture chronologique des commentaires, chacun est invit\u00e9 \u00e0 dater les propos qu'il signe. Le recours de la technique de signature sans date est donc \u00e0 \u00e9viter. \u00bb Si on ne pouvait signer sans date qu'en for\u00e7ant la signature, je serais enchant\u00e9. Pour ma part, ma position est plus radicale. Je ne vois pas l'int\u00e9r\u00eat de signer sans le dater un commentaire dans un environnement aussi mobile que celui de Wikip\u00e9dia. Ici, un commentaire n'a de valeur qu'\u00e0 un instant bien pr\u00e9cis, \u00e0 la minute pr\u00e8s parfois. Bref, pour moi, les contributeurs qui signent sans dater sont des maladroits impolis qui devraient s'abstenir de poster des commentaires ou bien apprendre \u00e0 bien signer. Sign\u00e9 par moi ce jour mardi 15 janvier : --[[Utilisateur:brunodesacacias|Bruno des acacias]] 15 janvier 2008 \u00e0 13:40 (CET)\n"
                             ],
                             "comments": [
                                 {
                                     "text_blocks": [
-                                        ":::: Enti\u00e8rement d'accord pour toujours avoir la date [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) oups, excusez [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) 15 janvier 2008 \u00e0 17:25 (CET)  En en passant, pour moi qui suis un nord-am\u00e9ricain, que signifie le sigle (CET)?\n"
+                                        ":::Oh je suis presque aussi radical que toi !\n",
+                                        ":::Il y a pourtant des faits qui interrogent, notamment qu'[[user:Anthere|Anthere]], que je ne te pr\u00e9sente pas, ne date que par inadvertance? ses messages, peut-\u00eatre un vestige ou m\u00e9lancolie du temps o\u00f9 les signatures \u00e9taient sans date (2002-2003). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 13:56 (CET)\n"
                                     ],
                                     "comments": [
                                         {
                                             "text_blocks": [
-                                                ":::::Merci de cette approbation.\n",
-                                                ":::::Question sigle ; on n'est pas plus avanc\u00e9 ici. J'ai vaguement su le sens, mais \u00e7a n'avait aucun int\u00e9r\u00eat (d'ailleurs pourquoi l'indique-t-on ?). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:19 (CET)\n"
+                                                ":::: Enti\u00e8rement d'accord pour toujours avoir la date [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) oups, excusez [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) 15 janvier 2008 \u00e0 17:25 (CET)  En en passant, pour moi qui suis un nord-am\u00e9ricain, que signifie le sigle (CET)?\n"
                                             ],
                                             "comments": [
                                                 {
                                                     "text_blocks": [
-                                                        "::::::Dans [[CET]] il est indiqu\u00e9 [[Central European Time]], terme [[anglais]] signifiant '''[[heure d'Europe centrale]]''' ;[[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:21 (CET)\n"
+                                                        ":::::Merci de cette approbation.\n",
+                                                        ":::::Question sigle ; on n'est pas plus avanc\u00e9 ici. J'ai vaguement su le sens, mais \u00e7a n'avait aucun int\u00e9r\u00eat (d'ailleurs pourquoi l'indique-t-on ?). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:19 (CET)\n"
                                                     ],
-                                                    "comments": [],
+                                                    "comments": [
+                                                        {
+                                                            "text_blocks": [
+                                                                "::::::Dans [[CET]] il est indiqu\u00e9 [[Central European Time]], terme [[anglais]] signifiant '''[[heure d'Europe centrale]]''' ;[[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:21 (CET)\n"
+                                                            ],
+                                                            "comments": [],
+                                                            "cosigners": [],
+                                                            "author": "TigH",
+                                                            "time_stamp": "15 janvier 2008 \u00e0 18:21 (CET)"
+                                                        }
+                                                    ],
                                                     "cosigners": [],
                                                     "author": "TigH",
-                                                    "time_stamp": "15 janvier 2008 \u00e0 18:21 (CET)"
+                                                    "time_stamp": "15 janvier 2008 \u00e0 18:19 (CET)"
                                                 }
                                             ],
                                             "cosigners": [],
-                                            "author": "TigH",
-                                            "time_stamp": "15 janvier 2008 \u00e0 18:19 (CET)"
+                                            "author": "Dhatier",
+                                            "time_stamp": "15 janvier 2008 \u00e0 17:25 (CET)"
                                         }
                                     ],
                                     "cosigners": [],
-                                    "author": "Dhatier",
-                                    "time_stamp": "15 janvier 2008 \u00e0 17:25 (CET)"
+                                    "author": "TigH",
+                                    "time_stamp": "15 janvier 2008 \u00e0 13:56 (CET)"
                                 }
                             ],
                             "cosigners": [],
-                            "author": "TigH",
-                            "time_stamp": "15 janvier 2008 \u00e0 13:56 (CET)"
+                            "author": "brunodesacacias",
+                            "time_stamp": "15 janvier 2008 \u00e0 13:40 (CET)"
                         },
                         {
                             "text_blocks": [
@@ -485,8 +629,8 @@
                         }
                     ],
                     "cosigners": [],
-                    "author": "brunodesacacias",
-                    "time_stamp": "15 janvier 2008 \u00e0 13:40 (CET)"
+                    "author": "IP 84.5",
+                    "time_stamp": "15.01.2008/10:56&nbsp;UTC"
                 },
                 {
                     "text_blocks": [
@@ -516,12 +660,21 @@
                                     "text_blocks": [
                                         "::Bah non, comme je l'explique juste en haut, lorsque j'essaille de cocher ''signature brute'', ca m'indique ''Signature brute incorrecte ; V\u00e9rifiez vos balises HTML.''... C'est pas normal, tout ca... F\u00e9lixggenest\n",
                                         ":::\n",
-                                        ":::Je pense que c'est du \u00e0 ta mani\u00e8re d'\u00e9crire les couleurs. Remplace les deux <code><nowiki><font color=000000></nowiki></code> par <code><nowiki><font color=\"#000000\"></nowiki></code>, et  <code><nowiki><font color=259952></nowiki></code> par <code><nowiki><font color=\"#259952\"></nowiki></code>. J'ai fait le test, \u00e7a devrait fonctionner. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/12.02.2008/15:07&nbsp;UTC/</tt>\n",
-                                        ":::: Allez voir sur[http://fr.wikipedia.org/wiki/Discussion_Utilisateur:Felixggenest#I_need_somebody_help... ma page de discussion], moi je suis d\u00e9sesp\u00e9r\u00e9... F\u00e9lix GG\n",
-                                        "\n"
+                                        ":::Je pense que c'est du \u00e0 ta mani\u00e8re d'\u00e9crire les couleurs. Remplace les deux <code><nowiki><font color=000000></nowiki></code> par <code><nowiki><font color=\"#000000\"></nowiki></code>, et  <code><nowiki><font color=259952></nowiki></code> par <code><nowiki><font color=\"#259952\"></nowiki></code>. J'ai fait le test, \u00e7a devrait fonctionner. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/12.02.2008/15:07&nbsp;UTC/</tt>\n"
                                     ],
-                                    "comments": [],
-                                    "cosigners": []
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::: Allez voir sur[http://fr.wikipedia.org/wiki/Discussion_Utilisateur:Felixggenest#I_need_somebody_help... ma page de discussion], moi je suis d\u00e9sesp\u00e9r\u00e9... F\u00e9lix GG\n",
+                                                "\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": []
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "IP 84.5",
+                                    "time_stamp": "12.02.2008/15:07&nbsp;UTC"
                                 }
                             ],
                             "cosigners": [],
