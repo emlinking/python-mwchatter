@@ -40,26 +40,30 @@ _TIMESTAMP_RE_6 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-[0-9]{1,2}\)"
 
 ## German timestamp formats
 # 10:34, 19. Jan. 2025 (CET)
-# 20:03, 5. Sep. 2021 (CEST)
+# 10. Februar 2009 (CET)
 _TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
 _TIMESTAMP_RE_8 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CEST\)"
+_TIMESTAMP_RE_9 = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} \(CET\)"
+_TIMESTAMP_RE_10 = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} \(CEST\)"
 
 ## French timestamp formats
 # 18 octobre 2006 à 15:58 (CEST)
 # 24 novembre 2007 à 00:49 (CET)
 # 23.11.2007/19:54&nbsp;UTC, 24.11.2007/06:55&nbsp;UTC
-_TIMESTAMP_RE_9 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CEST\)"
-_TIMESTAMP_RE_10 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CET\)"
-_TIMESTAMP_RE_11 = r"[0-9]{1,2}\.[0-9]{2}\.[0-9]{4}\/[0-9]{2}:[0-9]{2}\&nbsp\;UTC"
+# 24 novembre 2007 à 06:38 UTC
+_TIMESTAMP_RE_11 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CEST\)"
+_TIMESTAMP_RE_12 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CET\)"
+_TIMESTAMP_RE_13 = r"[0-9]{1,2}\.[0-9]{2}\.[0-9]{4}\/[0-9]{2}:[0-9]{2}\&nbsp\;UTC"
+_TIMESTAMP_RE_14 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} UTC"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, _TIMESTAMP_RE_10, _TIMESTAMP_RE_11]
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
 # Spanish: [[Usuario:Elvisor|Elvisor]], [[Usuario:Leo3487]]
-# German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]]
-# French: [[Utilisateur:Jean Durand|Jean Durand]]
+# German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
+# French: [[Utilisateur:Jean Durand|Jean Durand]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
 USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 # English and Chinese user talk page link format (same)

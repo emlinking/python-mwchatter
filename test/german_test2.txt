@@ -1,0 +1,48 @@
+== AFS und NAT ==
+
+Worin genau bestehen die "Probleme mit NAT-Routern"? Solange nur der Client hinter einem solchen ist, geht es meiner Erfahrung nach meist gut. Es gibt natürlich ausnehmend dumme Router, die die Callbacks nicht als der ursprünglichen Session zugehörig erkennen, aber das Problem ist nicht so weit verbreitet. Die Server können natürlich nicht hinter einem NAT sein.{{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
+
+: NAT-Router, die den AFS-CallbackPort 7001 auf einen anderen umschreiben, hatten Probleme, da einige AFS-Server den Port 7001 erwarteten. (deshalb schreiben einige NAT-Router (z.b.: Linksys, Buffalo) den Port nicht um.) --[[Benutzer:Urxn|Urxn]] 16:10, 14. Dez. 2010 (CET)
+
+== Verfügbarkeit von AFS-Implementation für ältere Kernel-Versionen ==
+
+Wer Information darüber hat, was die letzte Version z.B. von OpenAFS, Arla oder MR-AFS war, die unter Kernel 2.4 bzw. 2.2 lief, der möge das doch bitte in die Tabelle eintragen. Von besonderen Interesse ist natürlich, wenn jemand weiss, ob die brandaktuellen Releases der diversen AFS-Implementationen noch auf Kernel 2.4 bzw. 2.2 laufen.
+
+== Aufwand für normale Benutzer ==
+
+"Der Aufwand für Nutzer sollte nicht unterschätzt werden - die pro-Verzeichnis-ACLs sind ungewohnt und ACLs allgemein sind ein Konzept, dass vor allem in der Unix-Welt erst langsam Bedeutung gewinnt."
+Gibt es dazu irgendwelche durchgeführten Analysen?
+
+:Mir sind keine bekannt. Aus eigener Erfahrung ist das größte Problem, dass Nutzer falsches über die Sicherheit annehmen, weil die Permission-Bits Unsinn anzeigen. Dass auch bei rwxrwxrwx niemand Zugriff auf seine kritischen Daten hat (schliesslich entscheidet die ACL), muss man jedem Nutzer erstmal erklären. Frag einfach mal auf der AFS-Mailingliste nach - die findet man unter Http://www.openafs.org [[Benutzer:Fbo]] .
+
+==Skaliert gut? ==
+Was heißt "skaliert gut" ?<small>(''Der vorstehende, {{{ALT|nicht}}} [[Hilfe:Signatur|signierte]] Beitrag stammt von'' [[Benutzer:85.179.57.19|85.179.57.19]] ([[Benutzer Diskussion:85.179.57.19|Diskussion]] • [[Spezial:Beiträge/85.179.57.19|Beiträge]]) 23:21, 15. Sep 2007) [[Benutzer:Codeispoetry|Code]]·[[Benutzer:Codeispoetry/Kritik|Eis]]·[[Benutzer Diskussion:Codeispoetry|Poesie]] 23:26, 15. Sep. 2007 (CEST)</small>
+
+:Siehe [[Skalierbarkeit]]. Ich verlinke es. Gruß, [[Benutzer:Codeispoetry|Code]]·[[Benutzer:Codeispoetry/Kritik|Eis]]·[[Benutzer Diskussion:Codeispoetry|Poesie]] 23:26, 15. Sep. 2007 (CEST)
+
+== OpenAFS Unterstützung für BSDs ==
+
+Ausmisten von unterstützten Plattformen, nur noch Auflistung von relevanten & geplegten Versionen. 
+
+D.h. :
+
+- FreeBSD 5.* und 6.* wird nicht mehr aktiv geplegt - neue Linie 7.* und 8
+
+- NetBSD 4.* und 5 ist aktuell(keine funktionierende OpenAFS Unterstützung)
+
+- bei OpenBSD maximal 2 Jahre zurückgehen, d.h. akt. 4.6 - 4.2, 4.4 OpenAFS experimentielle Unterstützung
+
+Quelle: 
+
+http://www.dia.uniroma3.it/~afscon09/docs/benjamin.pdf
+
+:: OpenBSD 4.8 ist aktuell. OpenBSD wird mit arla distribuiert <small>(siehe: http://www.openbsd.org/48.html)</small> und OpenAFS wird mittles Ports-system verteilt <small>(siehe: http://openports.se/net/openafs)</small> --[[Benutzer:Urxn|Urxn]] 18:21, 29. Nov. 2010 (CET)
+
+http://www.netbsd.org/contrib/soc-projects.html#openafs_client <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Benutzer:91.43.93.109|91.43.93.109]] ([[Benutzer Diskussion:91.43.93.109|Diskussion]]&nbsp;|&nbsp;[[Spezial:Beiträge/91.43.93.109|Beiträge]]) 23:39, 11. Dez. 2009 (CET)) </small>
+
+== Überarbeiten ==
+Die Artikelstruktur erinnert mehr an ein Howto oder Foreneintrag, die gemachten Behauptungen sind [[WP:Q|unbelegt]], bei der Formatierung ist sicherlich auch jemandem die Tinte übers Blatt gelaufen, so viel dicke schwarze Flecken findet man darin. [[WP:OMA|Oma]] ist auch total unglücklich. Also bitte, [[WP:WSIGA]] lesen und einmal vollständig überarbeiten. --[[Benutzer:Trac3R|Trac3R]] 16:43, 30. Sep. 2010 (CEST)
+
+== NFS ==
+
+Die Authentifikation erfolgt bei NFS mit Kerberos sehr wohl auf dem Server. Der ganze Artikel hat ein unterirdisches Niveau.
