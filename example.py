@@ -11,6 +11,6 @@ for f_path in talk_files:
     with open(f_path, "r") as f:
         text = f.read()
         parsed = wc.parse(text)
-        
+
         with open(f_path.replace(".txt", ".json"), "w") as json_file:
-            json.dump(parsed, json_file, indent=4)
+            json.dump(parsed, json_file)

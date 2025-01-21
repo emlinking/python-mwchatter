@@ -22,7 +22,7 @@ def main():
             outpath = os.path.join(tf.replace(".txt", ".json"))
 
             with open(outpath, "w") as f:
-                json.dump(parse, f, indent=4)
+                json.dump(parse, f)
 
             print(tf, url, outpath)
 
