@@ -19,7 +19,7 @@ def main():
 
             parse = wc.parse(test_text)
 
-            outpath = os.path.join("test/", tf.replace(".txt", ""), ".json")
+            outpath = os.path.join(tf.replace(".txt", ".json"))
 
             with open(outpath, "w") as f:
                 json.dump(parse, f)
