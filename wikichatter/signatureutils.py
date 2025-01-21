@@ -34,15 +34,17 @@ _TIMESTAMP_RE_4 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UT
 
 ## Spanish timestamp formats
 # 23:48 23 sep 2012 (UTC)
+# 22:54 mar 2022 (UTC-3)
 _TIMESTAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
+_TIMESTAMP_RE_6 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-3\)"
 
-## German timetsamp formats
+## German timestamp formats
 # 10:34, 19. Jan. 2025 (CET)
 # 20:03, 5. Sep. 2021 (CEST)
-_TIMESTAMP_RE_6 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
-_TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CEST\)"
+_TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
+_TIMESTAMP_RE_8 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CEST\)"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7]
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
