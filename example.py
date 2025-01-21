@@ -8,6 +8,9 @@ for (name, directories, files) in os.walk(talk_samples_base):
     talk_files.extend([name + "/" + f for f in files])
 
 for f_path in talk_files:
+    if f_path.endswith(".json"):
+        continue
+    
     with open(f_path, "r") as f:
         text = f.read()
         parsed = wc.parse(text)
