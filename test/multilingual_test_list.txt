@@ -1,4 +1,5 @@
 spanish_test1.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Toxicofera&oldid=107968521
 spanish_test2.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Lanius_somalicus&oldid=85705136
 spanish_test3.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Crisis_presidencial_de_Venezuela&oldid=159985224
+german_test1.txt, https://de.wikipedia.org/w/index.php?title=Hilfe_Diskussion:Signatur&oldid=251771131
 chinese_test1.txt, https://zh.wikipedia.org/w/index.php?title=User_talk:Brooke_Vibber&oldid=80845354

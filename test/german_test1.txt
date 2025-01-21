@@ -1,0 +1,77 @@
+{{Shortcut}}
+{{Diskussionsseite}}
+{{Autoarchiv|Alter=1000|Frequenz=monatlich|Zeigen=nein|Ziel='Hilfe Diskussion:Signatur/Archiv/2'|Mindestbeiträge=1|Mindestabschnitte=5}}
+{{Autoarchiv|Alter=180|Frequenz=monatlich|Ziel='Hilfe Diskussion:Signatur/Archiv/2'|Mindestbeiträge=2|Mindestabschnitte=5}}
+{{Archivübersicht|
+* [[/Archiv/1|2002 bis 2012]]
+* [[/Archiv/2|ab 2013]]
+}}
+
+== Automatische Signatur? ==
+
+Ich möchte nicht arrogant erscheinen, aber wieso setzt Wikipedia bei eingeloggten Usern die Signatur nicht automatisch? Mir ist nicht klar, wo der Mehrwert oder gar die Notwendigkeit besteht, die Buchstabenfolge aus Bindestrichen und Tilden manuell zu setzen?
+
+:{{ping|Oliverhe}}: Dein Wusch wurde schon erfüllt. Aktiviere doch bitte in den [[Spezial:Einstellungen#mw-prefsection-betafeatures|Benutzereinstellungen die Betafunktion]] „Diskussions-Werkzeuge“. Dann musst du nicht mehr von Hand signieren. Auch wird das Erstellen von Antworten einfacher, ohne dass du mit Doppelpunkten Einrückungen vornehmen musst. [[Benutzer:Raymond|Raymond]] [[Benutzer Diskussion:Raymond|<sup>Disk.</sup>]] 20:00, 5. Sep. 2021 (CEST)
+Es beantwortet zwar nicht meine Frage, aber Danke dir Raymond für den Hinweis. Werde es einstellen. --[[Benutzer:Oliverhe|Oliver Henning]] ([[Benutzer Diskussion:Oliverhe|Diskussion]]) 20:03, 5. Sep. 2021 (CEST)
+
+Das habe ich mich auch schon öfters gefragt. Soll durch den Verzicht auf eine technisch erzwungene Signatur gewährleistet werden, dass Diskussionsbeiträge in begründeten Fällen auch komplett anonym verfasst werden können (anonym zumindest ggü. anderen Nicht-Admin-Usern)? --[[Benutzer:Anorax|Anorax]] ([[Benutzer Diskussion:Anorax|Diskussion]]) 18:22, 22. Feb. 2023 (CET)
+
+:Wobei, ist ja Quatsch. Wäre ja anhand der Versionsgeschichte immer noch nachvollziehbar. Also, warum dann nicht einfach die Signatur erzwingen? --[[Benutzer:Anorax|Anorax]] ([[Benutzer Diskussion:Anorax|Diskussion]]) 18:25, 22. Feb. 2023 (CET)
+
+== Bilder in der Signatur ==
+
+Lese ich den betreffenden Absatz richtig, dass Bilder in der Signatur nicht explizit verboten sind? Ansonsten müsste der untere Satz "in den größeren Schwesterprojekten (im '''Gegensatz''' zur deutschen Wikipedia) [...] [sind] Bilder in Signaturen ausdrücklich untersagt" nämlich mal abgeändert werden. --[[Benutzer:Dodowp|Dodowp]] ([[Benutzer Diskussion:Dodowp|Diskussion]]) 00:29, 27. Dez. 2022 (CET)
+: Man kann hier niemandem etwas verbieten, es gab mal ein →[[Wikipedia:Meinungsbilder/Gestaltung von Signaturen#Auswertung|Meinungsbild]] mit dem Ergebnis, dass 65 % der Benutzer es ablehnten Bilder in der Signatur zu verwenden, es gibt aber immer Leute, die das nicht interessiert. Zudem gelte das nicht offiziell, weil 65 % sei eben nicht die Meinung von 2/3 der Befragten. Es sollte vermieden werden, auch um die Dateibeschreibungsseiten nicht zu vermüllen, aber auch das interessiert diese Leute nicht. Bei uns ist es eben nicht ausdrücklich untersagt. --Liebe Grüße,&nbsp;[[Benutzerin:Lómelinde|Lómelinde]]&nbsp;[[Benutzerin Diskussion:Lómelinde#top|Diskussion]] 06:52, 27. Dez. 2022 (CET)
+
+== Falscher Zeitstempel ==
+
+Warum wurde [[Diskussion:Tagesthemen#Ingo Zamperoni|hier]] mit 18:27 [[Spezial:Diff/239402986|statt mit 18:28]] gestempelt? <small>--<b style="font-variant:small-caps">[[Benutzer:Seth Cohen|Seth]] [[BD:Seth Cohen|Cohen]]</b> 18:31, 23. Nov. 2023 (CET)</small>
+
+: Das kann schon mal passieren, wenn du genau den Übergang von 18:27:59 auf 18:28:00 triffst, dann bist du schneller als dein Schatten oder so. --Liebe Grüße,&nbsp;[[Benutzerin:Lómelinde|Lómelinde]]&nbsp;[[Benutzerin Diskussion:Lómelinde#top|Diskussion]] 18:47, 23. Nov. 2023 (CET)
+
+::Demnach stammen die Zeitstempel der Signatur und die der Versionsgeschichte aus unterschiedlichen Quellen. <small>--<b style="font-variant:small-caps">[[Benutzer:Seth Cohen|Seth]] [[BD:Seth Cohen|Cohen]]</b> 20:43, 26. Nov. 2023 (CET)</small>
+
+::: Die vorstehenden Antworten waren grundsätzlich richtig; mal wieder die vollständige Erklärung nachgereicht.
+::: Auf dem Server finden Prozesse statt, die in Warteschlangen zur Abarbeitung eingereiht werden.
+:::# Generierung des abzuspeichernden statischen Wikitextes durch Auflösung von <code><nowiki>~~~~</nowiki></code> gemäß aktueller Uhrzeit.
+:::# Generierung einer neuen Seitenversion in der Datenbank, Zuordnung einer Versionsnummer, Abspeicherung des im ersten Schritt generierten statischen Wikitextes unter dieser Versionsnummer jetzt in diesem Moment.
+::: Die beiden Prozesse und deren Warteschlange werden nacheinander abgearbeitet; nachdem der erste Prozess fertig ist, wird in die Warteschlange des zweiten Prozesses eingereiht. Ansonsten wissen die beiden Prozesse nichts voneinander.
+:::* Falls der 1. Prozess am Ende der 59. Sekunde erfolgte, kann es bis zur folgenden Minute dauern, dass diese Nummer in der Warteschlange&nbsp;2 dran ist.
+:::* Eine oder mehrere Sekunden Zeitverzögerung sind normal.
+:::* Das hängt von der Serverauslastung ab; bei hoher und sehr hoher Serverbeanspruchung wurden auch schon 10 oder 30 Sekunden beobachtet.
+:::* Wenn das am Ende eines UTC-Tages oder gar -Jahres passiert, kann das auch das Datum beeinflussen.
+::: VG --[[Benutzer:PerfektesChaos|PerfektesChaos]] 08:43, 27. Nov. 2023 (CET)
+
+== SignaturBot meckert ==
+
+unvollständig signierter Beitrag? Meine Signatur ist seit Jahren unverändert und ich habe die gleiche Version
+
+''<nowiki>[[:de:Benutzer:Heribert3|Heribert3]] ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]]</nowiki>''
+
+auf DE-WP und EN-WP stets erfolgreich benutzt.
+
+Jetzt habe ich mal auf EN-WP verglichen und bekomme 
+
+''Your signature must include a link to your user page, talk page or contributions on this wiki. Please add it, for example: <code><nowiki>[[User:Heribert3|Heribert3]]</nowiki> (<nowiki>[[User talk:Heribert3|talk]]</nowiki>)</code>''.
+
+<nowiki>-- ~~~~</nowiki> wird doch korrekt so aufgelöst, in der Vorschau und beim Abspeichern in WP-Text:
+-- [[:de:Benutzer:Heribert3|Heribert3]] ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]] '''timestamp'''
+
+Was ist da los? -- [[:de:Benutzer:Heribert3|Heribert3]] ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]] 20:42, 23. Dez. 2024 (CET) {{unsigniert|Heribert3|ALT=unvollständig}}
+
+: Du verwendest ein überflüssiges <code>:de:</code> vor ''Benutzer:'' und auch ''Benutzer Diskussion:''.
+: Die Skripte suchen zwischen <code>[&#91;</code> und dem ersten Doppelpunkt eine gewisse Bandbreite von <code>Benutzer</code> <code>Benutzerin</code> <code>User</code> (Groß-und Kleinschreibung ignoriert), auch <code>_</code> statt Leerzeichen vor ''Diskussion'' bzw. ''talk''.
+: Damit wird diese Zeichenkette nicht mehr als Verlinkung in BNR/BD erkannt, auch wenn die vollständige Wikisyntax-Analyse auf die richtige Seite verlinkt. Die Suche nach diesen Zeichenketten kann aber nicht unendlich viele syntaktisch mögliche Varianten, Vorlagen-Einbindungen usw. wie <code><nowiki>{{ns:2}}:</nowiki></code> im Quelltext erkennen und interpretieren.
+: Deshalb hatte ich soeben auch wieder einen BK mit dem SignaturBot.
+: VG --[[Benutzer:PerfektesChaos|PerfektesChaos]] 20:57, 23. Dez. 2024 (CET)
+::Ich habe meine Sig geändert, nun kein Mecker mehr. Warum hat es dann z.B. [https://de.wikipedia.org/w/index.php?title=Diskussion%3ASaalkirche&diff=250591579&oldid=250590126 hier] am 22. November 2024 noch funktioniert? -- [[Benutzer:Heribert3|Heribert3]] ([[Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]] 03:14, 28. Dez. 2024 (CET)
+:::Was ist denn eigentlich '''BK'''? -- [[Benutzer:Heribert3|Heribert3]] ([[Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]] 03:26, 28. Dez. 2024 (CET)
+
+:::: {{ping|Heribert3}}
+:::: Die zweite Frage zuerst, die ist einfacher: [[H:BK]]
+:::: Zur ersten:
+::::* Vielleicht hatte dieser Bot gerade geschlafen, nichts mitbekommen, und nirgendwo gemeckert.
+::::* Diese Bots und Werkzeuge werden von normalen Wikipedistas programmiert; die Programmierung kann jederzeit verändert werden, und sie muss nicht so allumfassend sein wie die globale Wiki-Software, die überwiegend hauptberuflich erstellt und gewartet wird. Deshalb Syntax im mainstream und erwartbar halten; keine Eskapaden, die weder Skripte noch Menschen kapieren.
+:::: Nebenbei: Du hast da jetzt ein <code>#Top</code> im BD-Link zu stehen. Wenn du dadraus noch ein <code>[[#top]]</code> machst, wird es zu einer gültigen Verlinkung in jeder Wikitext-Seite; <code>[[#Top]]</code> gibt es nicht und die Wirkung ist zufällig, hängt vom Browser ab.
+:::: Guten Rutsch --[[Benutzer:PerfektesChaos|PerfektesChaos]] 15:48, 30. Dez. 2024 (CET)
+:::::Ebenso! done -- [[Benutzer:Heribert3|Heribert3]] ([[Benutzer Diskussion:Heribert3#top|Diskussion/Talk]]) [[File:UA_Peace2.svg|20px]] 23:56, 30. Dez. 2024 (CET)
