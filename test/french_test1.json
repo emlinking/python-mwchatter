@@ -1217,15 +1217,16 @@
                                             "comments": [
                                                 {
                                                     "text_blocks": [
-                                                        ":::Oh, and a couple of editors at my enwiki user talk page are talking about what to send; you're welcome to join the discussion if you are interested.  (That wiki has a lot more editors with invalid signatures than this one, so MassMessage is definitely the plan.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:44 (CEST)\n",
-                                                        "\n"
+                                                        ":::Oh, and a couple of editors at my enwiki user talk page are talking about what to send; you're welcome to join the discussion if you are interested.  (That wiki has a lot more editors with invalid signatures than this one, so MassMessage is definitely the plan.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:44 (CEST)\n"
                                                     ],
                                                     "comments": [],
-                                                    "cosigners": []
+                                                    "cosigners": [],
+                                                    "author": "Whatamidoing (WMF)",
+                                                    "time_stamp": "3 juillet 2020 \u00e0 04:44 (CEST)"
                                                 }
                                             ],
                                             "cosigners": [],
-                                            "author": "Lofhi",
+                                            "author": "Whatamidoing (WMF)",
                                             "time_stamp": "3 juillet 2020 \u00e0 04:42 (CEST)"
                                         }
                                     ],
@@ -1235,8 +1236,15 @@
                                 }
                             ],
                             "cosigners": [],
-                            "author": "Lofhi",
+                            "author": "Whatamidoing (WMF)",
                             "time_stamp": "2 juillet 2020 \u00e0 04:37 (CEST)"
+                        },
+                        {
+                            "text_blocks": [
+                                "\n"
+                            ],
+                            "comments": [],
+                            "cosigners": []
                         }
                     ],
                     "heading": " Update "
@@ -1247,7 +1255,15 @@
                     "text_blocks": [
                         "== Nouvelles exigences pour les signatures des utilisateurs ==\n",
                         "\n",
-                        "Please see [[mw:New requirements for user signatures/fr]].  [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 10 mars 2020 \u00e0 01:11 (CET)\n",
+                        "Please see [[mw:New requirements for user signatures/fr]].  [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 10 mars 2020 \u00e0 01:11 (CET)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Whatamidoing (WMF)",
+                    "time_stamp": "10 mars 2020 \u00e0 01:11 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
