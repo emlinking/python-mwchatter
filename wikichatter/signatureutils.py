@@ -64,7 +64,7 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # Spanish: [[Usuario:Elvisor|Elvisor]], [[Usuario:Leo3487]]
 # German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
 # French: [[Utilisateur:Jean Durand|Jean Durand]], {{non signé|Brunodesacacias|24 novembre 2007 à 06:38 UTC|23356150|23355898}}
-USER_RE = re.compile(r"(?:\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur)\W*:(.*?)(?:\|[^\]]+)?\]\])|(?:\{\{(?:unsigned|non signé)\|(.*?)\|(?:.*?)\}\})", re.I)
+USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur)\W*:(.*?)(?:\|[^\]]+)?\]\]|{{\s*(?:unsigned|non signé)\s*\|\s*(.*?)\s*\|)", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
