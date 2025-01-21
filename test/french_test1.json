@@ -6,7 +6,15 @@
                 {
                     "text_blocks": [
                         "== Sujet 1 ==\n",
-                        "''Message d\u00e9plac\u00e9 vers [[Wikip\u00e9dia:Oracle/semaine_42_2006#Noyaux_gris_centraux]] par [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 18 octobre 2006 \u00e0 15:58 (CEST)''\n",
+                        "''Message d\u00e9plac\u00e9 vers [[Wikip\u00e9dia:Oracle/semaine_42_2006#Noyaux_gris_centraux]] par [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 18 octobre 2006 \u00e0 15:58 (CEST)''\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Teofilo",
+                    "time_stamp": "18 octobre 2006 \u00e0 15:58 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -23,17 +31,48 @@
                         {
                             "text_blocks": [
                                 "=== Les avis ===\n",
-                                "* Oui. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 \u00e0 20:48 (CET) Et je me lance. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 \u00e0 20:48 (CET)\n",
-                                "* D'accord avec toi, mais je remplacerais \u00ab Quelle signature utiliser ? \u00bb par \u00ab Comment pr\u00e9d\u00e9finir sa signature ? \u00bb, pour continuer sur la lanc\u00e9e des questions. Je remplacerais aussi \u00ab Que signer ? \u00bb par \u00ab O\u00f9 signer ? \u00bb, qui est \u00e0 mon avis plus clair. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/23.11.2007/19:54&nbsp;UTC/</tt>\n",
-                                "* {{contre}} Non au remplacement d'une page qui se veut concise par un \u00e9norme texte indigeste. Au d\u00e9part, la page contenait [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 ceci] (mai 2006). Le but c'est d'y dire l'essentiel aux nouveaux : on ne signe pas les articles, on signe les discussions, et on explique la syntaxe des tildes. Tout le reste est un tissu de \"fausses bonnes id\u00e9es\" qui embrouillent les nouveaux. Ce n'est plus une page d'aide, et cela devient une \"page qui n'aide pas\". [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 02:32 (CET)\n",
-                                "*: +1, pour un expos\u00e9 plus bref. Dommage que la forme de ta remarque laisse para\u00eetre une certaine col\u00e8re, qui laisse penser que je me fais \u00ab engueuler \u00bb, alors que je ne suis pas l'auteur du pav\u00e9 qui te d\u00e9pla\u00eet tant. Donc, je propose de travailler cette page, sans haine ni col\u00e8re entre nous tous {{sourire}}. En route vers de nouvelles aventures ... --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 07:22 (CET)\n",
-                                "*::Euh, quel pav\u00e9 ? Je n'ai fait que repartir de la structure telle que tu l'as r\u00e9organis\u00e9e. Dommage que tu changes d'avis d\u00e8s qu'une opposition est exprim\u00e9e.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
-                                "*:J'aimerais qu'on m'explique ce qui n'est pas clair. Au contraire, j'ai ins\u00e9r\u00e9 un cadre de r\u00e9sum\u00e9 en en-t\u00eate, ce qui \u00e9nonce plus clairement les choses importantes d\u00e8s le d\u00e9but. Le plan est presque le m\u00eame qu'avant, mais en plus logique en ce qui concerne les niveaux h1, h2, etc. Bref il n'y a pas beaucoup de changement par rapport \u00e0 la version pr\u00e9c\u00e9dente, juste un plan diff\u00e9rent. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
-                                "*::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n",
-                                "\n"
+                                "* Oui. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 \u00e0 20:48 (CET) Et je me lance. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 \u00e0 20:48 (CET)\n"
                             ],
-                            "comments": [],
-                            "cosigners": []
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "* D'accord avec toi, mais je remplacerais \u00ab Quelle signature utiliser ? \u00bb par \u00ab Comment pr\u00e9d\u00e9finir sa signature ? \u00bb, pour continuer sur la lanc\u00e9e des questions. Je remplacerais aussi \u00ab Que signer ? \u00bb par \u00ab O\u00f9 signer ? \u00bb, qui est \u00e0 mon avis plus clair. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/23.11.2007/19:54&nbsp;UTC/</tt>\n",
+                                        "* {{contre}} Non au remplacement d'une page qui se veut concise par un \u00e9norme texte indigeste. Au d\u00e9part, la page contenait [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 ceci] (mai 2006). Le but c'est d'y dire l'essentiel aux nouveaux : on ne signe pas les articles, on signe les discussions, et on explique la syntaxe des tildes. Tout le reste est un tissu de \"fausses bonnes id\u00e9es\" qui embrouillent les nouveaux. Ce n'est plus une page d'aide, et cela devient une \"page qui n'aide pas\". [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 02:32 (CET)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "*: +1, pour un expos\u00e9 plus bref. Dommage que la forme de ta remarque laisse para\u00eetre une certaine col\u00e8re, qui laisse penser que je me fais \u00ab engueuler \u00bb, alors que je ne suis pas l'auteur du pav\u00e9 qui te d\u00e9pla\u00eet tant. Donc, je propose de travailler cette page, sans haine ni col\u00e8re entre nous tous {{sourire}}. En route vers de nouvelles aventures ... --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 07:22 (CET)\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": [],
+                                            "author": "brunodesacacias",
+                                            "time_stamp": "24 novembre 2007 \u00e0 07:22 (CET)"
+                                        },
+                                        {
+                                            "text_blocks": [
+                                                "*::Euh, quel pav\u00e9 ? Je n'ai fait que repartir de la structure telle que tu l'as r\u00e9organis\u00e9e. Dommage que tu changes d'avis d\u00e8s qu'une opposition est exprim\u00e9e.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
+                                                "*:J'aimerais qu'on m'explique ce qui n'est pas clair. Au contraire, j'ai ins\u00e9r\u00e9 un cadre de r\u00e9sum\u00e9 en en-t\u00eate, ce qui \u00e9nonce plus clairement les choses importantes d\u00e8s le d\u00e9but. Le plan est presque le m\u00eame qu'avant, mais en plus logique en ce qui concerne les niveaux h1, h2, etc. Bref il n'y a pas beaucoup de changement par rapport \u00e0 la version pr\u00e9c\u00e9dente, juste un plan diff\u00e9rent. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>\n",
+                                                "*::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n",
+                                                "\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": []
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Teofilo",
+                                    "time_stamp": "24 novembre 2007 \u00e0 02:32 (CET)"
+                                }
+                            ],
+                            "cosigners": [
+                                {
+                                    "author": "brunodesacacias",
+                                    "time_stamp": "23 novembre 2007 \u00e0 20:48 (CET)"
+                                }
+                            ],
+                            "author": "brunodesacacias",
+                            "time_stamp": "23 novembre 2007 \u00e0 20:48 (CET)"
                         }
                     ],
                     "heading": " Les avis "
@@ -60,7 +99,9 @@
                         "Vos avis sont les bienvenus. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 21 novembre 2007 \u00e0 14:09 (CET)\n"
                     ],
                     "comments": [],
-                    "cosigners": []
+                    "cosigners": [],
+                    "author": "brunodesacacias",
+                    "time_stamp": "21 novembre 2007 \u00e0 14:09 (CET)"
                 }
             ],
             "heading": " Plan \u00e0 revoir "
@@ -78,25 +119,60 @@
                                 "#:Je ne comprends pas les r\u00e9criminations de Teofilo. Car ce qu'il pr\u00e9sente comme inutile et indigeste r\u00e9pond \u00e0 des questions qui ont \u00e9t\u00e9 pos\u00e9es sur le Bistro et dans la Guilde (probl\u00e8me avec les |, peut-on signer les images ?, comment personnaliser sa signature ?). Le supprimer serait une perte de temps. \n",
                                 "#:Mais je suis d'accord pour mettre en valeur ce qui est le plus important et le plus utile.<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:07&nbsp;UTC/</tt>\n",
                                 "#::J'ai am\u00e9lior\u00e9 le cadre d'en-t\u00eate, de fa\u00e7on \u00e0 ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant \u00e0 chaque point. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>\n",
-                                "#:::Ben voyons ! Le pav\u00e9 \"Ce texte est consid\u00e9r\u00e9 comme une recommandation dans Wikip\u00e9dia. Il d\u00e9crit les exigences dont le principe est accept\u00e9 par un grand nombre de wikip\u00e9diens. Raccourci [+]WP:SIGN Vous pouvez librement modifier cette page, mais veuillez utiliser la page de discussion pour proposer une modification majeure.\" c'est essentiel ? Dans ta conception tr\u00e8s bureaucratique de Wikip\u00e9dia, probablement ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 12:57 (CET)\n",
-                                "#::::Ce \"pav\u00e9\" que tu pointes du doigt, {{m|recommandation}}, \u00e9tait d\u00e9j\u00e0 pr\u00e9sent dans la version vers laquelle tu as revert\u00e9. Je ne te comprends pas. Moi je veux bien l'enlever, dans la mesure o\u00f9 ce n'est pas vraiment une recommandation (\u00e0 part la partie : on signe les messages, pas les articles).\n",
-                                "#::::Je parlais bien \u00e9videmement de {{m|En r\u00e9sum\u00e9}}. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n",
-                                "#::\n",
-                                "#:::<s>\"En suivant les liens vers les sections ?\" Alors que le plan clair et explicite : \"1 Dans les articles encyclop\u00e9diques 2 Signer une image 3 Dans les pages de discussion\" a \u00e9t\u00e9 remplac\u00e9 par des titres qui donnent une impression de complexit\u00e9 extr\u00eame : \"1 Quand signer ? 1.1 Que faut-il signer ? 1.1.1 Les messages dans les pages de discussion 1.1.2 Les avis au cours de proc\u00e9dures 1.2 Que ne faut-il pas signer ? 1.2.1 Les articles 1.2.2 Les images \" : des titres qui sont propres \u00e0 d\u00e9contenancer le lecteur, qui se dit en voyant cela \"c'est s\u00fbr, je vais me tromper, il y a tellement de cas, tellement d'incertitude avec tous ces points d'interrogation...\". Ce nouveau plan est compl\u00e8tement ins\u00e9curisant pour le lecteur. Il se dit, dans quelle maison de fous je suis tomb\u00e9 ?, quand il voit \u00e7a ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 13:10 (CET)</s>\n",
+                                "#:::Ben voyons ! Le pav\u00e9 \"Ce texte est consid\u00e9r\u00e9 comme une recommandation dans Wikip\u00e9dia. Il d\u00e9crit les exigences dont le principe est accept\u00e9 par un grand nombre de wikip\u00e9diens. Raccourci [+]WP:SIGN Vous pouvez librement modifier cette page, mais veuillez utiliser la page de discussion pour proposer une modification majeure.\" c'est essentiel ? Dans ta conception tr\u00e8s bureaucratique de Wikip\u00e9dia, probablement ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 12:57 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "#::::Ce \"pav\u00e9\" que tu pointes du doigt, {{m|recommandation}}, \u00e9tait d\u00e9j\u00e0 pr\u00e9sent dans la version vers laquelle tu as revert\u00e9. Je ne te comprends pas. Moi je veux bien l'enlever, dans la mesure o\u00f9 ce n'est pas vraiment une recommandation (\u00e0 part la partie : on signe les messages, pas les articles).\n",
+                                        "#::::Je parlais bien \u00e9videmement de {{m|En r\u00e9sum\u00e9}}. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n",
+                                        "#::\n",
+                                        "#:::<s>\"En suivant les liens vers les sections ?\" Alors que le plan clair et explicite : \"1 Dans les articles encyclop\u00e9diques 2 Signer une image 3 Dans les pages de discussion\" a \u00e9t\u00e9 remplac\u00e9 par des titres qui donnent une impression de complexit\u00e9 extr\u00eame : \"1 Quand signer ? 1.1 Que faut-il signer ? 1.1.1 Les messages dans les pages de discussion 1.1.2 Les avis au cours de proc\u00e9dures 1.2 Que ne faut-il pas signer ? 1.2.1 Les articles 1.2.2 Les images \" : des titres qui sont propres \u00e0 d\u00e9contenancer le lecteur, qui se dit en voyant cela \"c'est s\u00fbr, je vais me tromper, il y a tellement de cas, tellement d'incertitude avec tous ces points d'interrogation...\". Ce nouveau plan est compl\u00e8tement ins\u00e9curisant pour le lecteur. Il se dit, dans quelle maison de fous je suis tomb\u00e9 ?, quand il voit \u00e7a ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 13:10 (CET)</s>\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "Teofilo",
+                                    "time_stamp": "24 novembre 2007 \u00e0 13:10 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Teofilo",
+                            "time_stamp": "24 novembre 2007 \u00e0 12:57 (CET)"
+                        },
+                        {
+                            "text_blocks": [
                                 "{| id=\"toc\" class=\"toc\" summary=\"Sommaire\" style=\"float:right\"\n|-\n| id=\"toctitle\" | Sommaire\n|-\n| class=\"toclevel-1 | <span class=\"tocnumber\">1</span> <span class=\"toctext\">Quand signer&#160;?</span>\n|-\n| class=\"toclevel-2\" | <span class=\"tocnumber\" style=\"margin-left:3em\">1.1</span> <span class=\"toctext\">Que faut-il signer&#160;?</span>\n|-\n| class=\"toclevel-3\" | <span class=\"tocnumber\" style=\"margin-left:6em\">1.1.1</span> <span class=\"toctext\">Les messages dans les pages de discussion</span>\n|-\n| class=\"toclevel-3 | <span class=\"tocnumber\" style=\"margin-left:6em\">1.1.2</span> <span class=\"toctext\">Les avis au cours de proc\u00e9dures</span>\n|-\n| class=\"toclevel-2\" | <span class=\"tocnumber\" style=\"margin-left:3em\">1.2</span> <span class=\"toctext\">Que ne faut-il pas signer&#160;?</span>\n|-\n| class=\"toclevel-3\" | <span class=\"tocnumber\" style=\"margin-left:6em\">1.2.1</span> <span class=\"toctext\">Les articles</span>\n|-\n| class=\"toclevel-3\" | <span class=\"tocnumber\" style=\"margin-left:6em\">1.2.2</span> <span class=\"toctext\">Les images</span>\n|}\n",
                                 "\n",
                                 "Au contraire, le nouveau plan pose clairement les questions que le lecteur peut se poser (o\u00f9 est-ce que je dois signer ? o\u00f9 est-ce que je ne dois pas le faire ?) et y r\u00e9pond tout naturellement. D'autre part, l'indentation du sommaire montre clairement qu'est-ce qui vient r\u00e9pondre \u00e0 quoi :\n",
                                 "\n",
                                 "On peut d'ailleurs reproduire cette indentation dans le texte aussi, \u00e7a ne serait pas du luxe. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>\n",
                                 "\n",
-                                ":Je vous laisse. J'ai lu en diagonale. Le ton de l'un de nous est (toujours aussi) insupportable pour moi. Je ne sais pas coop\u00e9rer dans ces conditions (probablement un handicap ...). Bonne continuation. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 13:31 (CET)\n",
-                                "\n",
-                                ":Avec un r\u00e9sum\u00e9 introductif de bonne tenue en t\u00eate de page, un plan un peu complexe par la suite peut convenir. Je retire donc ce que j'ai dit. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 13:47 (CET)\n",
-                                "::J'enl\u00e8ve aussi mes commentaires agressifs. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:09&nbsp;UTC/</tt>\n",
-                                "\n"
+                                ":Je vous laisse. J'ai lu en diagonale. Le ton de l'un de nous est (toujours aussi) insupportable pour moi. Je ne sais pas coop\u00e9rer dans ces conditions (probablement un handicap ...). Bonne continuation. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 13:31 (CET)\n"
                             ],
-                            "comments": [],
-                            "cosigners": []
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "\n",
+                                        ":Avec un r\u00e9sum\u00e9 introductif de bonne tenue en t\u00eate de page, un plan un peu complexe par la suite peut convenir. Je retire donc ce que j'ai dit. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 13:47 (CET)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "::J'enl\u00e8ve aussi mes commentaires agressifs. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:09&nbsp;UTC/</tt>\n",
+                                                "\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": []
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Teofilo",
+                                    "time_stamp": "24 novembre 2007 \u00e0 13:47 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "brunodesacacias",
+                            "time_stamp": "24 novembre 2007 \u00e0 13:31 (CET)"
                         }
                     ],
                     "heading": " Les avis "
@@ -111,7 +187,15 @@
                         "{{D\u00e9but cadre|Rouge}}\n",
                         "Oui, l'actuelle page d'aide est un pav\u00e9 trop lourd \u00e0 dig\u00e9rer pour le nouveaux. Il serait pr\u00e9f\u00e9rable d'utiliser [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 cette version], de mai 2006.\n",
                         "{{Fin cadre}}\n",
-                        "--[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 07:31 (CET)\n",
+                        "--[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 07:31 (CET)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "brunodesacacias",
+                    "time_stamp": "24 novembre 2007 \u00e0 07:31 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -131,13 +215,22 @@
                         ":''Les techniques font partie des usages. C'est vraiment le plaisir de rallonger les phrases pour les rallonger !''\n",
                         "Pour moi, les \u00ab usages \u00bb faisaient seulement r\u00e9f\u00e9rence \u00e0 ce qu'il faut / ne faut pas signer (discussions / articles), et la technique m'apparaissait sinc\u00e8rement disjointe des usages. Oui c'est un d\u00e9tail. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/13:08&nbsp;UTC/</tt>\n",
                         ":\n",
-                        ":Je crois avoir trouv\u00e9 une formulation qui inclut le mot \"technique\", mais sans trop rallonger la phrase : \u00ab Cette page expose les techniques et les usages relatifs aux signatures sur Wikip\u00e9dia \u00bb. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:07 (CET)\n",
-                        "::\n",
-                        "::OK, mais ce n'\u00e9tait pas un plaidoyer pour le remettre, j'expliquais juste que ce n'\u00e9tait pas pour le plaisir de faire de longues phrases. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:39&nbsp;UTC/</tt>\n",
-                        "\n"
+                        ":Je crois avoir trouv\u00e9 une formulation qui inclut le mot \"technique\", mais sans trop rallonger la phrase : \u00ab Cette page expose les techniques et les usages relatifs aux signatures sur Wikip\u00e9dia \u00bb. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:07 (CET)\n"
                     ],
-                    "comments": [],
-                    "cosigners": []
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "::\n",
+                                "::OK, mais ce n'\u00e9tait pas un plaidoyer pour le remettre, j'expliquais juste que ce n'\u00e9tait pas pour le plaisir de faire de longues phrases. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:39&nbsp;UTC/</tt>\n",
+                                "\n"
+                            ],
+                            "comments": [],
+                            "cosigners": []
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Teofilo",
+                    "time_stamp": "24 novembre 2007 \u00e0 15:07 (CET)"
                 }
             ],
             "heading": " Usage / Technique "
@@ -149,33 +242,60 @@
                     "text_blocks": [
                         "== Encore un peu de psychologie de bazar ==\n",
                         "\n",
-                        "Le but du Wikip\u00e9dien \u00e9diteur de page d'aide est de placer les informations importantes le plus loin possible dans la page, au sein d'un plan le plus labyrinthique possible, de fa\u00e7on \u00e0 obliger le lecteur \u00e0 lire les explications ampoul\u00e9es sur des points de d\u00e9tail qu'il est tr\u00e8s fier d'avoir r\u00e9dig\u00e9es. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:12 (CET)\n",
-                        ":\n",
-                        ":Pourquoi redeviens-tu agressif alors que l'on trouvait un terrain d'entente ?\n",
-                        ":Tu as remis les tableaux d\u00e8s l'en-t\u00eate ? Quel int\u00e9r\u00eat ? Tu te perds en d\u00e9tails inutiles dans un r\u00e9sum\u00e9 (il faut utiliser 126 Ctrl Alt Gr N je-sais-pas-quoi) alors que tout \u00e7a, on peut y acc\u00e9der, de mani\u00e8re plus propre, en cliquant simplement sur le petit lien [+ d'info].\n",
-                        ":Le but de cette en-t\u00eate n'est-elle pas d'\u00eatre synth\u00e9tique ? La version que tu as remise l'est beaucoup moins que :\n",
-                        "::\u00ab En revanche, lorsque vous prenez part \u00e0 une '''discussion''', il est '''recommand\u00e9 de signer''' votre message en ins\u00e9rant 3 tildes (<code><nowiki>~~~</nowiki></code>) qui seront automatiquement remplac\u00e9s par votre nom d'utilisateur (ou votre adresse IP si vous n'\u00eates pas connect\u00e9) ; avec 4 tildes, la date du message est ajout\u00e9e. \u00bb.\n",
-                        ":<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:26&nbsp;UTC/</tt>\n",
-                        "::J'ajoute que les d\u00e9tails sur la mani\u00e8re d'obtenir le tilde, \u00e7a n'a rien \u00e0 voir avec Wikip\u00e9dia. Les pages d'aide de Wikip\u00e9dia n'ont pas vocation \u00e0 apprendre \u00e0 l'utilisateur \u00e0 se servir d'un ordinateur. Sinon, pourquoi pas une page d'aide sur la mani\u00e8re de se servir de son navigateur ?\n",
-                        "::Qu'on en parle, malgr\u00e9 tout, dans cette page d'aide, OK, mais certainement pas d\u00e8s les premi\u00e8res lignes, dans ce qui se veut une synth\u00e8se. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:28&nbsp;UTC/</tt>\n",
-                        ":::Enfin, tu parles d'un plan labyrinthique, mais il a \u00e9t\u00e9 grandement simplifi\u00e9 : il n'y a pas plus de deux niveaux, les points d'interrogation ont \u00e9t\u00e9 supprim\u00e9s, bref j'ai \u00e9cout\u00e9 ce que tu pr\u00e9conisais.\n",
-                        ":::Et quand bien m\u00eame ce plan fut-il labyrinthique, de toutes fa\u00e7ons, il suffit de cliquer sur le lien [+ d'info] pour acc\u00e9der directement \u00e0 l'info recherch\u00e9e. Pas besoin de chercher, de lire des \u00ab explications ampoul\u00e9es \u00bb, non, il suffit juste de cliquer... et toutes les informations anecdotiques que tu tiens \u00e0 tous prix \u00e0 faire figurer d\u00e8s le r\u00e9sum\u00e9 introductif sont disponibles imm\u00e9diatement.\n",
-                        ":::Non, vraiment, je ne te comprends pas. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:34&nbsp;UTC/</tt>\n",
-                        "::::\n",
-                        "::::Le terme \"tilde\" est dans le dictionnaire, mais le glyphe est inutilis\u00e9, \u00e0 part dans les math\u00e9matiques de haut niveau, et le terme \"ca\u00f1on\" qui est une exception.\n",
-                        ":::\n",
-                        "::::La Wikip\u00e9dia que tu construis n'est accessible qu'aux \"computer litterati\". Je pense pour ma part que Wikip\u00e9dia doit \u00eatre accessible \u00e0 tous. Et si Wikip\u00e9dia n'a pas \u00e0 parler de la mani\u00e8re d'obtenir un tilde au clavier, cela n'a rien \u00e0 faire non plus dans le corps de l'article. \n",
-                        ":::\n",
-                        "::::J'ai peur \u00e9galement que nous soyons en d\u00e9saccord sur ce que tu entends par \"synth\u00e9tique\". Pour moi l'en-t\u00eate ne doit pas \u00eatre une introduction qui donne envie d'aller lire la suite, mais au contraire un expos\u00e9 minimaliste qui permet justement de ne pas \u00eatre oblig\u00e9 de consulter la suite. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n",
-                        ":::\n",
-                        "::::La page \"Aide:Signature\" est la page qu'on donne en lien quand on explique \u00e0 un nouveau qui n'a pas sign\u00e9 qu'il est pr\u00e9f\u00e9rable de signer. Si la page est un roman, alors le conseil \"tu devrais lire [[Aide:Signature]]\" est une punition. Ce n'est donc pas moi qui suis agressif, mais bien les personnes qui transforment la page en punition. Je d\u00e9fends ici les nouveaux et [[Wikip\u00e9dia:Ne mordez pas les nouveaux]]. On va se retrouver dans la situation o\u00f9 la bonne fa\u00e7on d'expliquer \u00e0 un nouveau comment signer est de lui \u00e9crire soi-m\u00eame quelques lignes sur sa page de discussion et surtout pas de lui donner un lien vers le monstre [[Aide:Signature]]. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n",
-                        ":::::Tu exag\u00e8res. Ne pas expliquer, d\u00e8s les premi\u00e8res lignes d'une page d'aide '''sur Wikip\u00e9dia''', comment se servir d'un ordinateur, ce n'est pas mordre les nouveaux (d'autant que l'explication \u00e9tait \u00e0 un clic de distance).\n",
-                        ":::::D'autre part, ''Ce n'est donc pas moi qui suis agressif'' : quand tu arrives en disant que c'est un \u00e9norme texte indigeste (alors que peu de modifications avaient \u00e9t\u00e9 faites, la version pr\u00e9c\u00e9dente \u00e9tait tout aussi indigeste selon ton point de vue, mais \u00e7a n'avait pas l'air de te g\u00eaner jusqu'\u00e0 pr\u00e9sent), ce n'est pas un exemple d'esprit convivial.\n",
-                        ":::::Ceci dit je me suis rang\u00e9 \u00e0 tes arguments, et j'ai remis une version proche de celle que tu souhaitais. J'esp\u00e8re que \u00e7a te conviendra et qu'on pourra passer \u00e0 autre chose. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:19&nbsp;UTC/</tt>\n",
-                        "\n"
+                        "Le but du Wikip\u00e9dien \u00e9diteur de page d'aide est de placer les informations importantes le plus loin possible dans la page, au sein d'un plan le plus labyrinthique possible, de fa\u00e7on \u00e0 obliger le lecteur \u00e0 lire les explications ampoul\u00e9es sur des points de d\u00e9tail qu'il est tr\u00e8s fier d'avoir r\u00e9dig\u00e9es. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:12 (CET)\n"
                     ],
-                    "comments": [],
-                    "cosigners": []
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":\n",
+                                ":Pourquoi redeviens-tu agressif alors que l'on trouvait un terrain d'entente ?\n",
+                                ":Tu as remis les tableaux d\u00e8s l'en-t\u00eate ? Quel int\u00e9r\u00eat ? Tu te perds en d\u00e9tails inutiles dans un r\u00e9sum\u00e9 (il faut utiliser 126 Ctrl Alt Gr N je-sais-pas-quoi) alors que tout \u00e7a, on peut y acc\u00e9der, de mani\u00e8re plus propre, en cliquant simplement sur le petit lien [+ d'info].\n",
+                                ":Le but de cette en-t\u00eate n'est-elle pas d'\u00eatre synth\u00e9tique ? La version que tu as remise l'est beaucoup moins que :\n",
+                                "::\u00ab En revanche, lorsque vous prenez part \u00e0 une '''discussion''', il est '''recommand\u00e9 de signer''' votre message en ins\u00e9rant 3 tildes (<code><nowiki>~~~</nowiki></code>) qui seront automatiquement remplac\u00e9s par votre nom d'utilisateur (ou votre adresse IP si vous n'\u00eates pas connect\u00e9) ; avec 4 tildes, la date du message est ajout\u00e9e. \u00bb.\n",
+                                ":<tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:26&nbsp;UTC/</tt>\n",
+                                "::J'ajoute que les d\u00e9tails sur la mani\u00e8re d'obtenir le tilde, \u00e7a n'a rien \u00e0 voir avec Wikip\u00e9dia. Les pages d'aide de Wikip\u00e9dia n'ont pas vocation \u00e0 apprendre \u00e0 l'utilisateur \u00e0 se servir d'un ordinateur. Sinon, pourquoi pas une page d'aide sur la mani\u00e8re de se servir de son navigateur ?\n",
+                                "::Qu'on en parle, malgr\u00e9 tout, dans cette page d'aide, OK, mais certainement pas d\u00e8s les premi\u00e8res lignes, dans ce qui se veut une synth\u00e8se. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:28&nbsp;UTC/</tt>\n",
+                                ":::Enfin, tu parles d'un plan labyrinthique, mais il a \u00e9t\u00e9 grandement simplifi\u00e9 : il n'y a pas plus de deux niveaux, les points d'interrogation ont \u00e9t\u00e9 supprim\u00e9s, bref j'ai \u00e9cout\u00e9 ce que tu pr\u00e9conisais.\n",
+                                ":::Et quand bien m\u00eame ce plan fut-il labyrinthique, de toutes fa\u00e7ons, il suffit de cliquer sur le lien [+ d'info] pour acc\u00e9der directement \u00e0 l'info recherch\u00e9e. Pas besoin de chercher, de lire des \u00ab explications ampoul\u00e9es \u00bb, non, il suffit juste de cliquer... et toutes les informations anecdotiques que tu tiens \u00e0 tous prix \u00e0 faire figurer d\u00e8s le r\u00e9sum\u00e9 introductif sont disponibles imm\u00e9diatement.\n",
+                                ":::Non, vraiment, je ne te comprends pas. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/14:34&nbsp;UTC/</tt>\n",
+                                "::::\n",
+                                "::::Le terme \"tilde\" est dans le dictionnaire, mais le glyphe est inutilis\u00e9, \u00e0 part dans les math\u00e9matiques de haut niveau, et le terme \"ca\u00f1on\" qui est une exception.\n",
+                                ":::\n",
+                                "::::La Wikip\u00e9dia que tu construis n'est accessible qu'aux \"computer litterati\". Je pense pour ma part que Wikip\u00e9dia doit \u00eatre accessible \u00e0 tous. Et si Wikip\u00e9dia n'a pas \u00e0 parler de la mani\u00e8re d'obtenir un tilde au clavier, cela n'a rien \u00e0 faire non plus dans le corps de l'article. \n",
+                                ":::\n",
+                                "::::J'ai peur \u00e9galement que nous soyons en d\u00e9saccord sur ce que tu entends par \"synth\u00e9tique\". Pour moi l'en-t\u00eate ne doit pas \u00eatre une introduction qui donne envie d'aller lire la suite, mais au contraire un expos\u00e9 minimaliste qui permet justement de ne pas \u00eatre oblig\u00e9 de consulter la suite. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        ":::\n",
+                                        "::::La page \"Aide:Signature\" est la page qu'on donne en lien quand on explique \u00e0 un nouveau qui n'a pas sign\u00e9 qu'il est pr\u00e9f\u00e9rable de signer. Si la page est un roman, alors le conseil \"tu devrais lire [[Aide:Signature]]\" est une punition. Ce n'est donc pas moi qui suis agressif, mais bien les personnes qui transforment la page en punition. Je d\u00e9fends ici les nouveaux et [[Wikip\u00e9dia:Ne mordez pas les nouveaux]]. On va se retrouver dans la situation o\u00f9 la bonne fa\u00e7on d'expliquer \u00e0 un nouveau comment signer est de lui \u00e9crire soi-m\u00eame quelques lignes sur sa page de discussion et surtout pas de lui donner un lien vers le monstre [[Aide:Signature]]. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 15:55 (CET)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::::Tu exag\u00e8res. Ne pas expliquer, d\u00e8s les premi\u00e8res lignes d'une page d'aide '''sur Wikip\u00e9dia''', comment se servir d'un ordinateur, ce n'est pas mordre les nouveaux (d'autant que l'explication \u00e9tait \u00e0 un clic de distance).\n",
+                                                ":::::D'autre part, ''Ce n'est donc pas moi qui suis agressif'' : quand tu arrives en disant que c'est un \u00e9norme texte indigeste (alors que peu de modifications avaient \u00e9t\u00e9 faites, la version pr\u00e9c\u00e9dente \u00e9tait tout aussi indigeste selon ton point de vue, mais \u00e7a n'avait pas l'air de te g\u00eaner jusqu'\u00e0 pr\u00e9sent), ce n'est pas un exemple d'esprit convivial.\n",
+                                                ":::::Ceci dit je me suis rang\u00e9 \u00e0 tes arguments, et j'ai remis une version proche de celle que tu souhaitais. J'esp\u00e8re que \u00e7a te conviendra et qu'on pourra passer \u00e0 autre chose. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:19&nbsp;UTC/</tt>\n",
+                                                "\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": []
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Teofilo",
+                                    "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Teofilo",
+                            "time_stamp": "24 novembre 2007 \u00e0 15:55 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Teofilo",
+                    "time_stamp": "24 novembre 2007 \u00e0 15:12 (CET)"
                 }
             ],
             "heading": " Encore un peu de psychologie de bazar "
@@ -189,10 +309,27 @@
                         "\n",
                         "J'ai cr\u00e9\u00e9 [[Aide:Signature/r\u00e9sum\u00e9]] qui est la page que j'utiliserai d\u00e9sormais lorsque je m'adresserai \u00e0 un nouveau. Je vous laisse poursuivre la r\u00e9daction de [[Aide:Signature]] suivant une autre logique. \n",
                         "\n",
-                        "J'ai pris l'initiative de mettre [[Aide:Signature/r\u00e9sum\u00e9]] dans [[Mod\u00e8le:Non sign\u00e9]], mais cela peut se discuter et se r\u00e9verter. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 16:09 (CET)\n",
-                        ":\n",
-                        ":Je suis revenu \u00e0 une version assez proche de ce que tu souhaitais, j'esp\u00e8re que \u00e7a te conviendra et qu'on pourra revenir \u00e0 la situation ant\u00e9rieure sur {{m|non sign\u00e9}}, et transformer [[Aide:Signature/r\u00e9sum\u00e9]] en redirect (ou, si tu le pr\u00e9f\u00e8res, transf\u00e9rer le contenu du cadre vers cette sous-page, et inclure cette derni\u00e8re dans la page principale). <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:15&nbsp;UTC/</tt>\n",
-                        ":: Moi, j'aime bien 1/ En prise direct sur l'essentiel gr\u00e2ce au r\u00e9sum\u00e9 2/ Compl\u00e9t\u00e9 par l'expos\u00e9 des d\u00e9tails quand on a besoin ... des d\u00e9tails. Merci. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 22:34 (CET)\n",
+                        "J'ai pris l'initiative de mettre [[Aide:Signature/r\u00e9sum\u00e9]] dans [[Mod\u00e8le:Non sign\u00e9]], mais cela peut se discuter et se r\u00e9verter. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|\u25ef]] 24 novembre 2007 \u00e0 16:09 (CET)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":\n",
+                                ":Je suis revenu \u00e0 une version assez proche de ce que tu souhaitais, j'esp\u00e8re que \u00e7a te conviendra et qu'on pourra revenir \u00e0 la situation ant\u00e9rieure sur {{m|non sign\u00e9}}, et transformer [[Aide:Signature/r\u00e9sum\u00e9]] en redirect (ou, si tu le pr\u00e9f\u00e8res, transf\u00e9rer le contenu du cadre vers cette sous-page, et inclure cette derni\u00e8re dans la page principale). <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/24.11.2007/18:15&nbsp;UTC/</tt>\n",
+                                ":: Moi, j'aime bien 1/ En prise direct sur l'essentiel gr\u00e2ce au r\u00e9sum\u00e9 2/ Compl\u00e9t\u00e9 par l'expos\u00e9 des d\u00e9tails quand on a besoin ... des d\u00e9tails. Merci. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 \u00e0 22:34 (CET)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "brunodesacacias",
+                            "time_stamp": "24 novembre 2007 \u00e0 22:34 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Teofilo",
+                    "time_stamp": "24 novembre 2007 \u00e0 16:09 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -209,7 +346,15 @@
                         "== Petite modification ==\n",
                         "\n",
                         "Voil\u00e0 j'ai ajout\u00e9 une autre fa\u00e7on de faire un <nowiki>~</nowiki> nottament dans le cas d'un ordi portable o\u00f9 l'on n'a pas toujours le clavier num\u00e9rique. <br>\n",
-                        "[[Utilisateur:Nicolashag|Nicol@Sh@g]]([[Discussion_Utilisateur:Nicolashag|d]]-[[Discussion_Utilisateur:Nicolashag/feu|dwp]]) 29 d\u00e9cembre 2007 \u00e0 11:01 (CET)\n",
+                        "[[Utilisateur:Nicolashag|Nicol@Sh@g]]([[Discussion_Utilisateur:Nicolashag|d]]-[[Discussion_Utilisateur:Nicolashag/feu|dwp]]) 29 d\u00e9cembre 2007 \u00e0 11:01 (CET)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Nicolashag",
+                    "time_stamp": "29 d\u00e9cembre 2007 \u00e0 11:01 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -235,29 +380,116 @@
                         "\n",
                         "Des objections ? [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]]\n",
                         ":Peut-\u00eatre peut-on faire ce que tu proposes dans le r\u00e9sum\u00e9 qui appara\u00eet en t\u00eate de la page, et d\u00e9tailler un peu plus loin toutes les m\u00e9thodes possibles, mais sans les mettre en valeur. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/15.01.2008/10:56&nbsp;UTC/</tt>\n",
-                        ":: Aucune objection de ma part. Je rappellerais que signer sans date un document destin\u00e9 \u00e0 un public est contraire aux r\u00e8gles \u00e9l\u00e9mentaires de la vie en soci\u00e9t\u00e9, ici comme ailleurs. Je me permettrais m\u00eame de conseiller, par exemple de toujours signer et dater un message laiss\u00e9 \u00e0 son patron ou \u00e0 son voisin de pallier ... pour \u00e9viter les ennuis. S'il y avait \u00e0 ajouter un point d'aide \u00e0 l'usage de la signature pour \u00e9viter des signatures non dat\u00e9es, ce serait d'ajouter cette remarque au descriptif de la technique de signature sans date. Du style, \u00ab Par courtoisie pour les lecteurs et pour leur faciliter la lecture chronologique des commentaires, chacun est invit\u00e9 \u00e0 dater les propos qu'il signe. Le recours de la technique de signature sans date est donc \u00e0 \u00e9viter. \u00bb Si on ne pouvait signer sans date qu'en for\u00e7ant la signature, je serais enchant\u00e9. Pour ma part, ma position est plus radicale. Je ne vois pas l'int\u00e9r\u00eat de signer sans le dater un commentaire dans un environnement aussi mobile que celui de Wikip\u00e9dia. Ici, un commentaire n'a de valeur qu'\u00e0 un instant bien pr\u00e9cis, \u00e0 la minute pr\u00e8s parfois. Bref, pour moi, les contributeurs qui signent sans dater sont des maladroits impolis qui devraient s'abstenir de poster des commentaires ou bien apprendre \u00e0 bien signer. Sign\u00e9 par moi ce jour mardi 15 janvier : --[[Utilisateur:brunodesacacias|Bruno des acacias]] 15 janvier 2008 \u00e0 13:40 (CET)\n",
-                        ":::Oh je suis presque aussi radical que toi !\n",
-                        ":::Il y a pourtant des faits qui interrogent, notamment qu'[[user:Anthere|Anthere]], que je ne te pr\u00e9sente pas, ne date que par inadvertance? ses messages, peut-\u00eatre un vestige ou m\u00e9lancolie du temps o\u00f9 les signatures \u00e9taient sans date (2002-2003). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 13:56 (CET)\n",
-                        ":::: Enti\u00e8rement d'accord pour toujours avoir la date [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) oups, excusez [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) 15 janvier 2008 \u00e0 17:25 (CET)  En en passant, pour moi qui suis un nord-am\u00e9ricain, que signifie le sigle (CET)?\n",
-                        ":::::Merci de cette approbation.\n",
-                        ":::::Question sigle ; on n'est pas plus avanc\u00e9 ici. J'ai vaguement su le sens, mais \u00e7a n'avait aucun int\u00e9r\u00eat (d'ailleurs pourquoi l'indique-t-on ?). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:19 (CET)\n",
-                        "::::::Dans [[CET]] il est indiqu\u00e9 [[Central European Time]], terme [[anglais]] signifiant '''[[heure d'Europe centrale]]''' ;[[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:21 (CET)\n",
-                        ":Je suis totalement d'accord, comme expliqu\u00e9 pr\u00e9c\u00e9demment sur le bistro.\n",
-                        ":Par contre, je propose d'aller plus loin, et <s>d'imposer</s> de '''tr\u00e8s''' fortement pousser \u00e0 inclure dans sa signature personnalis\u00e9e un lien vers sa PdD OU vers sa PU, ce qui semble de mise mais... pas pr\u00e9cis\u00e9.\n",
-                        ":Je propose donc de rajouter cette ''guideline'' dans :\n",
-                        ":* l'ent\u00eate, qui parle de personnalisation\n",
-                        ":* la section \"la signature brute\"\n",
-                        ":* ET, plus exhaustivement, dans \"pr\u00e9cautions importantes\"\n",
-                        ":Objections ? {{sourire}}\n",
-                        ":[[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 16 janvier 2008 \u00e0 02:17 (CET)\n",
-                        ":: Il y a l\u00e0 un point nouveau sur lequel je ne veux pas m'\u00e9tendre mais auquel je suis tr\u00e8s fortement oppos\u00e9 : l'association \u00e0 la signature du lien vers la page de discussion personnelle. Pour r\u00e9sumer, ce lien est inutile et dangereux. Inutile parce que la page de discussion est accessible \u00e0 partir de la page utilisateur, vers laquelle la signature pointe, page qu'il est pr\u00e9f\u00e9rable de visiter avant de laisser un message ; dangereux, parce qu'il est une invitation \u00e0 d\u00e9placer ailleurs la discussion. Par exemple, que ceux qui veulent de l'information compl\u00e9mentaire sur ce sujet me contactent ici pour que les autres soient en copie et je leur r\u00e9pondrais ici ; inutile donc de me contacter sur ma page personnelle ; et si cela \u00e9tait indispensable, alors, cliquez sur ma signature puis sur l'onglet appropri\u00e9 et vous serez sur ma page de discussion personnelle. Cordialement. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 \u00e0 08:48 (CET)\n",
-                        "::Par contre, je suis tr\u00e8s favorable \u00e0 un lien vers la page utilisateur, donc vers la PU, si PU = Page utilisateur. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 \u00e0 10:44 (CET)\n",
-                        ":::{{sourire}}. En effet, PU = Page utilisateur, d\u00e9sol\u00e9.\n",
-                        ":::Je l'impression que je n'ai pas \u00e9t\u00e9 clair : Ce que je proposais c'\u00e9tait d'inviter \u00e0 ce que la signature comprenne l'un, ou l'autre, ou les deux, \u00e0 seul but d'\u00e9viter de n'en avoir aucun ! Une simple signature \"NicDumZ\" est peu appr\u00e9ciable parce qu'il n'y a aucun lien vers l'espace de ce contributeur (comprendre Utilisateur:NicDumZ ou Discussion Utilisateur:NicDumZ), et que pour y acc\u00e9der, il faut soit taper le nom \u00e0 la main (en risquant de se faire avoir, si par exemple, imposteur, j'avais sign\u00e9 \"brunodesacacias\"), soit en passant par l'historique; ces deux \u00e9tapes sont plut\u00f4t une perte de temps pour les autres, qui n'est pas justifi\u00e9e, tant il est simple (et peu contraignant !) de mettre un lien vers une de ces deux pages dans sa signature.\n",
-                        ":::Es-tu d'accord avec moi sur ce point ?\n",
-                        ":::Pour la deuxi\u00e8me partie, \u00e0 savoir le d\u00e9tail de la r\u00e8gle, si tu as des raisons pour la restreindre \u00e0 \"au moins un lien vers la PU\", pourquoi pas, et on peut en discuter, mais pour ma part je ne trouve pas vraiment de justifications \u00e0 cette contrainte suppl\u00e9mentaire... [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 16 janvier 2008 \u00e0 12:31 (CET)\n",
-                        "::::Moi non plus ; que les contributeurs ne comprennent pas l'int\u00e9r\u00eat de signer avec une date, c'est \u00e9trange, mais il faut faire confiance aux autres pour g\u00e9rer et r\u00e9partir leurs messages \u00e0 bon escient.\n",
-                        "::::[[Utilisateur:NicDumZ|NicDumZ]] ; j'ai modifi\u00e9 la page, mais comme je n'avais pas saisi ce que tu souhaitais (maintenant si), je te propose d'ajouter ces pr\u00e9cisions toi-m\u00eame. [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 16 janvier 2008 \u00e0 13:05 (CET)\n",
+                        ":: Aucune objection de ma part. Je rappellerais que signer sans date un document destin\u00e9 \u00e0 un public est contraire aux r\u00e8gles \u00e9l\u00e9mentaires de la vie en soci\u00e9t\u00e9, ici comme ailleurs. Je me permettrais m\u00eame de conseiller, par exemple de toujours signer et dater un message laiss\u00e9 \u00e0 son patron ou \u00e0 son voisin de pallier ... pour \u00e9viter les ennuis. S'il y avait \u00e0 ajouter un point d'aide \u00e0 l'usage de la signature pour \u00e9viter des signatures non dat\u00e9es, ce serait d'ajouter cette remarque au descriptif de la technique de signature sans date. Du style, \u00ab Par courtoisie pour les lecteurs et pour leur faciliter la lecture chronologique des commentaires, chacun est invit\u00e9 \u00e0 dater les propos qu'il signe. Le recours de la technique de signature sans date est donc \u00e0 \u00e9viter. \u00bb Si on ne pouvait signer sans date qu'en for\u00e7ant la signature, je serais enchant\u00e9. Pour ma part, ma position est plus radicale. Je ne vois pas l'int\u00e9r\u00eat de signer sans le dater un commentaire dans un environnement aussi mobile que celui de Wikip\u00e9dia. Ici, un commentaire n'a de valeur qu'\u00e0 un instant bien pr\u00e9cis, \u00e0 la minute pr\u00e8s parfois. Bref, pour moi, les contributeurs qui signent sans dater sont des maladroits impolis qui devraient s'abstenir de poster des commentaires ou bien apprendre \u00e0 bien signer. Sign\u00e9 par moi ce jour mardi 15 janvier : --[[Utilisateur:brunodesacacias|Bruno des acacias]] 15 janvier 2008 \u00e0 13:40 (CET)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":::Oh je suis presque aussi radical que toi !\n",
+                                ":::Il y a pourtant des faits qui interrogent, notamment qu'[[user:Anthere|Anthere]], que je ne te pr\u00e9sente pas, ne date que par inadvertance? ses messages, peut-\u00eatre un vestige ou m\u00e9lancolie du temps o\u00f9 les signatures \u00e9taient sans date (2002-2003). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 13:56 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        ":::: Enti\u00e8rement d'accord pour toujours avoir la date [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) oups, excusez [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) 15 janvier 2008 \u00e0 17:25 (CET)  En en passant, pour moi qui suis un nord-am\u00e9ricain, que signifie le sigle (CET)?\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::::Merci de cette approbation.\n",
+                                                ":::::Question sigle ; on n'est pas plus avanc\u00e9 ici. J'ai vaguement su le sens, mais \u00e7a n'avait aucun int\u00e9r\u00eat (d'ailleurs pourquoi l'indique-t-on ?). [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:19 (CET)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "::::::Dans [[CET]] il est indiqu\u00e9 [[Central European Time]], terme [[anglais]] signifiant '''[[heure d'Europe centrale]]''' ;[[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 \u00e0 18:21 (CET)\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "TigH",
+                                                    "time_stamp": "15 janvier 2008 \u00e0 18:21 (CET)"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "TigH",
+                                            "time_stamp": "15 janvier 2008 \u00e0 18:19 (CET)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Dhatier",
+                                    "time_stamp": "15 janvier 2008 \u00e0 17:25 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "TigH",
+                            "time_stamp": "15 janvier 2008 \u00e0 13:56 (CET)"
+                        },
+                        {
+                            "text_blocks": [
+                                ":Je suis totalement d'accord, comme expliqu\u00e9 pr\u00e9c\u00e9demment sur le bistro.\n",
+                                ":Par contre, je propose d'aller plus loin, et <s>d'imposer</s> de '''tr\u00e8s''' fortement pousser \u00e0 inclure dans sa signature personnalis\u00e9e un lien vers sa PdD OU vers sa PU, ce qui semble de mise mais... pas pr\u00e9cis\u00e9.\n",
+                                ":Je propose donc de rajouter cette ''guideline'' dans :\n",
+                                ":* l'ent\u00eate, qui parle de personnalisation\n",
+                                ":* la section \"la signature brute\"\n",
+                                ":* ET, plus exhaustivement, dans \"pr\u00e9cautions importantes\"\n",
+                                ":Objections ? {{sourire}}\n",
+                                ":[[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 16 janvier 2008 \u00e0 02:17 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        ":: Il y a l\u00e0 un point nouveau sur lequel je ne veux pas m'\u00e9tendre mais auquel je suis tr\u00e8s fortement oppos\u00e9 : l'association \u00e0 la signature du lien vers la page de discussion personnelle. Pour r\u00e9sumer, ce lien est inutile et dangereux. Inutile parce que la page de discussion est accessible \u00e0 partir de la page utilisateur, vers laquelle la signature pointe, page qu'il est pr\u00e9f\u00e9rable de visiter avant de laisser un message ; dangereux, parce qu'il est une invitation \u00e0 d\u00e9placer ailleurs la discussion. Par exemple, que ceux qui veulent de l'information compl\u00e9mentaire sur ce sujet me contactent ici pour que les autres soient en copie et je leur r\u00e9pondrais ici ; inutile donc de me contacter sur ma page personnelle ; et si cela \u00e9tait indispensable, alors, cliquez sur ma signature puis sur l'onglet appropri\u00e9 et vous serez sur ma page de discussion personnelle. Cordialement. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 \u00e0 08:48 (CET)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "brunodesacacias",
+                                    "time_stamp": "16 janvier 2008 \u00e0 08:48 (CET)"
+                                },
+                                {
+                                    "text_blocks": [
+                                        "::Par contre, je suis tr\u00e8s favorable \u00e0 un lien vers la page utilisateur, donc vers la PU, si PU = Page utilisateur. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 \u00e0 10:44 (CET)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::{{sourire}}. En effet, PU = Page utilisateur, d\u00e9sol\u00e9.\n",
+                                                ":::Je l'impression que je n'ai pas \u00e9t\u00e9 clair : Ce que je proposais c'\u00e9tait d'inviter \u00e0 ce que la signature comprenne l'un, ou l'autre, ou les deux, \u00e0 seul but d'\u00e9viter de n'en avoir aucun ! Une simple signature \"NicDumZ\" est peu appr\u00e9ciable parce qu'il n'y a aucun lien vers l'espace de ce contributeur (comprendre Utilisateur:NicDumZ ou Discussion Utilisateur:NicDumZ), et que pour y acc\u00e9der, il faut soit taper le nom \u00e0 la main (en risquant de se faire avoir, si par exemple, imposteur, j'avais sign\u00e9 \"brunodesacacias\"), soit en passant par l'historique; ces deux \u00e9tapes sont plut\u00f4t une perte de temps pour les autres, qui n'est pas justifi\u00e9e, tant il est simple (et peu contraignant !) de mettre un lien vers une de ces deux pages dans sa signature.\n",
+                                                ":::Es-tu d'accord avec moi sur ce point ?\n",
+                                                ":::Pour la deuxi\u00e8me partie, \u00e0 savoir le d\u00e9tail de la r\u00e8gle, si tu as des raisons pour la restreindre \u00e0 \"au moins un lien vers la PU\", pourquoi pas, et on peut en discuter, mais pour ma part je ne trouve pas vraiment de justifications \u00e0 cette contrainte suppl\u00e9mentaire... [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 16 janvier 2008 \u00e0 12:31 (CET)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "::::Moi non plus ; que les contributeurs ne comprennent pas l'int\u00e9r\u00eat de signer avec une date, c'est \u00e9trange, mais il faut faire confiance aux autres pour g\u00e9rer et r\u00e9partir leurs messages \u00e0 bon escient.\n",
+                                                        "::::[[Utilisateur:NicDumZ|NicDumZ]] ; j'ai modifi\u00e9 la page, mais comme je n'avais pas saisi ce que tu souhaitais (maintenant si), je te propose d'ajouter ces pr\u00e9cisions toi-m\u00eame. [[Utilisateur:TigH|TigHerv\u00e9]][[Discussion Utilisateur:TigH|  (d)]] 16 janvier 2008 \u00e0 13:05 (CET)\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "TigH",
+                                                    "time_stamp": "16 janvier 2008 \u00e0 13:05 (CET)"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "NicDumZ",
+                                            "time_stamp": "16 janvier 2008 \u00e0 12:31 (CET)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "brunodesacacias",
+                                    "time_stamp": "16 janvier 2008 \u00e0 10:44 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "NicDumZ",
+                            "time_stamp": "16 janvier 2008 \u00e0 02:17 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "brunodesacacias",
+                    "time_stamp": "15 janvier 2008 \u00e0 13:40 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -272,16 +504,34 @@
                 {
                     "text_blocks": [
                         "==code qui ne fonctionne pas...==\n",
-                        "''--[[User:Felixggenest|&#39;&#39;&#39;&lt;font face=&quot;Kristen ITC&quot;&gt;&#91;&#91;Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;F\u00e9lix&lt;/font&gt;&#93;&#93;&#91;&#91;Special:Contributions/Felixggenest&#124;&lt;font color=259952&gt;g&lt;/font&gt;&#93;&#93;&#91;&#91;Discussion Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;genest&lt;/font&gt;&#93;&#93;&lt;/font&gt;&#39;&#39;&#39;]] ([[User talk:Felixggenest|d]]) 11 f\u00e9vrier 2008 \u00e0 23:38 (CET)'' <---- c'est \u00e7a qui s'affiche lorsque que je veux faire ma signature... je ny comprend rien : pourquoi affiche-t-il le code plut\u00f4t que son r\u00e9sultat? Merci de vos \u00e9claicissement! [[Utilisateur:Felixggenest|F\u00e9lixggenest]]\n",
-                        ":Je suppose que tu veux que ta signature soit :\"'''<font face=\"Kristen ITC\">[[Utilisateur:Felixggenest|<font color=000000>F\u00e9lix</font>]][[Special:Contributions/Felixggenest|<font color=259952>g</font>]][[Discussion Utilisateur:Felixggenest|<font color=000000>genest</font>]]</font>'''\" ? Je pense qu'il te faudra (simplement?!) cocher dans tes pr\u00e9f\u00e9rences \"signature brute\". [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 12 f\u00e9vrier 2008 \u00e0 08:02 (CET)\n",
-                        "::Bah non, comme je l'explique juste en haut, lorsque j'essaille de cocher ''signature brute'', ca m'indique ''Signature brute incorrecte ; V\u00e9rifiez vos balises HTML.''... C'est pas normal, tout ca... F\u00e9lixggenest\n",
-                        ":::\n",
-                        ":::Je pense que c'est du \u00e0 ta mani\u00e8re d'\u00e9crire les couleurs. Remplace les deux <code><nowiki><font color=000000></nowiki></code> par <code><nowiki><font color=\"#000000\"></nowiki></code>, et  <code><nowiki><font color=259952></nowiki></code> par <code><nowiki><font color=\"#259952\"></nowiki></code>. J'ai fait le test, \u00e7a devrait fonctionner. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/12.02.2008/15:07&nbsp;UTC/</tt>\n",
-                        ":::: Allez voir sur[http://fr.wikipedia.org/wiki/Discussion_Utilisateur:Felixggenest#I_need_somebody_help... ma page de discussion], moi je suis d\u00e9sesp\u00e9r\u00e9... F\u00e9lix GG\n",
-                        "\n"
+                        "''--[[User:Felixggenest|&#39;&#39;&#39;&lt;font face=&quot;Kristen ITC&quot;&gt;&#91;&#91;Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;F\u00e9lix&lt;/font&gt;&#93;&#93;&#91;&#91;Special:Contributions/Felixggenest&#124;&lt;font color=259952&gt;g&lt;/font&gt;&#93;&#93;&#91;&#91;Discussion Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;genest&lt;/font&gt;&#93;&#93;&lt;/font&gt;&#39;&#39;&#39;]] ([[User talk:Felixggenest|d]]) 11 f\u00e9vrier 2008 \u00e0 23:38 (CET)'' <---- c'est \u00e7a qui s'affiche lorsque que je veux faire ma signature... je ny comprend rien : pourquoi affiche-t-il le code plut\u00f4t que son r\u00e9sultat? Merci de vos \u00e9claicissement! [[Utilisateur:Felixggenest|F\u00e9lixggenest]]\n"
                     ],
-                    "comments": [],
-                    "cosigners": []
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Je suppose que tu veux que ta signature soit :\"'''<font face=\"Kristen ITC\">[[Utilisateur:Felixggenest|<font color=000000>F\u00e9lix</font>]][[Special:Contributions/Felixggenest|<font color=259952>g</font>]][[Discussion Utilisateur:Felixggenest|<font color=000000>genest</font>]]</font>'''\" ? Je pense qu'il te faudra (simplement?!) cocher dans tes pr\u00e9f\u00e9rences \"signature brute\". [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color=\"red\">~</font>]] 12 f\u00e9vrier 2008 \u00e0 08:02 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::Bah non, comme je l'explique juste en haut, lorsque j'essaille de cocher ''signature brute'', ca m'indique ''Signature brute incorrecte ; V\u00e9rifiez vos balises HTML.''... C'est pas normal, tout ca... F\u00e9lixggenest\n",
+                                        ":::\n",
+                                        ":::Je pense que c'est du \u00e0 ta mani\u00e8re d'\u00e9crire les couleurs. Remplace les deux <code><nowiki><font color=000000></nowiki></code> par <code><nowiki><font color=\"#000000\"></nowiki></code>, et  <code><nowiki><font color=259952></nowiki></code> par <code><nowiki><font color=\"#259952\"></nowiki></code>. J'ai fait le test, \u00e7a devrait fonctionner. <tt style=\"font-size:85%\">/[[User:IP 84.5|84]]\u2022[[User Talk:IP 84.5|5]]/12.02.2008/15:07&nbsp;UTC/</tt>\n",
+                                        ":::: Allez voir sur[http://fr.wikipedia.org/wiki/Discussion_Utilisateur:Felixggenest#I_need_somebody_help... ma page de discussion], moi je suis d\u00e9sesp\u00e9r\u00e9... F\u00e9lix GG\n",
+                                        "\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": []
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "NicDumZ",
+                            "time_stamp": "12 f\u00e9vrier 2008 \u00e0 08:02 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Felixggenest",
+                    "time_stamp": "11 f\u00e9vrier 2008 \u00e0 23:38 (CET)"
                 }
             ],
             "heading": "code qui ne fonctionne pas..."
@@ -292,13 +542,57 @@
                 {
                     "text_blocks": [
                         "==Signature via mod\u00e8le inclus==\n",
-                        "Est-ce interdit de signer par un mod\u00e8le, c'est-a-dire via une syntaxe {{m|user:xxx/signature}} ? -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 19 juin 2009 \u00e0 19:01 (CEST)\n",
-                        ":Pas de r\u00e9ponse \u00e0 cette question ? \u00e7a m'int\u00e9resserait de savoir, j'ai vu certains utilisateurs le faire, je pense que c'est possible. --[[Utilisateur:Chronoos|Chronoos]] ([[Discussion utilisateur:Chronoos|d]]) 4 novembre 2009 \u00e0 04:11 (CET)\n",
-                        "::en utilisant un subst, je dis pas mais je croyais que c'\u00e9tait trop gourmand pour le chargement des pages de discussion comme celle du Bistro -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 5 novembre 2009 \u00e0 13:46 (CET)\n",
-                        ":::J'utilise <nowiki>{{subst:Utilisateur:DavidL/Signature}}</nowiki> sans aucun probl\u00e8me.\n",
-                        ":::La pr\u00e9caution devrait faire exception pour les subst\n",
-                        ":::--&nbsp;\u25c4&nbsp;[[Utilisateur:DavidL|'''D'''avid&nbsp;'''L''']]&nbsp;\u2022&nbsp;[[Discussion Utilisateur:DavidL|discuter]]&nbsp;\u25ba 17 f\u00e9vrier 2012 \u00e0 19:47 (CET)\n",
-                        "::::C'est avoir une signature qui reste sous forme de mod\u00e8le qui est interdit, ce n'est pas g\u00eanant avec un subst puisque le mod\u00e8le est remplac\u00e9 par le texte lorsque la page est sauvegard\u00e9e (\u00e0 condition que le texte remplac\u00e9 ne soit pas un deuxi\u00e8me mod\u00e8le personnel bien s\u00fbr), en clair si il ne reste plus de <nowiki>{{user/...}}</nowiki> apr\u00e8s avoir sauvegard\u00e9, c'est bon.\u2009\u2013[[Utilisateur:Akeron|Akeron]]&nbsp;<small>[[Discussion Utilisateur:Akeron|(d)]]</small> 17 f\u00e9vrier 2012 \u00e0 22:38 (CET)\n",
+                        "Est-ce interdit de signer par un mod\u00e8le, c'est-a-dire via une syntaxe {{m|user:xxx/signature}} ? -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 19 juin 2009 \u00e0 19:01 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Pas de r\u00e9ponse \u00e0 cette question ? \u00e7a m'int\u00e9resserait de savoir, j'ai vu certains utilisateurs le faire, je pense que c'est possible. --[[Utilisateur:Chronoos|Chronoos]] ([[Discussion utilisateur:Chronoos|d]]) 4 novembre 2009 \u00e0 04:11 (CET)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::en utilisant un subst, je dis pas mais je croyais que c'\u00e9tait trop gourmand pour le chargement des pages de discussion comme celle du Bistro -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 5 novembre 2009 \u00e0 13:46 (CET)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::J'utilise <nowiki>{{subst:Utilisateur:DavidL/Signature}}</nowiki> sans aucun probl\u00e8me.\n",
+                                                ":::La pr\u00e9caution devrait faire exception pour les subst\n",
+                                                ":::--&nbsp;\u25c4&nbsp;[[Utilisateur:DavidL|'''D'''avid&nbsp;'''L''']]&nbsp;\u2022&nbsp;[[Discussion Utilisateur:DavidL|discuter]]&nbsp;\u25ba 17 f\u00e9vrier 2012 \u00e0 19:47 (CET)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "::::C'est avoir une signature qui reste sous forme de mod\u00e8le qui est interdit, ce n'est pas g\u00eanant avec un subst puisque le mod\u00e8le est remplac\u00e9 par le texte lorsque la page est sauvegard\u00e9e (\u00e0 condition que le texte remplac\u00e9 ne soit pas un deuxi\u00e8me mod\u00e8le personnel bien s\u00fbr), en clair si il ne reste plus de <nowiki>{{user/...}}</nowiki> apr\u00e8s avoir sauvegard\u00e9, c'est bon.\u2009\u2013[[Utilisateur:Akeron|Akeron]]&nbsp;<small>[[Discussion Utilisateur:Akeron|(d)]]</small> 17 f\u00e9vrier 2012 \u00e0 22:38 (CET)\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": [],
+                                                    "author": "Akeron",
+                                                    "time_stamp": "17 f\u00e9vrier 2012 \u00e0 22:38 (CET)"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "DavidL",
+                                            "time_stamp": "17 f\u00e9vrier 2012 \u00e0 19:47 (CET)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Xfigpower",
+                                    "time_stamp": "5 novembre 2009 \u00e0 13:46 (CET)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Chronoos",
+                            "time_stamp": "4 novembre 2009 \u00e0 04:11 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Xfigpower",
+                    "time_stamp": "19 juin 2009 \u00e0 19:01 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -316,8 +610,25 @@
                         "\n",
                         "Bonjour,\n",
                         "Sauriez-vous m'expliquer pourquoi lorsque je signe avec 4 tildes, je n'ai pas de lien vers ma page utilisateur ? Merci. --Fombelle 18 novembre 2013 \u00e0 16:03 (CET)\n",
-                        ":Si vous avez modifier votre signature dans vos pr\u00e9f\u00e9rences et ajout\u00e9 correctement un lien avec la syntaxe wiki, c'est probablement la case \u00ab\u00a0Signature en mode texte brut\u00a0\u00bb qui n'est pas coch\u00e9e. '''[[Utilisateur:Like tears in rain|Like tears in rain]]''' <sup>[[Discussion Utilisateur:Like tears in rain|{-_-}]]</sup> 19 novembre 2013 \u00e0 10:56 (CET)\n",
-                        "::Je l'ai d\u00e9coch\u00e9e, c'est r\u00e9gl\u00e9. Merci !! [[Utilisateur:Fombelle|Fombelle]] ([[Discussion utilisateur:Fombelle|discuter]]) 22 novembre 2013 \u00e0 20:07 (CET)\n",
+                        ":Si vous avez modifier votre signature dans vos pr\u00e9f\u00e9rences et ajout\u00e9 correctement un lien avec la syntaxe wiki, c'est probablement la case \u00ab\u00a0Signature en mode texte brut\u00a0\u00bb qui n'est pas coch\u00e9e. '''[[Utilisateur:Like tears in rain|Like tears in rain]]''' <sup>[[Discussion Utilisateur:Like tears in rain|{-_-}]]</sup> 19 novembre 2013 \u00e0 10:56 (CET)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "::Je l'ai d\u00e9coch\u00e9e, c'est r\u00e9gl\u00e9. Merci !! [[Utilisateur:Fombelle|Fombelle]] ([[Discussion utilisateur:Fombelle|discuter]]) 22 novembre 2013 \u00e0 20:07 (CET)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Fombelle",
+                            "time_stamp": "22 novembre 2013 \u00e0 20:07 (CET)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Like tears in rain",
+                    "time_stamp": "19 novembre 2013 \u00e0 10:56 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -335,34 +646,153 @@
                         "\n",
                         "Il faudrait probablement dire : [Ctrl]+ [Alt] + [;] au Qu\u00e9bec avec le clavier Fran\u00e7ais(Canada)\n",
                         "Je m'explique : Sous Windows 7 \u00c9dition familiale 64bits, on trouve pour le Fran\u00e7ais, au Canada, trois types de claviers, savoir : 1) canadien multilingue standard, 2) Fran\u00e7ais traditionnel (Canada) et 3) Fran\u00e7ais(Canada).  Malheureusement, le clavier qu\u00e9b\u00e9cois n'existe pas encore. Qui plus est, je pense que le clavier Fran\u00e7ais(Canada) avec lequel fonctionne le raccourci tilde de Wikipedia, n'est pas populaire  i.e. moins bien configur\u00e9 que, entre autres, le clavier Canadien multilingue fran\u00e7ais. Bref, les raccourcis offerts chez Wikipedia fr sont difficiles d'acc\u00e8s. J'ai d\u00fb abandonner le clavier canadien multilingue fran\u00e7ais et opter pour le Fran\u00e7ais (Canada). Tout un apprentissage - complexe et non unifi\u00e9 pour ici au Qu\u00e9bec !\n",
-                        "Si je savais comment cr\u00e9er des raccourcis clavier sous Windows 7, je choisirais ind\u00e9niablement cette m\u00e9thode. Quant au clavier Fran\u00e7ais France), les lettres sont en diff\u00e9rents endroits que ceux utilis\u00e9s ici, entre autres : a z w q m etc. J'esp\u00e8re que ce billet sera utile. Cordialement. Nouveau wikip\u00e9dien [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:15 (CEST)\n",
-                        ": j'oubliais de mentionner : j'ai longuement fouill\u00e9 sur Internet afin de trouver la mani\u00e8re de cr\u00e9er des raccourcis sous W7 pour qu\u00e9b\u00e9cois francophones. Rien trouv\u00e9 encore. Par contre, je sais qu'il existe des logiciels qui permettent de s'ex\u00e9cuter mais j'ignore lesquels voire s'ils sont gratuits. Je poursuis mes fouilles aujourd'hui. Si vous d\u00e9sirez r\u00e9agir \u00e0 ce message, ce serait appr\u00e9ci\u00e9. Merci [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:22 (CEST)\n",
-                        "\n",
-                        ": J'ai trouv\u00e9 un logiciel gratuit que je suis en train de tester. Pour les int\u00e9ress\u00e9s, voici le lien http://www.commentcamarche.net/telecharger/telecharger-34056676-clavier  [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:35 (CEST)\n",
+                        "Si je savais comment cr\u00e9er des raccourcis clavier sous Windows 7, je choisirais ind\u00e9niablement cette m\u00e9thode. Quant au clavier Fran\u00e7ais France), les lettres sont en diff\u00e9rents endroits que ceux utilis\u00e9s ici, entre autres : a z w q m etc. J'esp\u00e8re que ce billet sera utile. Cordialement. Nouveau wikip\u00e9dien [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:15 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ": j'oubliais de mentionner : j'ai longuement fouill\u00e9 sur Internet afin de trouver la mani\u00e8re de cr\u00e9er des raccourcis sous W7 pour qu\u00e9b\u00e9cois francophones. Rien trouv\u00e9 encore. Par contre, je sais qu'il existe des logiciels qui permettent de s'ex\u00e9cuter mais j'ignore lesquels voire s'ils sont gratuits. Je poursuis mes fouilles aujourd'hui. Si vous d\u00e9sirez r\u00e9agir \u00e0 ce message, ce serait appr\u00e9ci\u00e9. Merci [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:22 (CEST)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Dr.mbl",
+                            "time_stamp": "29 juin 2014 \u00e0 16:22 (CEST)"
+                        },
+                        {
+                            "text_blocks": [
+                                "\n",
+                                ": J'ai trouv\u00e9 un logiciel gratuit que je suis en train de tester. Pour les int\u00e9ress\u00e9s, voici le lien http://www.commentcamarche.net/telecharger/telecharger-34056676-clavier  [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 16:35 (CEST)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Dr.mbl",
+                            "time_stamp": "29 juin 2014 \u00e0 16:35 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Dr.mbl",
+                    "time_stamp": "29 juin 2014 \u00e0 16:15 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "Hello et bienvenue, je ne comprends pas tr\u00e8s bien : sur toute page de discussion, tu as en mode 'modification' le message suivant:\n",
                         "{{MediaWiki:Talkpagetext}}\n",
                         "Pourquoi ne cliques-tu pas simplement sur l'ic\u00f4ne de signature [[\n",
                         "\n",
                         "File:Insert-signature.png]]\n",
                         "\n",
-                        "? Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 16:37 (CEST)\n",
-                        ": L\u00e0 n'est pas exactement le point. Ici, souvent l'ic\u00f4ne signature n'appara\u00eet pas du tout, d'une part. Ou bien ne fonctionnepas. D'autre part, mon intervention vise \u00e0 enrichir et \u00e0 contribuer \u00e0 l'exactitude des renseignements offerts dans l'aide:signature. Ai-je tort ?\n",
-                        "::Pas du tout ! C'est juste que je n'avais pas bien compris. Bonne continuation. Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 16:59 (CEST)\n",
-                        "::: Vois ce que je voulais dire : Dans mon dernier message, il n'y a pas de signature justement; pourtant, j'ai bel et bien cliqu\u00e9 sur le bouton de signature. Mais \u00e7a n'a pas fonctionn\u00e9. Quant \u00e0 moi, je n'y comprends rien. Peut-petre diff\u00e9rences entre navigateurs, fen\u00eatres d'\u00e9dition (monobook, beta, vecteur, ??? ) Alors, je vais continuer d'utiliser un raccourci en attendant ... merci de m'avoir aid\u00e9e \u00e0 pr\u00e9ciser mon intervention. Amicalement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 17:09 (CEST)\n",
-                        "::::J'ai mis [//fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Le_Bistro/29_juin_2014&diff=105053977&oldid=105053094 un mot] \u00e0 ce sujet au bistrot. Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 17:17 (CEST)\n",
+                        "? Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 16:37 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ": L\u00e0 n'est pas exactement le point. Ici, souvent l'ic\u00f4ne signature n'appara\u00eet pas du tout, d'une part. Ou bien ne fonctionnepas. D'autre part, mon intervention vise \u00e0 enrichir et \u00e0 contribuer \u00e0 l'exactitude des renseignements offerts dans l'aide:signature. Ai-je tort ?\n",
+                                "::Pas du tout ! C'est juste que je n'avais pas bien compris. Bonne continuation. Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 16:59 (CEST)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::: Vois ce que je voulais dire : Dans mon dernier message, il n'y a pas de signature justement; pourtant, j'ai bel et bien cliqu\u00e9 sur le bouton de signature. Mais \u00e7a n'a pas fonctionn\u00e9. Quant \u00e0 moi, je n'y comprends rien. Peut-petre diff\u00e9rences entre navigateurs, fen\u00eatres d'\u00e9dition (monobook, beta, vecteur, ??? ) Alors, je vais continuer d'utiliser un raccourci en attendant ... merci de m'avoir aid\u00e9e \u00e0 pr\u00e9ciser mon intervention. Amicalement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 17:09 (CEST)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "::::J'ai mis [//fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Le_Bistro/29_juin_2014&diff=105053977&oldid=105053094 un mot] \u00e0 ce sujet au bistrot. Cordialement, <span style=\"padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em\">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 \u00e0 17:17 (CEST)\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": [],
+                                            "author": "Racconish",
+                                            "time_stamp": "29 juin 2014 \u00e0 17:17 (CEST)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Dr.mbl",
+                                    "time_stamp": "29 juin 2014 \u00e0 17:09 (CEST)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Racconish",
+                            "time_stamp": "29 juin 2014 \u00e0 16:59 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Racconish",
+                    "time_stamp": "29 juin 2014 \u00e0 16:37 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         ":::::Bonsoir, peut-\u00eatre que pour tes probl\u00e8mes de clavier, tu pourrais utiliser le clavier visuel de windows ? D\u00e9marrer,  sous-menus \" Tous les programmes \" / \" Accessoires \" / \" Option d'ergonomie \" et cliquer sur \" Clavier visuel \". Ceci juste pour ta session wikipedia. Cela ne r\u00e9sout pas ton probl\u00e8me de bouton de signature. Mais celui ci n'appara\u00eet pas partout non plus ! (le bistrot, les articles). Il ne doit appara\u00eetre qu'en mode discussion. Peut-\u00eatre est-ce ton probl\u00e8me ? Quel navigateur utilises-tu ? As-tu ouvert une session wikipedia avec un autre navigateur ? <span class=\"smiley\">[[\n\nImage:Waving.png|20px|Bonjour]]\n\n</span>\n",
                         "\n",
-                        "[[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 \u00e0 18:44 (CEST)\n",
-                        "\n",
-                        ":::::Merci Sg7438. Je fais environ 135 mots minute sur un clavier. Tu comprendras que le clavier visuel de Windows est un outil qui ne correspond pas \u00e0 mes besoins particuliers : rapidit\u00e9 et pr\u00e9cision orthographique. J'ai r\u00e9solu temporairement le probl\u00e8me en modifiant la langue d'entr\u00e9e sur mes 3 claviers savoir Fran\u00e7ais [Canada]. J'\u00e9cris beaucoup. Beaucoup de notes (Notebook de Microsoft, etc), Excel, Word, R\u00e9f\u00e9rences bibliographiques,etcetera.. L'intention premi`re de mon message dans cette discussion consistait \u00e0 signaler que l'article principal pourrait \u00eatre enrichi ou corrig\u00e9. Il est conseill\u00e9 de ne pas apporter de corrections directes pour la page en question. D'o\u00f9 ce message. Je te remercie de t'impliquer. [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 19:01 (CEST)\n",
-                        "::::::Je comprends, mais au niveau frappe pure (texte, le type de clavier ne doit pas avoir d'importance si ? ) (Clavier Qwerty ou Azerty peu importe). Le clavier visuel (que tu peux r\u00e9duire) te servirait pour les codes  (par ex. tildes) qui ne figurent pas (visiblement sur ton clavier ; une fois le signe trouv\u00e9 tu r\u00e9duits ce clavier qui n'est qu'une aide suppl\u00e9mentaire ! As-tu r\u00e9solu ton probl\u00e8me de bouton de signature ? <span class=\"smiley\">[[Image:Waving.png|20px|Bonjour]]</span> [[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 \u00e0 19:13 (CEST)\n",
-                        "\n",
-                        "::::::'ai fait plusieurs d\u00e9couvertes fort instructives en ce qui concerne les touches de raccourci clavier sous Windows 7 - J'aimerais participer - je veux dire ma contribution - dans Wikipedia sur ce sujet sp\u00e9cifique. Comment faire ?[[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 23:20 (CEST)\n",
-                        "\n",
-                        ":::::: J'utilise Google Chrome.  Mais je pense avoir tout r\u00e9solu relativement \u00e0 cette probl\u00e9matique. Si tu vas dans le bac \u00e0 sable, j'ai beaucoup pratique les options qui s'offrent \u00e0 moi pour les raccourcis clavier utilis\u00e9s dans Wikimedia. Merci de ton int\u00e9r\u00eat soutenu.<span class=\"smiley\">[[Image:Waving.png|20px|Bonjour]]</span> [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 \u00e0 03:06 (CEST)\n",
-                        "Bonjour, avez-vous remarqu\u00e9 qu'il y a toujours souse la fen\u00eatre de r\u00e9sum\u00e9 de modification (en dessous de \"Enregistrer\" \"Pr\u00e9visualiser\"..) un encadr\u00e9 avec \"Caract\u00e8res sp\u00e9ciaux\" ? Quand le menu d\u00e9roulant est sur \"Wiki\", on a des codes \u00e0 cliquer, y compris vers la fin de la liste les quatre tild\u00e9s pour signer ? -- Amicalement, [[Utilisateur:Salix|Salix]] <sup>&#91;[[Discussion Utilisateur:Salix|Converser]]&#93;</sup> 30 juin 2014 \u00e0 01:00 (CEST)\n",
-                        "\n",
-                        ": Oui, j'ai bien explor\u00e9 presque tous les outils offerts par Wikimedia (\u00c9diteurs de texte, etc). Je parviens parfois \u00e0 les utiliser. Toujours est-il que j'ai r\u00e9solu ce probl\u00e8me de clavier  mais j'ignore comment partager ces donn\u00e9es de grande utilit\u00e9 par ailleurs. Merci, Salix. Cordialement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 \u00e0 02:58 (CEST)\n",
+                        "[[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 \u00e0 18:44 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "\n",
+                                ":::::Merci Sg7438. Je fais environ 135 mots minute sur un clavier. Tu comprendras que le clavier visuel de Windows est un outil qui ne correspond pas \u00e0 mes besoins particuliers : rapidit\u00e9 et pr\u00e9cision orthographique. J'ai r\u00e9solu temporairement le probl\u00e8me en modifiant la langue d'entr\u00e9e sur mes 3 claviers savoir Fran\u00e7ais [Canada]. J'\u00e9cris beaucoup. Beaucoup de notes (Notebook de Microsoft, etc), Excel, Word, R\u00e9f\u00e9rences bibliographiques,etcetera.. L'intention premi`re de mon message dans cette discussion consistait \u00e0 signaler que l'article principal pourrait \u00eatre enrichi ou corrig\u00e9. Il est conseill\u00e9 de ne pas apporter de corrections directes pour la page en question. D'o\u00f9 ce message. Je te remercie de t'impliquer. [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 19:01 (CEST)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::::::Je comprends, mais au niveau frappe pure (texte, le type de clavier ne doit pas avoir d'importance si ? ) (Clavier Qwerty ou Azerty peu importe). Le clavier visuel (que tu peux r\u00e9duire) te servirait pour les codes  (par ex. tildes) qui ne figurent pas (visiblement sur ton clavier ; une fois le signe trouv\u00e9 tu r\u00e9duits ce clavier qui n'est qu'une aide suppl\u00e9mentaire ! As-tu r\u00e9solu ton probl\u00e8me de bouton de signature ? <span class=\"smiley\">[[Image:Waving.png|20px|Bonjour]]</span> [[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 \u00e0 19:13 (CEST)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "Sg7438",
+                                    "time_stamp": "29 juin 2014 \u00e0 19:13 (CEST)"
+                                },
+                                {
+                                    "text_blocks": [
+                                        "\n",
+                                        "::::::'ai fait plusieurs d\u00e9couvertes fort instructives en ce qui concerne les touches de raccourci clavier sous Windows 7 - J'aimerais participer - je veux dire ma contribution - dans Wikipedia sur ce sujet sp\u00e9cifique. Comment faire ?[[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 \u00e0 23:20 (CEST)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "Dr.mbl",
+                                    "time_stamp": "29 juin 2014 \u00e0 23:20 (CEST)"
+                                },
+                                {
+                                    "text_blocks": [
+                                        "\n",
+                                        ":::::: J'utilise Google Chrome.  Mais je pense avoir tout r\u00e9solu relativement \u00e0 cette probl\u00e9matique. Si tu vas dans le bac \u00e0 sable, j'ai beaucoup pratique les options qui s'offrent \u00e0 moi pour les raccourcis clavier utilis\u00e9s dans Wikimedia. Merci de ton int\u00e9r\u00eat soutenu.<span class=\"smiley\">[[Image:Waving.png|20px|Bonjour]]</span> [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 \u00e0 03:06 (CEST)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "Dr.mbl",
+                                    "time_stamp": "30 juin 2014 \u00e0 03:06 (CEST)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Dr.mbl",
+                            "time_stamp": "29 juin 2014 \u00e0 19:01 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Sg7438",
+                    "time_stamp": "29 juin 2014 \u00e0 18:44 (CEST)"
+                },
+                {
+                    "text_blocks": [
+                        "Bonjour, avez-vous remarqu\u00e9 qu'il y a toujours souse la fen\u00eatre de r\u00e9sum\u00e9 de modification (en dessous de \"Enregistrer\" \"Pr\u00e9visualiser\"..) un encadr\u00e9 avec \"Caract\u00e8res sp\u00e9ciaux\" ? Quand le menu d\u00e9roulant est sur \"Wiki\", on a des codes \u00e0 cliquer, y compris vers la fin de la liste les quatre tild\u00e9s pour signer ? -- Amicalement, [[Utilisateur:Salix|Salix]] <sup>&#91;[[Discussion Utilisateur:Salix|Converser]]&#93;</sup> 30 juin 2014 \u00e0 01:00 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "\n",
+                                ": Oui, j'ai bien explor\u00e9 presque tous les outils offerts par Wikimedia (\u00c9diteurs de texte, etc). Je parviens parfois \u00e0 les utiliser. Toujours est-il que j'ai r\u00e9solu ce probl\u00e8me de clavier  mais j'ignore comment partager ces donn\u00e9es de grande utilit\u00e9 par ailleurs. Merci, Salix. Cordialement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 \u00e0 02:58 (CEST)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Dr.mbl",
+                            "time_stamp": "30 juin 2014 \u00e0 02:58 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Salix",
+                    "time_stamp": "30 juin 2014 \u00e0 01:00 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -380,13 +810,48 @@
                         "\n",
                         "Bonjour. Quelqu'un sait-il pourquoi la signature automatique donne \"''Nom'' (discuter) ''date'' \u00e0 ''heure''\" au lieu de \"''Nom'' (discuter)''', le''' ''date'' \u00e0 ''heure'''''.'''\" ?\n",
                         "\n",
-                        "[[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 ao\u00fbt 2014 \u00e0 18:52 (CEST).\n",
-                        ":Bonjour\n",
-                        ":Je pense que la r\u00e9ponse est tr\u00e8s b\u00eate : personne n'a pans\u00e9 \u00e0 configurer cela ! {{=)}}\n",
-                        ":Personnellement, j\u2019avais tent\u00e9 de mettre cela en place pour ma signature, mais c'\u00e9tait incompatible avec les deux autres raccourcis de signature que sont <nowiki>~~~ et ~~~~~</nowiki>.\n",
-                        ":<strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  24 ao\u00fbt 2014 \u00e0 19:50 (CEST)\n",
-                        ":: Est-ce qu'il serait d\u00e9sormais possible d'am\u00e9liorer les mod\u00e8les comme propos\u00e9 ? [[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 ao\u00fbt 2014 \u00e0 20:53 (CEST).\n",
-                        "::: Ma signature est cod\u00e9e pour avoir un \"le\", vous pouvez copier le code si cela vous int\u00e9resse : <code><nowiki><font style=\"color:#0000FF\">[[Utilisateur:NemesisIII|''Nemesis III'']]</font> <sup>[[Discussion utilisateur:NemesisIII|<span style=\"color:#0000FF;\">(me contacter)</span>]]</sup>, le</nowiki></code>. Mais du coup je ne signe seulement qu'avec <nowiki>~~~~</nowiki>, ou alors je signe \"manuellement\" (m\u00eame si \u00e7a ne m\u2019arrive que tr\u00e8s rarement). [[Utilisateur:NemesisIII|<font style=\"color:#0000FF\">''Nemesis III''</font>]] <sup>[[Discussion utilisateur:NemesisIII|<span style=\"color:#0000FF;\">(me contacter)</span>]]</sup>, le 24 ao\u00fbt 2014 \u00e0 21:43 (CEST).\n",
+                        "[[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 ao\u00fbt 2014 \u00e0 18:52 (CEST).\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Bonjour\n",
+                                ":Je pense que la r\u00e9ponse est tr\u00e8s b\u00eate : personne n'a pans\u00e9 \u00e0 configurer cela ! {{=)}}\n",
+                                ":Personnellement, j\u2019avais tent\u00e9 de mettre cela en place pour ma signature, mais c'\u00e9tait incompatible avec les deux autres raccourcis de signature que sont <nowiki>~~~ et ~~~~~</nowiki>.\n",
+                                ":<strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  24 ao\u00fbt 2014 \u00e0 19:50 (CEST)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        ":: Est-ce qu'il serait d\u00e9sormais possible d'am\u00e9liorer les mod\u00e8les comme propos\u00e9 ? [[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 ao\u00fbt 2014 \u00e0 20:53 (CEST).\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "::: Ma signature est cod\u00e9e pour avoir un \"le\", vous pouvez copier le code si cela vous int\u00e9resse : <code><nowiki><font style=\"color:#0000FF\">[[Utilisateur:NemesisIII|''Nemesis III'']]</font> <sup>[[Discussion utilisateur:NemesisIII|<span style=\"color:#0000FF;\">(me contacter)</span>]]</sup>, le</nowiki></code>. Mais du coup je ne signe seulement qu'avec <nowiki>~~~~</nowiki>, ou alors je signe \"manuellement\" (m\u00eame si \u00e7a ne m\u2019arrive que tr\u00e8s rarement). [[Utilisateur:NemesisIII|<font style=\"color:#0000FF\">''Nemesis III''</font>]] <sup>[[Discussion utilisateur:NemesisIII|<span style=\"color:#0000FF;\">(me contacter)</span>]]</sup>, le 24 ao\u00fbt 2014 \u00e0 21:43 (CEST).\n"
+                                            ],
+                                            "comments": [],
+                                            "cosigners": [],
+                                            "author": "NemesisIII",
+                                            "time_stamp": "24 ao\u00fbt 2014 \u00e0 21:43 (CEST)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "5678 THE 4329",
+                                    "time_stamp": "24 ao\u00fbt 2014 \u00e0 20:53 (CEST)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Trizek",
+                            "time_stamp": "24 ao\u00fbt 2014 \u00e0 19:50 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "5678 THE 4329",
+                    "time_stamp": "24 ao\u00fbt 2014 \u00e0 18:52 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -402,21 +867,91 @@
                     "text_blocks": [
                         "== Allusion au template Waterwak de Commons ? ==\n",
                         "\n",
-                        "Dans \"Il ne faut pas signer les contenus encyclop\u00e9diques (articles, images)\", il y a la phrase {{Citation|Vous pouvez utiliser le mod\u00e8le <nowiki>{{Watermark}}</nowiki> sur la page de description d'une telle image pr\u00e9sente sur Commons}}. Je ne comprends pas. Cette phrase est \u00e0 un endroit o\u00f9 l'article sugg\u00e8re des mani\u00e8res alternatives et licites de signer une image (sur Commons). Or le mod\u00e8le \"Watermak\" ne permet pas, en lui-m\u00eame, de signer, mais seulement de signaler qu'une image poss\u00e8de un Watermark, ce qui est de plus d\u00e9conseill\u00e9 sur Commons (mais pas formellement interdit). Donc ce n'est pas une suggestion pour signer une image sur commons, et si s'en est une c'est plut\u00f4t une mauvaise suggestion. Je propose la suppression de cette phrase. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 10:47 (CEST)\n",
-                        ":Je plussoie. --[[Utilisateur:Framawiki|Framawiki]] <sup>[[Discussion Utilisateur:Framawiki|&#x2709;]]</sup> 24 juin 2017 \u00e0 11:47 (CEST)\n",
-                        "::<s>Bonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}</s>\n",
-                        "::<s>En effet, il y a une ambigu\u00eft\u00e9. Au lieu de supprimer cette phrase (qui indique quand m\u00eame un mod\u00e8le int\u00e9ressant) je pense qu'il suffirait de changer l\u00e9g\u00e8rement ce passage, comme cela : \u00ab Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9 (vous pouvez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une telle image). Chaque image poss\u00e8de une page de description o\u00f9 le nom de l'auteur doit figurer. Il est possible \u00e9galement de faire figurer le nom de l'auteur dans les m\u00e9tadonn\u00e9es [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des donn\u00e9es meta|comment manipuler les m\u00e9tadonn\u00e9es]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de sp\u00e9cial ne soit pr\u00e9vu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation \u00e0 l'int\u00e9rieur de la version originale du fichier). \u00bb</s>\n",
-                        "::<s>Wikip\u00e9diennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 12:10 (CEST)</s>\n",
-                        ":::Rebonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}\n",
-                        ":::Par homog\u00e9n\u00e9it\u00e9 avec le reste de la page d'aide, je pense qu'il suffirait de changer le passage, comme cela :\n",
-                        ":::* '''Les images ne sont pas sign\u00e9es.'''<br />Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9. Chaque image poss\u00e8de une page de description o\u00f9 le nom de l'auteur doit figurer. Il est possible \u00e9galement de faire figurer le nom de l'auteur dans les m\u00e9tadonn\u00e9es [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des donn\u00e9es meta|comment manipuler les m\u00e9tadonn\u00e9es]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de sp\u00e9cial ne soit pr\u00e9vu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation \u00e0 l'int\u00e9rieur de la version originale du fichier).\n",
-                        ":::** \u25ba Vous pouvez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une image ayant un [[Tatouage num\u00e9rique|watermark]].\n",
-                        ":::Wikip\u00e9diennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 12:19 (CEST)\n",
-                        "::::Il faudrait tout de m\u00eame signaler que cette pratique est d\u00e9conseill\u00e9e; l\u00e0 on peut penser que c'est une \u00e9chappatoire licite si on tient \u00e0 tout prix \u00e0 signer. Je verrais plut\u00f4t \"Si l'image contient un  [[Tatouage num\u00e9rique|watermark]] (ce qui est d\u00e9conseill\u00e9), vous devez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour le signaler\". --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 12:27 (CEST)\n",
-                        ":::::{{Notif|Jean-Christophe BENOIST}} OK c'est encore plus clair (mais je trouve la transformation \u00ab vous pouvez \u00bb \u2192 \u00ab vous devez \u00bb un peu s\u00e9v\u00e8re, et je pensais que le d\u00e9but du paragraphe \u00ab Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9 \u00bb suffisait, et je voulais surtout \u00eatre homog\u00e8ne avec le reste de la page d'aide o\u00f9 le symbole \u00ab \u25ba \u00bb annonce toujours un mod\u00e8le signalant que mauvaise pratique).\n",
-                        ":::::Je pr\u00e9f\u00e8re toujours l'adaptation du passage plut\u00f4t que la suppression de la phrase, m\u00eame si la page [[Aide:signature]] n'est peut-\u00eatre pas la plus adapt\u00e9e pour traiter le sujet. [[Wikip\u00e9dia:R\u00e8gles d'utilisation des images]] et [[Aide:Cr\u00e9dit d'auteurs]] me sembleraient plus adapt\u00e9es. Par ailleurs, deux sujets peuvent \u00eatre distingu\u00e9s : le \u00ab cr\u00e9dit d'auteur via watermark \u00bb et le \u00ab cr\u00e9dit d'auteur via la l\u00e9gende \u00bb. Sur WP en anglais, j'ai moi-m\u00eame retir\u00e9 des \u00ab cr\u00e9dits d'auteur via la l\u00e9gende \u00bb (cf. [[:en:Talk:Jennifer Aniston#Adding photographer's credit to a photo caption]]), en r\u00e9f\u00e9ren\u00e7ant [[:en:WP:WATERMARK]] (qui est une section de [[:en:Wikipedia:Image use policy]], la version anglaise de [[Wikip\u00e9dia:R\u00e8gles d'utilisation des images]]). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 15:26 (CEST)\n",
-                        "::::::Et avec \"devriez\" au lieu de \"devez\" ? Je pense que l\u00e0 on converge. Je vais faire un essai de modif pour voir ce que cela donne, modifiable/r\u00e9vertable naturellement. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 15:29 (CEST)\n",
-                        ":::::{{Notif|Jean-Christophe BENOIST}} OK (avec \u00ab\u00a0Si une image\u00a0\u00bb au lieu de \u00ab\u00a0Si l'image\u00a0\u00bb). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 15:47 (CEST)\n",
+                        "Dans \"Il ne faut pas signer les contenus encyclop\u00e9diques (articles, images)\", il y a la phrase {{Citation|Vous pouvez utiliser le mod\u00e8le <nowiki>{{Watermark}}</nowiki> sur la page de description d'une telle image pr\u00e9sente sur Commons}}. Je ne comprends pas. Cette phrase est \u00e0 un endroit o\u00f9 l'article sugg\u00e8re des mani\u00e8res alternatives et licites de signer une image (sur Commons). Or le mod\u00e8le \"Watermak\" ne permet pas, en lui-m\u00eame, de signer, mais seulement de signaler qu'une image poss\u00e8de un Watermark, ce qui est de plus d\u00e9conseill\u00e9 sur Commons (mais pas formellement interdit). Donc ce n'est pas une suggestion pour signer une image sur commons, et si s'en est une c'est plut\u00f4t une mauvaise suggestion. Je propose la suppression de cette phrase. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 10:47 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Je plussoie. --[[Utilisateur:Framawiki|Framawiki]] <sup>[[Discussion Utilisateur:Framawiki|&#x2709;]]</sup> 24 juin 2017 \u00e0 11:47 (CEST)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::<s>Bonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}</s>\n",
+                                        "::<s>En effet, il y a une ambigu\u00eft\u00e9. Au lieu de supprimer cette phrase (qui indique quand m\u00eame un mod\u00e8le int\u00e9ressant) je pense qu'il suffirait de changer l\u00e9g\u00e8rement ce passage, comme cela : \u00ab Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9 (vous pouvez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une telle image). Chaque image poss\u00e8de une page de description o\u00f9 le nom de l'auteur doit figurer. Il est possible \u00e9galement de faire figurer le nom de l'auteur dans les m\u00e9tadonn\u00e9es [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des donn\u00e9es meta|comment manipuler les m\u00e9tadonn\u00e9es]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de sp\u00e9cial ne soit pr\u00e9vu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation \u00e0 l'int\u00e9rieur de la version originale du fichier). \u00bb</s>\n",
+                                        "::<s>Wikip\u00e9diennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 12:10 (CEST)</s>\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                ":::Rebonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}\n",
+                                                ":::Par homog\u00e9n\u00e9it\u00e9 avec le reste de la page d'aide, je pense qu'il suffirait de changer le passage, comme cela :\n",
+                                                ":::* '''Les images ne sont pas sign\u00e9es.'''<br />Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9. Chaque image poss\u00e8de une page de description o\u00f9 le nom de l'auteur doit figurer. Il est possible \u00e9galement de faire figurer le nom de l'auteur dans les m\u00e9tadonn\u00e9es [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des donn\u00e9es meta|comment manipuler les m\u00e9tadonn\u00e9es]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de sp\u00e9cial ne soit pr\u00e9vu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation \u00e0 l'int\u00e9rieur de la version originale du fichier).\n",
+                                                ":::** \u25ba Vous pouvez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une image ayant un [[Tatouage num\u00e9rique|watermark]].\n",
+                                                ":::Wikip\u00e9diennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 12:19 (CEST)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        "::::Il faudrait tout de m\u00eame signaler que cette pratique est d\u00e9conseill\u00e9e; l\u00e0 on peut penser que c'est une \u00e9chappatoire licite si on tient \u00e0 tout prix \u00e0 signer. Je verrais plut\u00f4t \"Si l'image contient un  [[Tatouage num\u00e9rique|watermark]] (ce qui est d\u00e9conseill\u00e9), vous devez utiliser le mod\u00e8le [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour le signaler\". --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 12:27 (CEST)\n"
+                                                    ],
+                                                    "comments": [
+                                                        {
+                                                            "text_blocks": [
+                                                                ":::::{{Notif|Jean-Christophe BENOIST}} OK c'est encore plus clair (mais je trouve la transformation \u00ab vous pouvez \u00bb \u2192 \u00ab vous devez \u00bb un peu s\u00e9v\u00e8re, et je pensais que le d\u00e9but du paragraphe \u00ab Le fait de signer une image dans l'image elle-m\u00eame est fortement d\u00e9conseill\u00e9 \u00bb suffisait, et je voulais surtout \u00eatre homog\u00e8ne avec le reste de la page d'aide o\u00f9 le symbole \u00ab \u25ba \u00bb annonce toujours un mod\u00e8le signalant que mauvaise pratique).\n",
+                                                                ":::::Je pr\u00e9f\u00e8re toujours l'adaptation du passage plut\u00f4t que la suppression de la phrase, m\u00eame si la page [[Aide:signature]] n'est peut-\u00eatre pas la plus adapt\u00e9e pour traiter le sujet. [[Wikip\u00e9dia:R\u00e8gles d'utilisation des images]] et [[Aide:Cr\u00e9dit d'auteurs]] me sembleraient plus adapt\u00e9es. Par ailleurs, deux sujets peuvent \u00eatre distingu\u00e9s : le \u00ab cr\u00e9dit d'auteur via watermark \u00bb et le \u00ab cr\u00e9dit d'auteur via la l\u00e9gende \u00bb. Sur WP en anglais, j'ai moi-m\u00eame retir\u00e9 des \u00ab cr\u00e9dits d'auteur via la l\u00e9gende \u00bb (cf. [[:en:Talk:Jennifer Aniston#Adding photographer's credit to a photo caption]]), en r\u00e9f\u00e9ren\u00e7ant [[:en:WP:WATERMARK]] (qui est une section de [[:en:Wikipedia:Image use policy]], la version anglaise de [[Wikip\u00e9dia:R\u00e8gles d'utilisation des images]]). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 15:26 (CEST)\n"
+                                                            ],
+                                                            "comments": [
+                                                                {
+                                                                    "text_blocks": [
+                                                                        "::::::Et avec \"devriez\" au lieu de \"devez\" ? Je pense que l\u00e0 on converge. Je vais faire un essai de modif pour voir ce que cela donne, modifiable/r\u00e9vertable naturellement. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 \u00e0 15:29 (CEST)\n"
+                                                                    ],
+                                                                    "comments": [],
+                                                                    "cosigners": [],
+                                                                    "author": "Jean-Christophe BENOIST",
+                                                                    "time_stamp": "24 juin 2017 \u00e0 15:29 (CEST)"
+                                                                }
+                                                            ],
+                                                            "cosigners": [],
+                                                            "author": "NicoScribe",
+                                                            "time_stamp": "24 juin 2017 \u00e0 15:26 (CEST)"
+                                                        },
+                                                        {
+                                                            "text_blocks": [
+                                                                ":::::{{Notif|Jean-Christophe BENOIST}} OK (avec \u00ab\u00a0Si une image\u00a0\u00bb au lieu de \u00ab\u00a0Si l'image\u00a0\u00bb). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 \u00e0 15:47 (CEST)\n"
+                                                            ],
+                                                            "comments": [],
+                                                            "cosigners": [],
+                                                            "author": "NicoScribe",
+                                                            "time_stamp": "24 juin 2017 \u00e0 15:47 (CEST)"
+                                                        }
+                                                    ],
+                                                    "cosigners": [],
+                                                    "author": "Jean-Christophe BENOIST",
+                                                    "time_stamp": "24 juin 2017 \u00e0 12:27 (CEST)"
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "NicoScribe",
+                                            "time_stamp": "24 juin 2017 \u00e0 12:19 (CEST)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "NicoScribe",
+                                    "time_stamp": "24 juin 2017 \u00e0 12:10 (CEST)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Framawiki",
+                            "time_stamp": "24 juin 2017 \u00e0 11:47 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Jean-Christophe BENOIST",
+                    "time_stamp": "24 juin 2017 \u00e0 10:47 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -434,7 +969,15 @@
                         "\n",
                         "Bonjour \u00e0 tous.\n",
                         "Notifier et signer dans le m\u00eame processus d'\u00e9dition ne suffit pas \u00e0 rendre une notification valide.\n",
-                        "Je vous signale que je viens de signaler ce bogue via Phabricator : '''[[phab:T215100|T215100]]'''.--'''[[Utilisateur:Braaark|Br<span style=\"color:#DC143C\">a</span>a<span style=\"color:#DC143C\">a</span>rk]]''' ([[Discussion utilisateur:Braaark|discuter]]) 2 f\u00e9vrier 2019 \u00e0 13:23 (CET)\n",
+                        "Je vous signale que je viens de signaler ce bogue via Phabricator : '''[[phab:T215100|T215100]]'''.--'''[[Utilisateur:Braaark|Br<span style=\"color:#DC143C\">a</span>a<span style=\"color:#DC143C\">a</span>rk]]''' ([[Discussion utilisateur:Braaark|discuter]]) 2 f\u00e9vrier 2019 \u00e0 13:23 (CET)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Braaark",
+                    "time_stamp": "2 f\u00e9vrier 2019 \u00e0 13:23 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -460,7 +1003,15 @@
                         "\n",
                         "Attention \u00e9galement \u00e0 ne pas avoir trop d'informations diverses : la page devrait se concentrer sur l\u2019essentiel et avoir d'\u00e9ventuelles sous-pages pour les usages avances (notifications, personnalisation, etc.).\n",
                         "\n",
-                        "Des avis ? <strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  20 f\u00e9vrier 2019 \u00e0 20:25 (CET)\n",
+                        "Des avis ? <strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  20 f\u00e9vrier 2019 \u00e0 20:25 (CET)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Trizek",
+                    "time_stamp": "20 f\u00e9vrier 2019 \u00e0 20:25 (CET)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -497,15 +1048,42 @@
                                 "\n",
                                 "Few editors will be affected.  If you want to know whether your signature (or any individual editor) is okay, you can check your signature at https://signatures.toolforge.org/check  You are not required to fix an invalid custom signature immediately.  Starting Monday, editors will not be able to create new invalid signatures to [[Special:Preferences]].  Later, we will contact affected editors.  Eventually, invalid custom signatures will stop working.  There will be an announcement in [[m:Tech/News]] then.  You can subscribe to [[m:Tech/News]].  You can also put [[mw:New requirements for user signatures]] on your watchlist.\n",
                                 "\n",
-                                "If you have questions, then please ping me or ask questions at [[mw:Talk:New requirements for user signatures]].  [[Utilisateur:Lofhi|Lofhi]], would you very kindly do me a favor, and share this information at another suitable page?  There are about 160 affected active editors here (>80% with a very simple problem).  Thanks, [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 2 juillet 2020 \u00e0 04:37 (CEST)\n",
-                                "\n",
-                                ":Sure @[[Utilisateur:Whatamidoing (WMF)|Whatamidoing (WMF)]]. We could also use MassMessage for the users concerned. Note : your link leads to a 404 error page, the last one / is too much! [[Utilisateur:Lofhi|Lofhi]] ([[Discussion utilisateur:Lofhi|discuter]]) 2 juillet 2020 \u00e0 12:40 (CEST)\n",
-                                "::Thank you, [[Utilisateur:Lofhi|Lofhi]].  (I've just fixed that link.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:42 (CEST)\n",
-                                ":::Oh, and a couple of editors at my enwiki user talk page are talking about what to send; you're welcome to join the discussion if you are interested.  (That wiki has a lot more editors with invalid signatures than this one, so MassMessage is definitely the plan.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:44 (CEST)\n",
-                                "\n"
+                                "If you have questions, then please ping me or ask questions at [[mw:Talk:New requirements for user signatures]].  [[Utilisateur:Lofhi|Lofhi]], would you very kindly do me a favor, and share this information at another suitable page?  There are about 160 affected active editors here (>80% with a very simple problem).  Thanks, [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 2 juillet 2020 \u00e0 04:37 (CEST)\n"
                             ],
-                            "comments": [],
-                            "cosigners": []
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "\n",
+                                        ":Sure @[[Utilisateur:Whatamidoing (WMF)|Whatamidoing (WMF)]]. We could also use MassMessage for the users concerned. Note : your link leads to a 404 error page, the last one / is too much! [[Utilisateur:Lofhi|Lofhi]] ([[Discussion utilisateur:Lofhi|discuter]]) 2 juillet 2020 \u00e0 12:40 (CEST)\n"
+                                    ],
+                                    "comments": [
+                                        {
+                                            "text_blocks": [
+                                                "::Thank you, [[Utilisateur:Lofhi|Lofhi]].  (I've just fixed that link.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:42 (CEST)\n"
+                                            ],
+                                            "comments": [
+                                                {
+                                                    "text_blocks": [
+                                                        ":::Oh, and a couple of editors at my enwiki user talk page are talking about what to send; you're welcome to join the discussion if you are interested.  (That wiki has a lot more editors with invalid signatures than this one, so MassMessage is definitely the plan.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 \u00e0 04:44 (CEST)\n",
+                                                        "\n"
+                                                    ],
+                                                    "comments": [],
+                                                    "cosigners": []
+                                                }
+                                            ],
+                                            "cosigners": [],
+                                            "author": "Lofhi",
+                                            "time_stamp": "3 juillet 2020 \u00e0 04:42 (CEST)"
+                                        }
+                                    ],
+                                    "cosigners": [],
+                                    "author": "Lofhi",
+                                    "time_stamp": "2 juillet 2020 \u00e0 12:40 (CEST)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Lofhi",
+                            "time_stamp": "2 juillet 2020 \u00e0 04:37 (CEST)"
                         }
                     ],
                     "heading": " Update "
@@ -542,8 +1120,25 @@
                         "\n",
                         "Je sugg\u00e8re donc cette modification (\u00e9bauche): ''en tapant <code>[CTRL]</code>+<code>[ALT]</code>+<code>[;]</code> sur un clavier qu\u00e9b\u00e9cois \u00e0 disposition Canadien Fran\u00e7ais, en tapant <code>[CTRL Droit]</code>+<code>[\u00e7]</code> sur un clavier qu\u00e9b\u00e9cois \u00e0 disposition Canadien Multilingue, ou encore en tapant <code>[Alt Gr]</code>+<code>[^]</code> sur un clavier suisse (suisse francophone, tout au moins);''\n",
                         "\n",
-                        "[[Utilisateur:Bilange|Bilange]] ([[Discussion utilisateur:Bilange|discuter]]) 7 septembre 2020 \u00e0 22:06 (CEST)\n",
-                        ":Merci [[Utilisateur:Bilange|Bilange]] pour cette suggestion ! Je l'ai ajout\u00e9e \u00e0 la page. <strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  9 septembre 2020 \u00e0 10:31 (CEST)\n",
+                        "[[Utilisateur:Bilange|Bilange]] ([[Discussion utilisateur:Bilange|discuter]]) 7 septembre 2020 \u00e0 22:06 (CEST)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Merci [[Utilisateur:Bilange|Bilange]] pour cette suggestion ! Je l'ai ajout\u00e9e \u00e0 la page. <strong>[[Utilisateur:Trizek|Trizek]] <sup style=\"font-size:0.7em;border-bottom:1px solid #FFC919;\">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  9 septembre 2020 \u00e0 10:31 (CEST)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Trizek",
+                            "time_stamp": "9 septembre 2020 \u00e0 10:31 (CEST)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Bilange",
+                    "time_stamp": "7 septembre 2020 \u00e0 22:06 (CEST)"
+                },
+                {
+                    "text_blocks": [
                         "\n"
                     ],
                     "comments": [],
@@ -562,7 +1157,9 @@
                         "[[Discussion aide:Signature#Note|Discussion aide:Signature#Note]]. --&nbsp;'''[[User:Nemo Le Poisson|<span style=\"color:orange\">Nemo</span>]] <sup><small style=\"border-bottom:1px solid #000;\">[[Discussion utilisateur:Nemo Le Poisson|<span style=\"font-variant:small-caps; color:blue\">Discuter</span>]]</small></sup>''' 11 d\u00e9cembre 2020 \u00e0 22:08 (CET)\n"
                     ],
                     "comments": [],
-                    "cosigners": []
+                    "cosigners": [],
+                    "author": "Nemo Le Poisson",
+                    "time_stamp": "11 d\u00e9cembre 2020 \u00e0 22:08 (CET)"
                 }
             ],
             "heading": " Pour info "
