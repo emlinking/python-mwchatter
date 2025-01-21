@@ -1,4 +1,5 @@
 # multlingual_test.py
+import json
 import os
 import pprint
 import wikichatter as wc
@@ -18,9 +19,12 @@ def main():
 
             parse = wc.parse(test_text)
 
-            print(tf, url)
-            pprint.pprint(parse)
-            print("="*50)
+            outpath = os.path.join("test/", tf, ".json")
+
+            with open(outpath, "w") as f:
+                json.dump(parse, f)
+                
+            print(tf, url, outpath)
 
 if __name__=="__main__":
     main()
