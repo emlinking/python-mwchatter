@@ -19,11 +19,11 @@ def main():
 
             parse = wc.parse(test_text)
 
-            outpath = os.path.join("test/", tf, ".json")
+            outpath = os.path.join("test/", tf.replace(".txt", ""), ".json")
 
             with open(outpath, "w") as f:
                 json.dump(parse, f)
-                
+
             print(tf, url, outpath)
 
 if __name__=="__main__":
