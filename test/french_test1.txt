@@ -1,0 +1,309 @@
+== Sujet 1 ==
+''Message déplacé vers [[Wikipédia:Oracle/semaine_42_2006#Noyaux_gris_centraux]] par [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 18 octobre 2006 à 15:58 (CEST)''
+
+== Plan à revoir ==
+
+Bonjour, Voilà le plan qui me semblerait judicieux.
+
+* Que signer ?
+** Ce qu'il ne faut ''jamais'' signer.
+** Ce qu'il faut ''toujours'' penser à signer.
+** Ce qui peut être ou ne pas être à signer
+* Comment signer ? (exit le terme de synthaxe, qui peut apparaître obsur à ceux qui viennent ici pour comprendre)
+** Tildés
+** .../... etc
+* Quelle signature utiliser ?
+** Par défaut
+** Brute
+** Personnalisée
+Vos avis sont les bienvenus. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 21 novembre 2007 à 14:09 (CET)
+=== Les avis ===
+* Oui. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 à 20:48 (CET) Et je me lance. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 23 novembre 2007 à 20:48 (CET)
+* D'accord avec toi, mais je remplacerais « Quelle signature utiliser ? » par « Comment prédéfinir sa signature ? », pour continuer sur la lancée des questions. Je remplacerais aussi « Que signer ? » par « Où signer ? », qui est à mon avis plus clair. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/23.11.2007/19:54&nbsp;UTC/</tt>
+* {{contre}} Non au remplacement d'une page qui se veut concise par un énorme texte indigeste. Au départ, la page contenait [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 ceci] (mai 2006). Le but c'est d'y dire l'essentiel aux nouveaux : on ne signe pas les articles, on signe les discussions, et on explique la syntaxe des tildes. Tout le reste est un tissu de "fausses bonnes idées" qui embrouillent les nouveaux. Ce n'est plus une page d'aide, et cela devient une "page qui n'aide pas". [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 02:32 (CET)
+*: +1, pour un exposé plus bref. Dommage que la forme de ta remarque laisse paraître une certaine colère, qui laisse penser que je me fais « engueuler », alors que je ne suis pas l'auteur du pavé qui te déplaît tant. Donc, je propose de travailler cette page, sans haine ni colère entre nous tous {{sourire}}. En route vers de nouvelles aventures ... --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 à 07:22 (CET)
+*::Euh, quel pavé ? Je n'ai fait que repartir de la structure telle que tu l'as réorganisée. Dommage que tu changes d'avis dès qu'une opposition est exprimée.<tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>
+*:J'aimerais qu'on m'explique ce qui n'est pas clair. Au contraire, j'ai inséré un cadre de résumé en en-tête, ce qui énonce plus clairement les choses importantes dès le début. Le plan est presque le même qu'avant, mais en plus logique en ce qui concerne les niveaux h1, h2, etc. Bref il n'y a pas beaucoup de changement par rapport à la version précédente, juste un plan différent. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/06:55&nbsp;UTC/</tt>
+*::J'ai amélioré le cadre d'en-tête, de façon à ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant à chaque point. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>
+
+== Mini-sondage : retour à une page courte et simple ==
+
+Bonjour, pour savoir combien d'entre nous seraient favorables à une page d'aide brève et directe, il suffit de répondre à ce petit sondage informel.
+{{Début cadre|Rouge}}
+Oui, l'actuelle page d'aide est un pavé trop lourd à digérer pour le nouveaux. Il serait préférable d'utiliser [http://fr.wikipedia.org/w/index.php?title=Aide:Signature&oldid=7174919 cette version], de mai 2006.
+{{Fin cadre}}
+--[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 à 07:31 (CET)
+
+=== Les avis ===
+# {{Pour}} Les instructions de mai 2006 forment l'essentiel pour qu'un débutant sache signer. Tout le détail pour modifier sa signature doit être sur une autre page. Voilà. {{non signé|Brunodesacacias|24 novembre 2007 à 06:38 UTC|23356150|23355898}}
+#: Rien n'interdit de résumer tout ça dans un cadre en en-tête, par exemple en reprenant la version que tu proposes, et d'approfondir par la suite, ou dans une autre page.
+#:Je ne comprends pas les récriminations de Teofilo. Car ce qu'il présente comme inutile et indigeste répond à des questions qui ont été posées sur le Bistro et dans la Guilde (problème avec les |, peut-on signer les images ?, comment personnaliser sa signature ?). Le supprimer serait une perte de temps. 
+#:Mais je suis d'accord pour mettre en valeur ce qui est le plus important et le plus utile.<tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/07:07&nbsp;UTC/</tt>
+#::J'ai amélioré le cadre d'en-tête, de façon à ce qu'on sache l'essentiel en le lisant, mais qu'on puisse approfondir en suivant les liens vers les sections correspondant à chaque point. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/07:47&nbsp;UTC/</tt>
+#:::Ben voyons ! Le pavé "Ce texte est considéré comme une recommandation dans Wikipédia. Il décrit les exigences dont le principe est accepté par un grand nombre de wikipédiens. Raccourci [+]WP:SIGN Vous pouvez librement modifier cette page, mais veuillez utiliser la page de discussion pour proposer une modification majeure." c'est essentiel ? Dans ta conception très bureaucratique de Wikipédia, probablement ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 12:57 (CET)
+#::::Ce "pavé" que tu pointes du doigt, {{m|recommandation}}, était déjà présent dans la version vers laquelle tu as reverté. Je ne te comprends pas. Moi je veux bien l'enlever, dans la mesure où ce n'est pas vraiment une recommandation (à part la partie : on signe les messages, pas les articles).
+#::::Je parlais bien évidemement de {{m|En résumé}}. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>
+#::
+#:::<s>"En suivant les liens vers les sections ?" Alors que le plan clair et explicite : "1 Dans les articles encyclopédiques 2 Signer une image 3 Dans les pages de discussion" a été remplacé par des titres qui donnent une impression de complexité extrême : "1 Quand signer ? 1.1 Que faut-il signer ? 1.1.1 Les messages dans les pages de discussion 1.1.2 Les avis au cours de procédures 1.2 Que ne faut-il pas signer ? 1.2.1 Les articles 1.2.2 Les images " : des titres qui sont propres à décontenancer le lecteur, qui se dit en voyant cela "c'est sûr, je vais me tromper, il y a tellement de cas, tellement d'incertitude avec tous ces points d'interrogation...". Ce nouveau plan est complètement insécurisant pour le lecteur. Il se dit, dans quelle maison de fous je suis tombé ?, quand il voit ça ! [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 13:10 (CET)</s>
+{| id="toc" class="toc" summary="Sommaire" style="float:right"
+|-
+| id="toctitle" | Sommaire
+|-
+| class="toclevel-1 | <span class="tocnumber">1</span> <span class="toctext">Quand signer&#160;?</span>
+|-
+| class="toclevel-2" | <span class="tocnumber" style="margin-left:3em">1.1</span> <span class="toctext">Que faut-il signer&#160;?</span>
+|-
+| class="toclevel-3" | <span class="tocnumber" style="margin-left:6em">1.1.1</span> <span class="toctext">Les messages dans les pages de discussion</span>
+|-
+| class="toclevel-3 | <span class="tocnumber" style="margin-left:6em">1.1.2</span> <span class="toctext">Les avis au cours de procédures</span>
+|-
+| class="toclevel-2" | <span class="tocnumber" style="margin-left:3em">1.2</span> <span class="toctext">Que ne faut-il pas signer&#160;?</span>
+|-
+| class="toclevel-3" | <span class="tocnumber" style="margin-left:6em">1.2.1</span> <span class="toctext">Les articles</span>
+|-
+| class="toclevel-3" | <span class="tocnumber" style="margin-left:6em">1.2.2</span> <span class="toctext">Les images</span>
+|}
+
+Au contraire, le nouveau plan pose clairement les questions que le lecteur peut se poser (où est-ce que je dois signer ? où est-ce que je ne dois pas le faire ?) et y répond tout naturellement. D'autre part, l'indentation du sommaire montre clairement qu'est-ce qui vient répondre à quoi :
+
+On peut d'ailleurs reproduire cette indentation dans le texte aussi, ça ne serait pas du luxe. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/12:35&nbsp;UTC/</tt>
+
+:Je vous laisse. J'ai lu en diagonale. Le ton de l'un de nous est (toujours aussi) insupportable pour moi. Je ne sais pas coopérer dans ces conditions (probablement un handicap ...). Bonne continuation. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 à 13:31 (CET)
+
+:Avec un résumé introductif de bonne tenue en tête de page, un plan un peu complexe par la suite peut convenir. Je retire donc ce que j'ai dit. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 13:47 (CET)
+::J'enlève aussi mes commentaires agressifs. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/13:09&nbsp;UTC/</tt>
+
+== Usage / Technique ==
+
+À propos de ce que dit Teofilo dans le résumé de son diff :
+:''Les techniques font partie des usages. C'est vraiment le plaisir de rallonger les phrases pour les rallonger !''
+Pour moi, les « usages » faisaient seulement référence à ce qu'il faut / ne faut pas signer (discussions / articles), et la technique m'apparaissait sincèrement disjointe des usages. Oui c'est un détail. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/13:08&nbsp;UTC/</tt>
+:
+:Je crois avoir trouvé une formulation qui inclut le mot "technique", mais sans trop rallonger la phrase : « Cette page expose les techniques et les usages relatifs aux signatures sur Wikipédia ». [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 15:07 (CET)
+::
+::OK, mais ce n'était pas un plaidoyer pour le remettre, j'expliquais juste que ce n'était pas pour le plaisir de faire de longues phrases. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/14:39&nbsp;UTC/</tt>
+
+== Encore un peu de psychologie de bazar ==
+
+Le but du Wikipédien éditeur de page d'aide est de placer les informations importantes le plus loin possible dans la page, au sein d'un plan le plus labyrinthique possible, de façon à obliger le lecteur à lire les explications ampoulées sur des points de détail qu'il est très fier d'avoir rédigées. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 15:12 (CET)
+:
+:Pourquoi redeviens-tu agressif alors que l'on trouvait un terrain d'entente ?
+:Tu as remis les tableaux dès l'en-tête ? Quel intérêt ? Tu te perds en détails inutiles dans un résumé (il faut utiliser 126 Ctrl Alt Gr N je-sais-pas-quoi) alors que tout ça, on peut y accéder, de manière plus propre, en cliquant simplement sur le petit lien [+ d'info].
+:Le but de cette en-tête n'est-elle pas d'être synthétique ? La version que tu as remise l'est beaucoup moins que :
+::« En revanche, lorsque vous prenez part à une '''discussion''', il est '''recommandé de signer''' votre message en insérant 3 tildes (<code><nowiki>~~~</nowiki></code>) qui seront automatiquement remplacés par votre nom d'utilisateur (ou votre adresse IP si vous n'êtes pas connecté) ; avec 4 tildes, la date du message est ajoutée. ».
+:<tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/14:26&nbsp;UTC/</tt>
+::J'ajoute que les détails sur la manière d'obtenir le tilde, ça n'a rien à voir avec Wikipédia. Les pages d'aide de Wikipédia n'ont pas vocation à apprendre à l'utilisateur à se servir d'un ordinateur. Sinon, pourquoi pas une page d'aide sur la manière de se servir de son navigateur ?
+::Qu'on en parle, malgré tout, dans cette page d'aide, OK, mais certainement pas dès les premières lignes, dans ce qui se veut une synthèse. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/14:28&nbsp;UTC/</tt>
+:::Enfin, tu parles d'un plan labyrinthique, mais il a été grandement simplifié : il n'y a pas plus de deux niveaux, les points d'interrogation ont été supprimés, bref j'ai écouté ce que tu préconisais.
+:::Et quand bien même ce plan fut-il labyrinthique, de toutes façons, il suffit de cliquer sur le lien [+ d'info] pour accéder directement à l'info recherchée. Pas besoin de chercher, de lire des « explications ampoulées », non, il suffit juste de cliquer... et toutes les informations anecdotiques que tu tiens à tous prix à faire figurer dès le résumé introductif sont disponibles immédiatement.
+:::Non, vraiment, je ne te comprends pas. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/14:34&nbsp;UTC/</tt>
+::::
+::::Le terme "tilde" est dans le dictionnaire, mais le glyphe est inutilisé, à part dans les mathématiques de haut niveau, et le terme "cañon" qui est une exception.
+:::
+::::La Wikipédia que tu construis n'est accessible qu'aux "computer litterati". Je pense pour ma part que Wikipédia doit être accessible à tous. Et si Wikipédia n'a pas à parler de la manière d'obtenir un tilde au clavier, cela n'a rien à faire non plus dans le corps de l'article. 
+:::
+::::J'ai peur également que nous soyons en désaccord sur ce que tu entends par "synthétique". Pour moi l'en-tête ne doit pas être une introduction qui donne envie d'aller lire la suite, mais au contraire un exposé minimaliste qui permet justement de ne pas être obligé de consulter la suite. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 15:55 (CET)
+:::
+::::La page "Aide:Signature" est la page qu'on donne en lien quand on explique à un nouveau qui n'a pas signé qu'il est préférable de signer. Si la page est un roman, alors le conseil "tu devrais lire [[Aide:Signature]]" est une punition. Ce n'est donc pas moi qui suis agressif, mais bien les personnes qui transforment la page en punition. Je défends ici les nouveaux et [[Wikipédia:Ne mordez pas les nouveaux]]. On va se retrouver dans la situation où la bonne façon d'expliquer à un nouveau comment signer est de lui écrire soi-même quelques lignes sur sa page de discussion et surtout pas de lui donner un lien vers le monstre [[Aide:Signature]]. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 15:55 (CET)
+:::::Tu exagères. Ne pas expliquer, dès les premières lignes d'une page d'aide '''sur Wikipédia''', comment se servir d'un ordinateur, ce n'est pas mordre les nouveaux (d'autant que l'explication était à un clic de distance).
+:::::D'autre part, ''Ce n'est donc pas moi qui suis agressif'' : quand tu arrives en disant que c'est un énorme texte indigeste (alors que peu de modifications avaient été faites, la version précédente était tout aussi indigeste selon ton point de vue, mais ça n'avait pas l'air de te gêner jusqu'à présent), ce n'est pas un exemple d'esprit convivial.
+:::::Ceci dit je me suis rangé à tes arguments, et j'ai remis une version proche de celle que tu souhaitais. J'espère que ça te conviendra et qu'on pourra passer à autre chose. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/18:19&nbsp;UTC/</tt>
+
+== Création de [[Aide:Signature/résumé]] ==
+
+J'ai créé [[Aide:Signature/résumé]] qui est la page que j'utiliserai désormais lorsque je m'adresserai à un nouveau. Je vous laisse poursuivre la rédaction de [[Aide:Signature]] suivant une autre logique. 
+
+J'ai pris l'initiative de mettre [[Aide:Signature/résumé]] dans [[Modèle:Non signé]], mais cela peut se discuter et se réverter. [[Utilisateur:Teofilo|Teofilo]]  [[Discussion_Utilisateur:Teofilo|◯]] 24 novembre 2007 à 16:09 (CET)
+:
+:Je suis revenu à une version assez proche de ce que tu souhaitais, j'espère que ça te conviendra et qu'on pourra revenir à la situation antérieure sur {{m|non signé}}, et transformer [[Aide:Signature/résumé]] en redirect (ou, si tu le préfères, transférer le contenu du cadre vers cette sous-page, et inclure cette dernière dans la page principale). <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/24.11.2007/18:15&nbsp;UTC/</tt>
+:: Moi, j'aime bien 1/ En prise direct sur l'essentiel grâce au résumé 2/ Complété par l'exposé des détails quand on a besoin ... des détails. Merci. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 24 novembre 2007 à 22:34 (CET)
+
+== Petite modification ==
+
+Voilà j'ai ajouté une autre façon de faire un <nowiki>~</nowiki> nottament dans le cas d'un ordi portable où l'on n'a pas toujours le clavier numérique. <br>
+[[Utilisateur:Nicolashag|Nicol@Sh@g]]([[Discussion_Utilisateur:Nicolashag|d]]-[[Discussion_Utilisateur:Nicolashag/feu|dwp]]) 29 décembre 2007 à 11:01 (CET)
+
+== Quatre tildes ou rien ==
+
+Je propose de modifier la page afin de ne plus mettre en avant la possibilité de signer ''sans date'' ; possibilité qui est nettement abusivement utilisée par certains contributeurs, et qui est effectivement présentée accessoirement (pour page perso) sur la version anglaise.  Débat précédent au Bistro du 13 : [http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Le_Bistro/13_janvier_2008#Proscrire_les_signatures_sans_date_.3F]
+
+Début de la version en anglais :
+
+''There are two ways to sign your posts:''
+#. ''At the end of your comments, simply type four tildes (~), like this: <nowiki>~~~~</nowiki>.''
+#. ''If you are using the edit toolbar option (it usually appears above the edit screen as a default[1]), click the signature icon [[Image:Signature_icon.png]] to add the four tildes.''''
+
+Des objections ? [[Utilisateur:TigH|TigHervé]][[Discussion Utilisateur:TigH|  (d)]]
+:Peut-être peut-on faire ce que tu proposes dans le résumé qui apparaît en tête de la page, et détailler un peu plus loin toutes les méthodes possibles, mais sans les mettre en valeur. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/15.01.2008/10:56&nbsp;UTC/</tt>
+:: Aucune objection de ma part. Je rappellerais que signer sans date un document destiné à un public est contraire aux règles élémentaires de la vie en société, ici comme ailleurs. Je me permettrais même de conseiller, par exemple de toujours signer et dater un message laissé à son patron ou à son voisin de pallier ... pour éviter les ennuis. S'il y avait à ajouter un point d'aide à l'usage de la signature pour éviter des signatures non datées, ce serait d'ajouter cette remarque au descriptif de la technique de signature sans date. Du style, « Par courtoisie pour les lecteurs et pour leur faciliter la lecture chronologique des commentaires, chacun est invité à dater les propos qu'il signe. Le recours de la technique de signature sans date est donc à éviter. » Si on ne pouvait signer sans date qu'en forçant la signature, je serais enchanté. Pour ma part, ma position est plus radicale. Je ne vois pas l'intérêt de signer sans le dater un commentaire dans un environnement aussi mobile que celui de Wikipédia. Ici, un commentaire n'a de valeur qu'à un instant bien précis, à la minute près parfois. Bref, pour moi, les contributeurs qui signent sans dater sont des maladroits impolis qui devraient s'abstenir de poster des commentaires ou bien apprendre à bien signer. Signé par moi ce jour mardi 15 janvier : --[[Utilisateur:brunodesacacias|Bruno des acacias]] 15 janvier 2008 à 13:40 (CET)
+:::Oh je suis presque aussi radical que toi !
+:::Il y a pourtant des faits qui interrogent, notamment qu'[[user:Anthere|Anthere]], que je ne te présente pas, ne date que par inadvertance? ses messages, peut-être un vestige ou mélancolie du temps où les signatures étaient sans date (2002-2003). [[Utilisateur:TigH|TigHervé]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 à 13:56 (CET)
+:::: Entièrement d'accord pour toujours avoir la date [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) oups, excusez [[User:Dhatier|Dhatier]] ([[User talk:Dhatier|d]]) 15 janvier 2008 à 17:25 (CET)  En en passant, pour moi qui suis un nord-américain, que signifie le sigle (CET)?
+:::::Merci de cette approbation.
+:::::Question sigle ; on n'est pas plus avancé ici. J'ai vaguement su le sens, mais ça n'avait aucun intérêt (d'ailleurs pourquoi l'indique-t-on ?). [[Utilisateur:TigH|TigHervé]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 à 18:19 (CET)
+::::::Dans [[CET]] il est indiqué [[Central European Time]], terme [[anglais]] signifiant '''[[heure d'Europe centrale]]''' ;[[Utilisateur:TigH|TigHervé]][[Discussion Utilisateur:TigH|  (d)]] 15 janvier 2008 à 18:21 (CET)
+:Je suis totalement d'accord, comme expliqué précédemment sur le bistro.
+:Par contre, je propose d'aller plus loin, et <s>d'imposer</s> de '''très''' fortement pousser à inclure dans sa signature personnalisée un lien vers sa PdD OU vers sa PU, ce qui semble de mise mais... pas précisé.
+:Je propose donc de rajouter cette ''guideline'' dans :
+:* l'entête, qui parle de personnalisation
+:* la section "la signature brute"
+:* ET, plus exhaustivement, dans "précautions importantes"
+:Objections ? {{sourire}}
+:[[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color="red">~</font>]] 16 janvier 2008 à 02:17 (CET)
+:: Il y a là un point nouveau sur lequel je ne veux pas m'étendre mais auquel je suis très fortement opposé : l'association à la signature du lien vers la page de discussion personnelle. Pour résumer, ce lien est inutile et dangereux. Inutile parce que la page de discussion est accessible à partir de la page utilisateur, vers laquelle la signature pointe, page qu'il est préférable de visiter avant de laisser un message ; dangereux, parce qu'il est une invitation à déplacer ailleurs la discussion. Par exemple, que ceux qui veulent de l'information complémentaire sur ce sujet me contactent ici pour que les autres soient en copie et je leur répondrais ici ; inutile donc de me contacter sur ma page personnelle ; et si cela était indispensable, alors, cliquez sur ma signature puis sur l'onglet approprié et vous serez sur ma page de discussion personnelle. Cordialement. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 à 08:48 (CET)
+::Par contre, je suis très favorable à un lien vers la page utilisateur, donc vers la PU, si PU = Page utilisateur. --[[Utilisateur:brunodesacacias|Bruno des acacias]] 16 janvier 2008 à 10:44 (CET)
+:::{{sourire}}. En effet, PU = Page utilisateur, désolé.
+:::Je l'impression que je n'ai pas été clair : Ce que je proposais c'était d'inviter à ce que la signature comprenne l'un, ou l'autre, ou les deux, à seul but d'éviter de n'en avoir aucun ! Une simple signature "NicDumZ" est peu appréciable parce qu'il n'y a aucun lien vers l'espace de ce contributeur (comprendre Utilisateur:NicDumZ ou Discussion Utilisateur:NicDumZ), et que pour y accéder, il faut soit taper le nom à la main (en risquant de se faire avoir, si par exemple, imposteur, j'avais signé "brunodesacacias"), soit en passant par l'historique; ces deux étapes sont plutôt une perte de temps pour les autres, qui n'est pas justifiée, tant il est simple (et peu contraignant !) de mettre un lien vers une de ces deux pages dans sa signature.
+:::Es-tu d'accord avec moi sur ce point ?
+:::Pour la deuxième partie, à savoir le détail de la règle, si tu as des raisons pour la restreindre à "au moins un lien vers la PU", pourquoi pas, et on peut en discuter, mais pour ma part je ne trouve pas vraiment de justifications à cette contrainte supplémentaire... [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color="red">~</font>]] 16 janvier 2008 à 12:31 (CET)
+::::Moi non plus ; que les contributeurs ne comprennent pas l'intérêt de signer avec une date, c'est étrange, mais il faut faire confiance aux autres pour gérer et répartir leurs messages à bon escient.
+::::[[Utilisateur:NicDumZ|NicDumZ]] ; j'ai modifié la page, mais comme je n'avais pas saisi ce que tu souhaitais (maintenant si), je te propose d'ajouter ces précisions toi-même. [[Utilisateur:TigH|TigHervé]][[Discussion Utilisateur:TigH|  (d)]] 16 janvier 2008 à 13:05 (CET)
+
+==code qui ne fonctionne pas...==
+''--[[User:Felixggenest|&#39;&#39;&#39;&lt;font face=&quot;Kristen ITC&quot;&gt;&#91;&#91;Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;Félix&lt;/font&gt;&#93;&#93;&#91;&#91;Special:Contributions/Felixggenest&#124;&lt;font color=259952&gt;g&lt;/font&gt;&#93;&#93;&#91;&#91;Discussion Utilisateur:Felixggenest&#124;&lt;font color=000000&gt;genest&lt;/font&gt;&#93;&#93;&lt;/font&gt;&#39;&#39;&#39;]] ([[User talk:Felixggenest|d]]) 11 février 2008 à 23:38 (CET)'' <---- c'est ça qui s'affiche lorsque que je veux faire ma signature... je ny comprend rien : pourquoi affiche-t-il le code plutôt que son résultat? Merci de vos éclaicissement! [[Utilisateur:Felixggenest|Félixggenest]]
+:Je suppose que tu veux que ta signature soit :"'''<font face="Kristen ITC">[[Utilisateur:Felixggenest|<font color=000000>Félix</font>]][[Special:Contributions/Felixggenest|<font color=259952>g</font>]][[Discussion Utilisateur:Felixggenest|<font color=000000>genest</font>]]</font>'''" ? Je pense qu'il te faudra (simplement?!) cocher dans tes préférences "signature brute". [[Utilisateur:NicDumZ|NicDumZ]] [[Discussion Utilisateur:NicDumZ|<font color="red">~</font>]] 12 février 2008 à 08:02 (CET)
+::Bah non, comme je l'explique juste en haut, lorsque j'essaille de cocher ''signature brute'', ca m'indique ''Signature brute incorrecte ; Vérifiez vos balises HTML.''... C'est pas normal, tout ca... Félixggenest
+:::
+:::Je pense que c'est du à ta manière d'écrire les couleurs. Remplace les deux <code><nowiki><font color=000000></nowiki></code> par <code><nowiki><font color="#000000"></nowiki></code>, et  <code><nowiki><font color=259952></nowiki></code> par <code><nowiki><font color="#259952"></nowiki></code>. J'ai fait le test, ça devrait fonctionner. <tt style="font-size:85%">/[[User:IP 84.5|84]]•[[User Talk:IP 84.5|5]]/12.02.2008/15:07&nbsp;UTC/</tt>
+:::: Allez voir sur[http://fr.wikipedia.org/wiki/Discussion_Utilisateur:Felixggenest#I_need_somebody_help... ma page de discussion], moi je suis désespéré... Félix GG
+
+==Signature via modèle inclus==
+Est-ce interdit de signer par un modèle, c'est-a-dire via une syntaxe {{m|user:xxx/signature}} ? -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 19 juin 2009 à 19:01 (CEST)
+:Pas de réponse à cette question ? ça m'intéresserait de savoir, j'ai vu certains utilisateurs le faire, je pense que c'est possible. --[[Utilisateur:Chronoos|Chronoos]] ([[Discussion utilisateur:Chronoos|d]]) 4 novembre 2009 à 04:11 (CET)
+::en utilisant un subst, je dis pas mais je croyais que c'était trop gourmand pour le chargement des pages de discussion comme celle du Bistro -- [[Utilisateur:Xfigpower|Xfigpower]] (<small>[[Discussion_Utilisateur:Xfigpower|''pssst'']]</small>) 5 novembre 2009 à 13:46 (CET)
+:::J'utilise <nowiki>{{subst:Utilisateur:DavidL/Signature}}</nowiki> sans aucun problème.
+:::La précaution devrait faire exception pour les subst
+:::--&nbsp;◄&nbsp;[[Utilisateur:DavidL|'''D'''avid&nbsp;'''L''']]&nbsp;•&nbsp;[[Discussion Utilisateur:DavidL|discuter]]&nbsp;► 17 février 2012 à 19:47 (CET)
+::::C'est avoir une signature qui reste sous forme de modèle qui est interdit, ce n'est pas gênant avec un subst puisque le modèle est remplacé par le texte lorsque la page est sauvegardée (à condition que le texte remplacé ne soit pas un deuxième modèle personnel bien sûr), en clair si il ne reste plus de <nowiki>{{user/...}}</nowiki> après avoir sauvegardé, c'est bon. –[[Utilisateur:Akeron|Akeron]]&nbsp;<small>[[Discussion Utilisateur:Akeron|(d)]]</small> 17 février 2012 à 22:38 (CET)
+
+== Absence de lien ==
+
+Bonjour,
+Sauriez-vous m'expliquer pourquoi lorsque je signe avec 4 tildes, je n'ai pas de lien vers ma page utilisateur ? Merci. --Fombelle 18 novembre 2013 à 16:03 (CET)
+:Si vous avez modifier votre signature dans vos préférences et ajouté correctement un lien avec la syntaxe wiki, c'est probablement la case « Signature en mode texte brut » qui n'est pas cochée. '''[[Utilisateur:Like tears in rain|Like tears in rain]]''' <sup>[[Discussion Utilisateur:Like tears in rain|{-_-}]]</sup> 19 novembre 2013 à 10:56 (CET)
+::Je l'ai décochée, c'est réglé. Merci !! [[Utilisateur:Fombelle|Fombelle]] ([[Discussion utilisateur:Fombelle|discuter]]) 22 novembre 2013 à 20:07 (CET)
+
+== Raccourci signature au Québec sous Windows 7 ==
+
+Il faudrait probablement dire : [Ctrl]+ [Alt] + [;] au Québec avec le clavier Français(Canada)
+Je m'explique : Sous Windows 7 Édition familiale 64bits, on trouve pour le Français, au Canada, trois types de claviers, savoir : 1) canadien multilingue standard, 2) Français traditionnel (Canada) et 3) Français(Canada).  Malheureusement, le clavier québécois n'existe pas encore. Qui plus est, je pense que le clavier Français(Canada) avec lequel fonctionne le raccourci tilde de Wikipedia, n'est pas populaire  i.e. moins bien configuré que, entre autres, le clavier Canadien multilingue français. Bref, les raccourcis offerts chez Wikipedia fr sont difficiles d'accès. J'ai dû abandonner le clavier canadien multilingue français et opter pour le Français (Canada). Tout un apprentissage - complexe et non unifié pour ici au Québec !
+Si je savais comment créer des raccourcis clavier sous Windows 7, je choisirais indéniablement cette méthode. Quant au clavier Français France), les lettres sont en différents endroits que ceux utilisés ici, entre autres : a z w q m etc. J'espère que ce billet sera utile. Cordialement. Nouveau wikipédien [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 16:15 (CEST)
+: j'oubliais de mentionner : j'ai longuement fouillé sur Internet afin de trouver la manière de créer des raccourcis sous W7 pour québécois francophones. Rien trouvé encore. Par contre, je sais qu'il existe des logiciels qui permettent de s'exécuter mais j'ignore lesquels voire s'ils sont gratuits. Je poursuis mes fouilles aujourd'hui. Si vous désirez réagir à ce message, ce serait apprécié. Merci [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 16:22 (CEST)
+
+: J'ai trouvé un logiciel gratuit que je suis en train de tester. Pour les intéressés, voici le lien http://www.commentcamarche.net/telecharger/telecharger-34056676-clavier  [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 16:35 (CEST)
+Hello et bienvenue, je ne comprends pas très bien : sur toute page de discussion, tu as en mode 'modification' le message suivant:
+{{MediaWiki:Talkpagetext}}
+Pourquoi ne cliques-tu pas simplement sur l'icône de signature [[
+
+File:Insert-signature.png]]
+
+? Cordialement, <span style="padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 à 16:37 (CEST)
+: Là n'est pas exactement le point. Ici, souvent l'icône signature n'apparaît pas du tout, d'une part. Ou bien ne fonctionnepas. D'autre part, mon intervention vise à enrichir et à contribuer à l'exactitude des renseignements offerts dans l'aide:signature. Ai-je tort ?
+::Pas du tout ! C'est juste que je n'avais pas bien compris. Bonne continuation. Cordialement, <span style="padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 à 16:59 (CEST)
+::: Vois ce que je voulais dire : Dans mon dernier message, il n'y a pas de signature justement; pourtant, j'ai bel et bien cliqué sur le bouton de signature. Mais ça n'a pas fonctionné. Quant à moi, je n'y comprends rien. Peut-petre différences entre navigateurs, fenêtres d'édition (monobook, beta, vecteur, ??? ) Alors, je vais continuer d'utiliser un raccourci en attendant ... merci de m'avoir aidée à préciser mon intervention. Amicalement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 17:09 (CEST)
+::::J'ai mis [//fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Le_Bistro/29_juin_2014&diff=105053977&oldid=105053094 un mot] à ce sujet au bistrot. Cordialement, <span style="padding-left: 5pt; font-size: 0.9em; letter-spacing: 0.1em">&mdash;&thinsp;'''[[User:Racconish|Racconish]]'''[[Discussion utilisateur:Racconish|<sup>&thinsp;&#9993;</sup>]]</span> 29 juin 2014 à 17:17 (CEST)
+:::::Bonsoir, peut-être que pour tes problèmes de clavier, tu pourrais utiliser le clavier visuel de windows ? Démarrer,  sous-menus " Tous les programmes " / " Accessoires " / " Option d'ergonomie " et cliquer sur " Clavier visuel ". Ceci juste pour ta session wikipedia. Cela ne résout pas ton problème de bouton de signature. Mais celui ci n'apparaît pas partout non plus ! (le bistrot, les articles). Il ne doit apparaître qu'en mode discussion. Peut-être est-ce ton problème ? Quel navigateur utilises-tu ? As-tu ouvert une session wikipedia avec un autre navigateur ? <span class="smiley">[[
+
+Image:Waving.png|20px|Bonjour]]
+
+</span>
+
+[[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 à 18:44 (CEST)
+
+:::::Merci Sg7438. Je fais environ 135 mots minute sur un clavier. Tu comprendras que le clavier visuel de Windows est un outil qui ne correspond pas à mes besoins particuliers : rapidité et précision orthographique. J'ai résolu temporairement le problème en modifiant la langue d'entrée sur mes 3 claviers savoir Français [Canada]. J'écris beaucoup. Beaucoup de notes (Notebook de Microsoft, etc), Excel, Word, Références bibliographiques,etcetera.. L'intention premi`re de mon message dans cette discussion consistait à signaler que l'article principal pourrait être enrichi ou corrigé. Il est conseillé de ne pas apporter de corrections directes pour la page en question. D'où ce message. Je te remercie de t'impliquer. [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 19:01 (CEST)
+::::::Je comprends, mais au niveau frappe pure (texte, le type de clavier ne doit pas avoir d'importance si ? ) (Clavier Qwerty ou Azerty peu importe). Le clavier visuel (que tu peux réduire) te servirait pour les codes  (par ex. tildes) qui ne figurent pas (visiblement sur ton clavier ; une fois le signe trouvé tu réduits ce clavier qui n'est qu'une aide supplémentaire ! As-tu résolu ton problème de bouton de signature ? <span class="smiley">[[Image:Waving.png|20px|Bonjour]]</span> [[user:Sg7438|Sg7438]]<sup>[[Discussion Utilisateur:Sg7438|<small>supercondriaque!</small>]]</sup> 29 juin 2014 à 19:13 (CEST)
+
+::::::'ai fait plusieurs découvertes fort instructives en ce qui concerne les touches de raccourci clavier sous Windows 7 - J'aimerais participer - je veux dire ma contribution - dans Wikipedia sur ce sujet spécifique. Comment faire ?[[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 29 juin 2014 à 23:20 (CEST)
+
+:::::: J'utilise Google Chrome.  Mais je pense avoir tout résolu relativement à cette problématique. Si tu vas dans le bac à sable, j'ai beaucoup pratique les options qui s'offrent à moi pour les raccourcis clavier utilisés dans Wikimedia. Merci de ton intérêt soutenu.<span class="smiley">[[Image:Waving.png|20px|Bonjour]]</span> [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 à 03:06 (CEST)
+Bonjour, avez-vous remarqué qu'il y a toujours souse la fenêtre de résumé de modification (en dessous de "Enregistrer" "Prévisualiser"..) un encadré avec "Caractères spéciaux" ? Quand le menu déroulant est sur "Wiki", on a des codes à cliquer, y compris vers la fin de la liste les quatre tildés pour signer ? -- Amicalement, [[Utilisateur:Salix|Salix]] <sup>&#91;[[Discussion Utilisateur:Salix|Converser]]&#93;</sup> 30 juin 2014 à 01:00 (CEST)
+
+: Oui, j'ai bien exploré presque tous les outils offerts par Wikimedia (Éditeurs de texte, etc). Je parviens parfois à les utiliser. Toujours est-il que j'ai résolu ce problème de clavier  mais j'ignore comment partager ces données de grande utilité par ailleurs. Merci, Salix. Cordialement [[Utilisateur:Dr.mbl|dr.mbl]] ([[Discussion utilisateur:Dr.mbl|discuter]]) 30 juin 2014 à 02:58 (CEST)
+
+== Mise en forme ==
+
+Bonjour. Quelqu'un sait-il pourquoi la signature automatique donne "''Nom'' (discuter) ''date'' à ''heure''" au lieu de "''Nom'' (discuter)''', le''' ''date'' à ''heure'''''.'''" ?
+
+[[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 août 2014 à 18:52 (CEST).
+:Bonjour
+:Je pense que la réponse est très bête : personne n'a pansé à configurer cela ! {{=)}}
+:Personnellement, j’avais tenté de mettre cela en place pour ma signature, mais c'était incompatible avec les deux autres raccourcis de signature que sont <nowiki>~~~ et ~~~~~</nowiki>.
+:<strong>[[Utilisateur:Trizek|Trizek]] <sup style="font-size:0.7em;border-bottom:1px solid #FFC919;">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  24 août 2014 à 19:50 (CEST)
+:: Est-ce qu'il serait désormais possible d'améliorer les modèles comme proposé ? [[Utilisateur:5678 THE 4329|5678 THE 4329]] ([[Discussion utilisateur:5678 THE 4329|discuter]]) 24 août 2014 à 20:53 (CEST).
+::: Ma signature est codée pour avoir un "le", vous pouvez copier le code si cela vous intéresse : <code><nowiki><font style="color:#0000FF">[[Utilisateur:NemesisIII|''Nemesis III'']]</font> <sup>[[Discussion utilisateur:NemesisIII|<span style="color:#0000FF;">(me contacter)</span>]]</sup>, le</nowiki></code>. Mais du coup je ne signe seulement qu'avec <nowiki>~~~~</nowiki>, ou alors je signe "manuellement" (même si ça ne m’arrive que très rarement). [[Utilisateur:NemesisIII|<font style="color:#0000FF">''Nemesis III''</font>]] <sup>[[Discussion utilisateur:NemesisIII|<span style="color:#0000FF;">(me contacter)</span>]]</sup>, le 24 août 2014 à 21:43 (CEST).
+
+== Allusion au template Waterwak de Commons ? ==
+
+Dans "Il ne faut pas signer les contenus encyclopédiques (articles, images)", il y a la phrase {{Citation|Vous pouvez utiliser le modèle <nowiki>{{Watermark}}</nowiki> sur la page de description d'une telle image présente sur Commons}}. Je ne comprends pas. Cette phrase est à un endroit où l'article suggère des manières alternatives et licites de signer une image (sur Commons). Or le modèle "Watermak" ne permet pas, en lui-même, de signer, mais seulement de signaler qu'une image possède un Watermark, ce qui est de plus déconseillé sur Commons (mais pas formellement interdit). Donc ce n'est pas une suggestion pour signer une image sur commons, et si s'en est une c'est plutôt une mauvaise suggestion. Je propose la suppression de cette phrase. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 à 10:47 (CEST)
+:Je plussoie. --[[Utilisateur:Framawiki|Framawiki]] <sup>[[Discussion Utilisateur:Framawiki|&#x2709;]]</sup> 24 juin 2017 à 11:47 (CEST)
+::<s>Bonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}</s>
+::<s>En effet, il y a une ambiguïté. Au lieu de supprimer cette phrase (qui indique quand même un modèle intéressant) je pense qu'il suffirait de changer légèrement ce passage, comme cela : « Le fait de signer une image dans l'image elle-même est fortement déconseillé (vous pouvez utiliser le modèle [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une telle image). Chaque image possède une page de description où le nom de l'auteur doit figurer. Il est possible également de faire figurer le nom de l'auteur dans les métadonnées [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des données meta|comment manipuler les métadonnées]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de spécial ne soit prévu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation à l'intérieur de la version originale du fichier). »</s>
+::<s>Wikipédiennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 à 12:10 (CEST)</s>
+:::Rebonjour {{Notif|Jean-Christophe BENOIST|Framawiki}}
+:::Par homogénéité avec le reste de la page d'aide, je pense qu'il suffirait de changer le passage, comme cela :
+:::* '''Les images ne sont pas signées.'''<br />Le fait de signer une image dans l'image elle-même est fortement déconseillé. Chaque image possède une page de description où le nom de l'auteur doit figurer. Il est possible également de faire figurer le nom de l'auteur dans les métadonnées [[Exchangeable image file format|Exif]] (voir sur Commons [[:Commons:Commons:Manipulation des données meta|comment manipuler les métadonnées]]), voire [[International Press Telecommunications Council|IPTC]] (bien que rien de spécial ne soit prévu pour elles actuellement au sein des projets Wikimedia, hormis leur conservation à l'intérieur de la version originale du fichier).
+:::** ► Vous pouvez utiliser le modèle [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour signaler une image ayant un [[Tatouage numérique|watermark]].
+:::Wikipédiennement --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 à 12:19 (CEST)
+::::Il faudrait tout de même signaler que cette pratique est déconseillée; là on peut penser que c'est une échappatoire licite si on tient à tout prix à signer. Je verrais plutôt "Si l'image contient un  [[Tatouage numérique|watermark]] (ce qui est déconseillé), vous devez utiliser le modèle [[:commons:Template:Watermark|<nowiki>{{Watermark}}</nowiki>]] sur la page de description [[Wikimedia Commons|Commons]] pour le signaler". --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 à 12:27 (CEST)
+:::::{{Notif|Jean-Christophe BENOIST}} OK c'est encore plus clair (mais je trouve la transformation « vous pouvez » → « vous devez » un peu sévère, et je pensais que le début du paragraphe « Le fait de signer une image dans l'image elle-même est fortement déconseillé » suffisait, et je voulais surtout être homogène avec le reste de la page d'aide où le symbole « ► » annonce toujours un modèle signalant que mauvaise pratique).
+:::::Je préfère toujours l'adaptation du passage plutôt que la suppression de la phrase, même si la page [[Aide:signature]] n'est peut-être pas la plus adaptée pour traiter le sujet. [[Wikipédia:Règles d'utilisation des images]] et [[Aide:Crédit d'auteurs]] me sembleraient plus adaptées. Par ailleurs, deux sujets peuvent être distingués : le « crédit d'auteur via watermark » et le « crédit d'auteur via la légende ». Sur WP en anglais, j'ai moi-même retiré des « crédits d'auteur via la légende » (cf. [[:en:Talk:Jennifer Aniston#Adding photographer's credit to a photo caption]]), en référençant [[:en:WP:WATERMARK]] (qui est une section de [[:en:Wikipedia:Image use policy]], la version anglaise de [[Wikipédia:Règles d'utilisation des images]]). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 à 15:26 (CEST)
+::::::Et avec "devriez" au lieu de "devez" ? Je pense que là on converge. Je vais faire un essai de modif pour voir ce que cela donne, modifiable/révertable naturellement. --[[Utilisateur:Jean-Christophe BENOIST|Jean-Christophe BENOIST]] ([[Discussion utilisateur:Jean-Christophe BENOIST|discuter]]) 24 juin 2017 à 15:29 (CEST)
+:::::{{Notif|Jean-Christophe BENOIST}} OK (avec « Si une image » au lieu de « Si l'image »). --[[Utilisateur:NicoScribe|NicoScribe]] ([[Discussion utilisateur:NicoScribe|discuter]]) 24 juin 2017 à 15:47 (CEST)
+
+== Notifier et signer dans le même processus d'édition ne suffit pas à rendre une notification valide ==
+
+Bonjour à tous.
+Notifier et signer dans le même processus d'édition ne suffit pas à rendre une notification valide.
+Je vous signale que je viens de signaler ce bogue via Phabricator : '''[[phab:T215100|T215100]]'''.--'''[[Utilisateur:Braaark|Br<span style="color:#DC143C">a</span>a<span style="color:#DC143C">a</span>rk]]''' ([[Discussion utilisateur:Braaark|discuter]]) 2 février 2019 à 13:23 (CET)
+
+== Recommandation et aide sur la même page ne font pas bon ménage ==
+
+Bonjour
+
+Il serait bon de séparer cette page en deux : 
+* une page concernant la recommandation - [[Wikipédia:Signature]]
+* une page concernant l'application de la recommandation - [[Aide:Signature]]
+
+Pour le moment, tout y est confus. 
+
+Attention également à ne pas avoir trop d'informations diverses : la page devrait se concentrer sur l’essentiel et avoir d'éventuelles sous-pages pour les usages avances (notifications, personnalisation, etc.).
+
+Des avis ? <strong>[[Utilisateur:Trizek|Trizek]] <sup style="font-size:0.7em;border-bottom:1px solid #FFC919;">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  20 février 2019 à 20:25 (CET)
+
+== Pas d'image ==
+
+Sauf pour bédévore de toute façon les admin-dictateurs font ce qu'ils veulent. {{non signé|Pasd'image|4 mars 2020 à 23:46 (CET)|168103846}}
+
+== Nouvelles exigences pour les signatures des utilisateurs ==
+
+Please see [[mw:New requirements for user signatures/fr]].  [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 10 mars 2020 à 01:11 (CET)
+
+=== Update ===
+The '''[[mw:New requirements for user signatures]]''' will begin on Monday, 6 July 2020.  This is a change to [[MediaWiki]] software that will prevent editors from accidentally setting certain types of custom signatures, such as a custom signature that creates [[Special:LintErrors]] (such as <code><nowiki><span>...<span></nowiki></code> instead of <code><nowiki><span>...</span></nowiki></code>) or a signature that does not link to the local account. 
+
+Few editors will be affected.  If you want to know whether your signature (or any individual editor) is okay, you can check your signature at https://signatures.toolforge.org/check  You are not required to fix an invalid custom signature immediately.  Starting Monday, editors will not be able to create new invalid signatures to [[Special:Preferences]].  Later, we will contact affected editors.  Eventually, invalid custom signatures will stop working.  There will be an announcement in [[m:Tech/News]] then.  You can subscribe to [[m:Tech/News]].  You can also put [[mw:New requirements for user signatures]] on your watchlist.
+
+If you have questions, then please ping me or ask questions at [[mw:Talk:New requirements for user signatures]].  [[Utilisateur:Lofhi|Lofhi]], would you very kindly do me a favor, and share this information at another suitable page?  There are about 160 affected active editors here (>80% with a very simple problem).  Thanks, [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 2 juillet 2020 à 04:37 (CEST)
+
+:Sure @[[Utilisateur:Whatamidoing (WMF)|Whatamidoing (WMF)]]. We could also use MassMessage for the users concerned. Note : your link leads to a 404 error page, the last one / is too much! [[Utilisateur:Lofhi|Lofhi]] ([[Discussion utilisateur:Lofhi|discuter]]) 2 juillet 2020 à 12:40 (CEST)
+::Thank you, [[Utilisateur:Lofhi|Lofhi]].  (I've just fixed that link.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 à 04:42 (CEST)
+:::Oh, and a couple of editors at my enwiki user talk page are talking about what to send; you're welcome to join the discussion if you are interested.  (That wiki has a lot more editors with invalid signatures than this one, so MassMessage is definitely the plan.) [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]] ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]]) 3 juillet 2020 à 04:44 (CEST)
+
+== Suggestion d'amélioration de l'invocation du tilde pour les dispositions de clavier du Québec ==
+
+Bonjour, 
+
+Nouveau Wikipédien ici, j'aimerais apporter un amélioration à ce bout de texte (et la page m'est bloqué en tant que nouveau) dans la section [[Aide:Signature#En_utilisant_les_tildes]]: 
+
+''Le caractère <big>~</big> est un [[tilde]]. Vous l'obtenez sur la plupart des claviers (...) en tapant <code>[CTRL]</code>+<code>[ALT]</code>+<code>[;]</code> sur un clavier québécois.''
+
+Explication: Il existe deux dispositions de clavier pour usage courant au Québec: celui décrit dans l'article (<code>[CTRL]</code>+<code>[ALT]</code>+<code>[;]</code>, qui est l'utilisation pour le clavier « Canadien Français »), et le clavier « Canadien Multilingue » qui est non seulement la norme recommandée par l'[[OQLF]], mais est également installé par défaut sur tout systèmes d'exploitation Windows récent (du moins Windows 7 et plus récents) lorsqu'on utilise la langue Française comme langue du OS et qu'on indique le Canada comme pays d'utilisation à l'installation initiale. Le raccourci à utiliser sous le Canadien Multilingue pour écrire un seul tilde est <code>[CTRL Droit]</code>+<code>[ç]</code>, mais curieusement il est aussi accessible sous <code>[AltGr]</code>+<code>[ç]</code> en tant que touche morte. Taper deux fois sur <code>[ç]</code> en tenant <code>[AltGr]</code> va effectivement inscrire <code>~~</code>, deux tildes.
+
+Je suggère donc cette modification (ébauche): ''en tapant <code>[CTRL]</code>+<code>[ALT]</code>+<code>[;]</code> sur un clavier québécois à disposition Canadien Français, en tapant <code>[CTRL Droit]</code>+<code>[ç]</code> sur un clavier québécois à disposition Canadien Multilingue, ou encore en tapant <code>[Alt Gr]</code>+<code>[^]</code> sur un clavier suisse (suisse francophone, tout au moins);''
+
+[[Utilisateur:Bilange|Bilange]] ([[Discussion utilisateur:Bilange|discuter]]) 7 septembre 2020 à 22:06 (CEST)
+:Merci [[Utilisateur:Bilange|Bilange]] pour cette suggestion ! Je l'ai ajoutée à la page. <strong>[[Utilisateur:Trizek|Trizek]] <sup style="font-size:0.7em;border-bottom:1px solid #FFC919;">[[Discussion Utilisateur:Trizek|bla]]</sup></strong>  9 septembre 2020 à 10:31 (CEST)
+
+== Pour info ==
+
+[[Discussion aide:Signature#Note|Discussion aide:Signature#Note]]. --&nbsp;'''[[User:Nemo Le Poisson|<span style="color:orange">Nemo</span>]] <sup><small style="border-bottom:1px solid #000;">[[Discussion utilisateur:Nemo Le Poisson|<span style="font-variant:small-caps; color:blue">Discuter</span>]]</small></sup>''' 11 décembre 2020 à 22:08 (CET)
