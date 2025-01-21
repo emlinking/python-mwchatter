@@ -51,17 +51,20 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
 # Spanish: [[Usuario:Elvisor|Elvisor]], [[Usuario:Leo3487]]
 # German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]]
-USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
+# French: [[Utilisateur:Jean Durand|Jean Durand]]
+USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
 # Spanish: ([[Usuario Discusión:Elvisor|discusión]])
 # German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]]), [[BD:Seth Cohen|Cohen]], [[Benutzerin Diskussion:Lómelinde#top|Diskussion]], ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]])
-USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD)\W*:(.*?)\|[^\]]+\]\])", re.I)
+# French: ([[Discussion utilisateur:Jean Durand|discuter]])
+USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD|Discussion utilisateur)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English, Chinese, or Spanish user contributions page format
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
-USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial):(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
+# French: [[Spécial:Contributions/127.0.0.1|127.0.0.1]]
+USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial|Spécial):(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
 
 def extract_signatures(wcode):
     """
