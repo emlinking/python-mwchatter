@@ -57,8 +57,9 @@ USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutze
 # German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]]), [[BD:Seth Cohen|Cohen]], [[Benutzerin Diskussion:Lómelinde#top|Diskussion]], ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]])
 USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
-# English or Chinese user contributions page format
-USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
+# English, Chinese, or Spanish user contributions page format
+# Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
+USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial):(Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
 
 def extract_signatures(wcode):
     """
