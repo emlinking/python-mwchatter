@@ -5,23 +5,30 @@
             "comments": [
                 {
                     "text_blocks": [
-                        "{{WikiProject Biography|living=yes|class=Start|needs-infobox=yes|politician-work-group=yes|listas=Kabore, Roch Marc Christian|needs-photo=yes}}\n",
-                        "{{WikiProject Africa|class=Start}}\n",
-                        "{{Image requested|in=Burkina Faso}}\n",
-                        "\n"
-                    ],
-                    "comments": [],
-                    "cosigners": []
-                }
-            ]
-        },
-        {
-            "subsections": [],
-            "comments": [
-                {
-                    "text_blocks": [
-                        "==Article Quality Notices==\n",
-                        "This article includes a dispute notice at the top, but there's nothing here on the talk page, and the article seems straightforward and uncontroversial, so I'm removing the notice. [[User:Everyking|Everyking]] ([[User talk:Everyking|talk]]) 20:04, 20 December 2008 (UTC)\n"
+                        "{\n",
+                        "    \"sections\": [\n",
+                        "        {\n",
+                        "            \"subsections\": [],\n",
+                        "            \"comments\": [\n",
+                        "                {\n",
+                        "                    \"text_blocks\": [\n",
+                        "                        \"{{WikiProject Biography|living=yes|class=Start|needs-infobox=yes|politician-work-group=yes|listas=Kabore, Roch Marc Christian|needs-photo=yes}}\\n\",\n",
+                        "                        \"{{WikiProject Africa|class=Start}}\\n\",\n",
+                        "                        \"{{Image requested|in=Burkina Faso}}\\n\",\n",
+                        "                        \"\\n\"\n",
+                        "                    ],\n",
+                        "                    \"comments\": [],\n",
+                        "                    \"cosigners\": []\n",
+                        "                }\n",
+                        "            ]\n",
+                        "        },\n",
+                        "        {\n",
+                        "            \"subsections\": [],\n",
+                        "            \"comments\": [\n",
+                        "                {\n",
+                        "                    \"text_blocks\": [\n",
+                        "                        \"==Article Quality Notices==\\n\",\n",
+                        "                        \"This article includes a dispute notice at the top, but there's nothing here on the talk page, and the article seems straightforward and uncontroversial, so I'm removing the notice. [[User:Everyking|Everyking]] ([[User talk:Everyking|talk]]) 20:04, 20 December 2008 (UTC)\\n\"\n"
                     ],
                     "comments": [],
                     "cosigners": [],
@@ -30,16 +37,40 @@
                 },
                 {
                     "text_blocks": [
-                        "\n",
-                        "I've just added in a note to say that it needs additional citations - especially in the box giving his career history, where only one job is cited [[User:EdwardRussell|EdwardRussell]] ([[User talk:EdwardRussell|talk]]) 17:08, 13 March 2014 (UTC)\n"
+                        "                    ],\n",
+                        "                    \"comments\": [],\n",
+                        "                    \"cosigners\": [],\n",
+                        "                    \"author\": \"Everyking\",\n",
+                        "                    \"time_stamp\": \"20:04, 20 December 2008 (UTC)\"\n",
+                        "                },\n",
+                        "                {\n",
+                        "                    \"text_blocks\": [\n",
+                        "                        \"\\n\",\n",
+                        "                        \"I've just added in a note to say that it needs additional citations - especially in the box giving his career history, where only one job is cited [[User:EdwardRussell|EdwardRussell]] ([[User talk:EdwardRussell|talk]]) 17:08, 13 March 2014 (UTC)\\n\"\n"
                     ],
                     "comments": [],
                     "cosigners": [],
                     "author": "EdwardRussell",
                     "time_stamp": "17:08, 13 March 2014 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "                    ],\n",
+                        "                    \"comments\": [],\n",
+                        "                    \"cosigners\": [],\n",
+                        "                    \"author\": \"EdwardRussell\",\n",
+                        "                    \"time_stamp\": \"17:08, 13 March 2014 (UTC)\"\n",
+                        "                }\n",
+                        "            ],\n",
+                        "            \"heading\": \"Article Quality Notices\"\n",
+                        "        }\n",
+                        "    ]\n",
+                        "}"
+                    ],
+                    "comments": [],
+                    "cosigners": []
                 }
-            ],
-            "heading": "Article Quality Notices"
+            ]
         }
     ]
 }
