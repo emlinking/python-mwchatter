@@ -36,18 +36,24 @@ _TIMESTAMP_RE_4 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UT
 # 23:48 23 sep 2012 (UTC)
 _TIMETAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMETAMP_RE_5]
+## German timetsamp formats
+# 10:34, 19. Jan. 2025 (CET)
+_TIMETAMP_RE_6 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
+
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMETAMP_RE_5, _TIMETAMP_RE_6]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
 # Spanish: [[Usuario:Elvisor|Elvisor]]
-USER_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user|用户|Usuario)\W*:(.*?)\|[^\]]+\]\])", re.I)
+# German: [[Benutzer:Beispielnutzer|Beispielnutzer]]
+USER_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user|用户|Usuario|Benutzer)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
 # Spanish: ([[Usuario Discusión:Elvisor|discusión]])
-USER_TALK_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión)\W*:(.*?)\|[^\]]+\]\])", re.I)
+# German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]])
+USER_TALK_RE = re.compile(r"(\[\[(?:\:\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English or Chinese user contributions page format
 USER_CONTRIBS_RE = re.compile(r"(\[\[\W*Special:(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
