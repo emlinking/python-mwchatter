@@ -1,3 +1,5 @@
+english_test1.txt, https://en.wikipedia.org/w/index.php?title=Talk:List_of_Dragon_Half_chapters&oldid=1255675742
+english_test1_inverted.txt, https://en.wikipedia.org/w/index.php?title=Talk:List_of_Dragon_Half_chapters&oldid=1255675742
 spanish_test1.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Toxicofera&oldid=107968521
 spanish_test2.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Lanius_somalicus&oldid=85705136
 spanish_test3.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:Crisis_presidencial_de_Venezuela&oldid=159985224
