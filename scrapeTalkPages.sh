@@ -1,40 +1,17 @@
-#!/bin/bash
+# Usage: ./scrapeTalkPages.sh [file-with-input-filepaths] [out-dir] [screen-prefix]
+# Read the list of zipped filenames
+input_file="$1"
 
-# Check if the correct number of arguments is provided
-if [ "$#" -ne 3 ]; then
-    echo "Usage: $0 <out-dir> <screen-name-prefix> <dump-file-list>"
-    exit 1
-fi
+# Loop through each filename in the input file
+while IFS= read -r filename; do
+    # Extract the part of the filename for the screen name
+    screen_name=$(echo "$filename" | grep -oP 'p\d+p\d+')
 
-# Assign the arguments to variables
-OUT_DIR=$1
-SCREEN_NAME_PREFIX=$2
-DUMP_FILE_LIST=$3
+    # concat screen_name and screen-prefix
+    screen_name="${3}_$screen_name"
 
-# Check if the file exists
-if [ ! -f "$DUMP_FILE_LIST" ]; then
-    echo "File not found: $DUMP_FILE_LIST"
-    exit 1
-fi
+    # Open a new screen and run the Python script
+    screen -dmS "process_$screen_name" bash -c "python3 scrapeTalkPages.py $filename $2"
+done < "$input_file"
 
-# Read each line from the file and store it in an array
-DUMP_FILES=()
-while IFS= read -r line; do
-    DUMP_FILES+=("$line")
-done < "$DUMP_FILE_LIST"
-
-# Iterate over each dump file in the array
-for DUMP_FILE in "${DUMP_FILES[@]}"; do
-    # Extract the base name of the dump file to use in the screen name
-    BASE_NAME=$(basename "$DUMP_FILE")
-    
-    # Create a unique screen name using the prefix and base name
-    SCREEN_NAME="${SCREEN_NAME_PREFIX}_${BASE_NAME}"
-    
-    # Start a new detached screen session with the created screen name
-    screen -dmS "$SCREEN_NAME" bash -c "python3 scrapeTalkPages.py \"$DUMP_FILE\" \"$OUT_DIR\""
-    if [ $? -ne 0 ]; then
-        echo "Failed to start screen session: $SCREEN_NAME"
-        exit 1
-    fi
-done
+echo "All screens have been launched."

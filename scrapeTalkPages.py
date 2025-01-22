@@ -11,13 +11,14 @@ import tqdm
 import wikichatter as wc
 import bz2
 
-def main(fp, dir):
+def main(fp, output_dir):
     # open the bz2 file
     with bz2.open(fp) as file:
         dump = mwxml.Dump.from_file(file)
 
         # make subdirectory if it does not already exist
-        subdirectory = os.path.join(dir, fp.split("/")[-1].replace(".xml", ""))
+        # dump file name format: zhwiki-20240401-pages-meta-history1.xml-p1p2289.bz2 
+        subdirectory = os.path.join(output_dir, fp.split("/")[-1].replace(".bz2", "").replace(".xml", ""))
 
         if not os.path.isdir(subdirectory):
             # Create the subdirectory if it does not exist
@@ -32,11 +33,18 @@ def main(fp, dir):
         pages = fp.split("-")[-1].replace(".bz2", "")
         pages = pages.split("p")
         first, last = int(pages[-2]), int(pages[-1])
-        pages = last - first
+        pages = last - first + 1
 
         # see which pages are already parsed
+        # files are named in format "{page.id}_{page.namespace}_{revision.id}.json"
         processed = os.listdir(subdirectory)
-        processed = set([int(filename.split("_")[0]) for filename in processed])
+        processed = set()
+        for filename in os.listdir(subdirectory):
+            try:
+                processed.add(int(filename.split("_")[0]))
+            except ValueError:
+                print(f"Skipping adding file '{filename}' to processed list, as it does not start with an integer.")
+
         print("Already processed {} files from this dump".format(len(processed)))
         print("Processing remaining {} pages from this dump".format(pages - len(processed)))
 
@@ -66,6 +74,7 @@ def main(fp, dir):
                     # https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/#convert-dictionary-in-python-to-json-file-using-jsondump
                     with open(save_path, "w") as outfile:
                         json.dump(parse, outfile)
+                        
                 except wc.error.MalformedWikitextError as e:
                     print("Encountered malformed Wikitext on page '{}' (id: {})".format(page.title, page.id))
                     print("Error:", e)
@@ -77,6 +86,9 @@ def main(fp, dir):
                     print("Error:", e)
 
 if __name__=="__main__":
-    fp, dir = sys.argv[1], sys.argv[2]
+    if len(sys.argv) < 3:
+        print("Usage: python scrapeTalkPages.py [dump-file] [out-dir]")
+        sys.exit(1)
+    fp, output_dir = sys.argv[1], sys.argv[2]
     
-    main(fp, dir)
+    main(fp, output_dir)
