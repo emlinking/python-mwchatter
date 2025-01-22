@@ -58,9 +58,9 @@ _TIMESTAMP_RE_14 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} UTC"
 
 # Arabic timestamps
 # 18:41، 24 نوفمبر 2016 (ت ع م)
-_TIMESTAMP_RE_15 = r"[0-9]{2}:[0-9]{2}، [0-9]{1,2} [^\W\d]+ [0-9]{4} \(ت ع م\)"
+# _TIMESTAMP_RE_15 = r"[0-9]{2}:[0-9]{2}، [0-9]{1,2} [^\W\d]+ [0-9]{4} \(ت ع م\)"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14, _TIMESTAMP_RE_15]
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14]#, _TIMESTAMP_RE_15]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
@@ -69,7 +69,7 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
 # French: [[Utilisateur:Jean Durand|Jean Durand]], [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]], {{non signé|Brunodesacacias|24 novembre 2007 à 06:38 UTC|23356150|23355898}}
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
-USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur|Utilisatrice|مستخدم)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
+USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur|Utilisatrice)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
@@ -77,7 +77,7 @@ USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutze
 # German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]]), [[BD:Seth Cohen|Cohen]], [[Benutzerin Diskussion:Lómelinde#top|Diskussion]], ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]])
 # French: ([[Discussion utilisateur:Jean Durand|discuter]]), ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]])
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
-USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD|Discussion utilisateur|Discussion utilisatrice|نقاش المستخدم)\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD|Discussion utilisateur|Discussion utilisatrice)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English, Chinese, or Spanish user contributions page format
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
