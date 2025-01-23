@@ -12,6 +12,12 @@ while IFS= read -r filename; do
 
     # Open a new screen and run the Python script
     screen -dmS "process_$screen_name" bash -c "python3 scrapeTalkPages.py $filename $2"
+    if [ $? -ne 0 ]; then
+        echo "Failed to start screen session: process_$screen_name"
+        exit 1
+    else
+        echo "Screen session started: process_$screen_name"
+    fi
 done < "$input_file"
 
 echo "All screens have been launched."
