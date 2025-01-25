@@ -69,7 +69,7 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 # German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
 # French: [[Utilisateur:Jean Durand|Jean Durand]], [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]], {{non signé|Brunodesacacias|24 novembre 2007 à 06:38 UTC|23356150|23355898}}
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
-USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutzerin|Utilisateur|Utilisatrice)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
+USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Usuaria|Benutzer|Benutzerin|Utilisateur|Utilisatrice)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 # English and Chinese user talk page link format (same)
 # Chinese: [[User talk:A10323nnn|分區討論]]
@@ -77,7 +77,7 @@ USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|Usuario|Benutzer|Benutze
 # German: ([[Benutzer Diskussion:Beispielnutzer|Diskussion]]), [[BD:Seth Cohen|Cohen]], [[Benutzerin Diskussion:Lómelinde#top|Diskussion]], ([[:de:Benutzer Diskussion:Heribert3#Top|Diskussion/Talk]])
 # French: ([[Discussion utilisateur:Jean Durand|discuter]]), ([[Discussion utilisatrice:Whatamidoing (WMF)|discuter]])
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
-USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario Discusión|Benutzer Diskussion|Benutzerin Diskussion|BD|Discussion utilisateur|Discussion utilisatrice)\W*:(.*?)\|[^\]]+\]\])", re.I)
+USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|用户讨论|Usuario[_ ]Discusión|Usuaria[_ ]Discusión|Benutzer[_ ]Diskussion|Benutzerin[_ ]Diskussion|BD|Discussion[_ ]utilisateur|Discussion[_ ]utilisatrice)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
 # English, Chinese, or Spanish user contributions page format
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
