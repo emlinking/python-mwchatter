@@ -10,3 +10,4 @@ french_test1.txt, https://fr.wikipedia.org/w/index.php?title=Discussion_Wikip%C3
 french_test2.txt, https://fr.wikipedia.org/w/index.php?title=Discussion:Chronique_du_r%C3%A8gne_de_Charles_IX&oldid=42859342
 arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%D8%B4:%D9%86%D8%AC%D9%85&oldid=63429987
 7342271.txt, https://zh.wikipedia.org/w/index.php?title=User_talk:210.66.93.176/%E5%AD%98%E6%A1%A3&oldid=64336748
+711586.txt, https://zh.wikipedia.org/w/index.php?title=User_talk:Alfredo_ougaowen&oldid=82050776
