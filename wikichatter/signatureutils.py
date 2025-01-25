@@ -80,10 +80,11 @@ USER_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user|用户|U|Usuario|Usuaria|Benutz
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
 USER_TALK_RE = re.compile(r"(\[\[(?::\w*:)?\W*(?:user[_ ]talk|UT|用户讨论|Usuario[_ ]Discusión|Usuaria[_ ]Discusión|Benutzer[_ ]Diskussion|Benutzerin[_ ]Diskussion|BD|Discussion[_ ]utilisateur|Discussion[_ ]utilisatrice)\W*:(.*?)\|[^\]]+\]\])", re.I)
 
-# English, Chinese, or Spanish user contributions page format
+# English, Chinese, or Spanish user contributions/other special page format
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
 # French: [[Spécial:Contributions/127.0.0.1|127.0.0.1]]
-USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial|Spécial):(?:Contributions|用户贡献)/(.*?)\|[^\]]+\]\])", re.I)
+# Chinese: [[Special:电邮用户/HYH.124|私底下]]
+USER_CONTRIBS_RE = re.compile(r"(\[\[\W*(?:Special|Especial|Spécial):(?:Contributions|用户贡献|电邮用户)/(.*?)\|[^\]]+\]\])", re.I)
 
 def extract_signatures(wcode):
     """
