@@ -42,7 +42,9 @@ _TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-[0-9]{1,2}\)"
 
 ## German timestamp formats
 # 10:34, 19. Jan. 2025 (CET)
+# 22:50, 17. Aug. 2007 (CEST)
 # 10. Februar 2009 (CET)
+# 10. Februar 2009 (CEST)
 _TIMESTAMP_RE_8 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
 _TIMESTAMP_RE_9 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CEST\)"
 _TIMESTAMP_RE_10 = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} \(CET\)"
@@ -86,7 +88,8 @@ USER_TALK_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:user[_ ]talk|UT|用户讨论|�
 # Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
 # French: [[Spécial:Contributions/127.0.0.1|127.0.0.1]]
 # Chinese: [[Special:电邮用户/HYH.124|私底下]]
-USER_CONTRIBS_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:Special|Especial|Spécial):(?:Contributions|用户贡献|用戶貢獻|电邮用户|電郵用戶)/(.*?)(?:\|[^\]]+)?\]\])", re.I)
+# German: [[Spezial:Beiträge/178.25.253.118|178.25.253.118]]
+USER_CONTRIBS_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:Special|Especial|Spécial|Spezial):(?:Contributions|用户贡献|用戶貢獻|电邮用户|電郵用戶|Beiträge)/(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 def extract_signatures(wcode):
     """
