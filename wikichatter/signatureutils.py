@@ -67,8 +67,8 @@ TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
 # Chinese/English: [[User:A10323nnn|nnn]], [[用户:Menchi|Menchi]]
-# Chinese: [[U:GeForce610|<font color="ddcc00">G<font color="bb9955">e<font color="884488">Fo<font color="5500cc">r</font>ce </font>6</font>10</font>]]
-# Spanish: [[Usuario:Elvisor|Elvisor]], [[Usuario:Leo3487]], To-do: add templates for female users, e.g. [[Usuaria:<username>|<username>]]
+# Chinese: [[:m:User:EGalvez (WMF)|EGalvez (WMF)]], [[U:GeForce610|<font color="ddcc00">G<font color="bb9955">e<font color="884488">Fo<font color="5500cc">r</font>ce </font>6</font>10</font>]]
+# Spanish: [[Usuario:Elvisor|Elvisor]], [[Usuario:Leo3487]], [[Usuaria:<username>|<username>]]
 # German: [[Benutzer:Beispielnutzer|Beispielnutzer]], [[Benutzerin:Lómelinde|Lómelinde]], [[:de:Benutzer:Heribert3|Heribert3]], {{unsigned|62.96.207.14|12:29, 10. Februar 2009 (CET)}}
 # French: [[Utilisateur:Jean Durand|Jean Durand]], [[Utilisatrice:Whatamidoing (WMF)|Whatamidoing (WMF)]], {{non signé|Brunodesacacias|24 novembre 2007 à 06:38 UTC|23356150|23355898}}
 # Arabic: [[مستخدم:Sami Lab|Sami Lab]] ([[نقاش المستخدم:Sami Lab|نقاش]]) 18:41، 24 نوفمبر 2016 (ت ع م)
