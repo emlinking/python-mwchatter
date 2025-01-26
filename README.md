@@ -4,6 +4,10 @@ talk pages.
 
 I (emlinking) have made some modifications to accomodate parsing Chinese Wiki Talk Pages, in addition to English ones.
 
+## Files added by emlinking
+- test/multilingual_test.py: run to test parsing of English and non-English pages
+- test/print_test_result.py: show section of a parsed test page
+
 ## Basic use ##
     import wikichatter as wc
 
