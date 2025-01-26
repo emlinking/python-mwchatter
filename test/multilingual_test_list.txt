@@ -13,3 +13,5 @@ arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%
 711586.txt, https://zh.wikipedia.org/w/index.php?title=User_talk:Alfredo_ougaowen&oldid=82050776
 6362742.txt, https://zh.wikipedia.org/wiki/?curid=6362742 
 4606055.txt, https://zh.wikipedia.org/wiki/?curid=4606055
+4584058.txt, https://zh.wikipedia.org/?curid=4584058
+7215406.txt, https://zh.wikipedia.org/?curid=7215406

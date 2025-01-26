@@ -1,0 +1,24 @@
+== 您的賬戶將被重新命名 ==
+
+<div class="plainlinks mw-content-ltr" lang="zh" dir="ltr">
+
+您好：
+
+維基媒體基金會的開發團隊為了給用戶提供更新、更好的工具（如跨維基通知），正在對账戶的運作方式進行一些調整。這意味著用戶將在任何地方都擁有[[Special:MyLanguage/Help:Unified login|相同的账戶名稱]]。這會讓我們給您帶來更加便利的編輯及討論體驗，並提供更靈活的用戶權限管理工具，但前提條件之一是同一账戶名稱在維基媒體的900個網站中都必須由同一人所持有（詳情請見[[m:Special:MyLanguage/Single User Login finalisation announcement|公告]]）。
+
+不幸的是您的账户與另一個名稱為Crucible的账户衝突。為確保您及另一位用戶於將來皆可正常使用維基媒體的各個网站，我們將會把您的账户重新命名為Crucible~zhwiki。如果您可以接受，則您不需要做任何事情。如果您希望將账戶改為其他名稱，您可以[[Special:GlobalRenameRequest|提出申請]]。如果您是這個用戶名在所有維基上的擁有者，因而不應收到這則通知，請您到[[Special:MergeAccount|合併帳戶]]頁面確認您的所有的帳戶皆已確實整合，以免您的帳戶被重新命名。
+
+屆時，您的账户仍可如以前般使用，且繼承所有的編輯記錄，但您在登錄時必需使用新的账户名稱。
+
+不便之處，敬請見諒。
+
+<br />[[m:User:Keegan (WMF)|Keegan Peterzell]]<br />維基媒體基金會社群聯絡員
+</div> 2015年3月20日 (五) 09:37 (UTC)
+<!-- SUL finalisation notification -->
+
+== 已完成重命名 ==
+
+<div class="plainlinks mw-content-ltr" lang="zh" dir="ltr">
+作为[[m:Special:MyLanguage/Single User Login finalisation announcement|单一用户登录最终落实阶段]]的一部分，本帐号已被重命名。如果您持有该帐号，您可[[{{#special:userlogin}}|使用原用户名及密码登录]]以了解详情。如果不喜欢新用户名，您可以在登录后使用该表格自行选择用户名：[[{{#special:GlobalRenameRequest}}]]。 -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|讨论页]])
+</div> 2015年4月23日 (四) 01:25 (UTC)
+<!-- SUL post-rename notification -->
