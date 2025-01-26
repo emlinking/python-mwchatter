@@ -7,7 +7,7 @@ def read_and_pretty_print_json(file_path, head):
         data = json.load(file)
 
         for section in data["sections"]:
-            if section["heading"] == head:
+            if "heading" in section and section["heading"] == head:
                 pprint.pprint(section)
 
 if __name__ == "__main__":
