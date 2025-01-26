@@ -1,0 +1,20 @@
+== “双数名词” ==
+
+*将nohy, ruce, ramena, kolena, prsa, oči, uši等名词称为“双数名词”，可有依据？--[[User:Ludwigzhou|Ludwigzhou]]（[[User talk:Ludwigzhou|留言]]） 2014年7月23日 (三) 08:43 (UTC)<br>
+*或者應該將標題只設定為"雙數"? 你的想法? 我已經先把雙數的部分做些補充了 --[[User:Bopengleepzsch|Bopengleepzsch]]
+*我不知道……我看英文和捷克文維基百科上只是說有雙數的遺存（remains或者pozůstatky），沒有說這幾個詞就是雙數變位。我的疑問在於，除了oči,uši之外的幾個詞主格是按複數形式，而不是雙數形式；oči,uši的主格是雙數<s>，工具格卻又是複數形式。</s>不知你看到的捷克語語法是把這些詞歸為“雙數名詞”還是“不規則變位名詞”呢？--[[User:Ludwigzhou|Ludwigzhou]]（[[User talk:Ludwigzhou|留言]]） 2014年7月23日 (三) 16:03 (UTC)
+**我不願意將雙數詞尾變化視為不規則名詞的變格, 因為捷克語在雙數狀態的名詞在捷克語還沒形成為現代捷克語之前就一直這樣子.而我的文法書以及我大學教授們都是這樣分類的. 另外, 如果你單看nohy這個詞單單看他的字母排列, 你當然會認為他們只是那些名詞的規則複數型變化. 但是若你看以下兩個舉例你就會了解, 為何他們必須這樣分類, 儘管在英文維基百科頁面(我個人認為在這部分有謬誤之外)沒有詳細解說: dvě nohy(兩隻腳, 各隻腳分別屬於不同人; 規則複數型變化), dvoje nohy(兩雙腳,也就是總共四隻腳, 分別屬於兩個人的雙腳; 雙數型). 另外, oči和uši他們在所有的格變化沒有完全跟他們原本性數格上的規則變化一致, 如果你有詳細去對照的話.:) --[[User:Bopengleepzsch|Bopengleepzsch]]
+*我现在明白了，你的意思是这些名词的每个格都有双数和复数形式，只不过有时这两种形式拼写是一样的；而我之前的说法是，这些名词只有在特定的格上保留了双数的形式和复数并存（抱歉我之前没有表达清楚，我知道复数是用在非器官的义项），这个[http://prirucka.ujc.cas.cz/?id=202#nadpis6 链接]里也是这样说的（ruka, noha, oko, ucho的主格有双数；ruka, noha, oko, ucho的工具格有双数和复数；rameno, koleno的的属格和方位格有双数和复数）。我们的理解是一样的，不过我同意你的说法更清晰也更好理解。你看这样如何：把标题改成“有双数形式的名词”或者“部分名词的双数形式”，并且在变格表里补充复数的变格？另外，请教一下，同一个人的双脚怎么说？--[[User:Ludwigzhou|Ludwigzhou]]（[[User talk:Ludwigzhou|留言]]） 2014年7月24日 (四) 09:26 (UTC)
+**我已將標題改為"名詞的雙數型", 然而那些有雙數型的名詞, 若在在複數的狀態都是規則變化, 我想, 也許不需要再補充複數變格表
+**針對你對於"雙腳"('''nohy''')的疑問. 使用雙數的時候, 所指的必須是'''能成對'''器官, 看一下例子, 雖然我舉的例子很好笑:
+***能成對的"生物的雙腳": Mám nohy a jsem člověk s noh'''ama'''.(我有雙腳, 我是帶有雙腳的人)
+***無法成對的"生物的雙腳": Tam jsou dva muži. Každý muž má jenom jednu nohu. Jsou muži s noh'''ami'''.(那裏有兩位男人. 每個男人只有一隻腳. 他們有腳的男人)
+***能成對的"非生物的腳": Mám stůl s čtyřmi noh'''ami'''. (我有張有四隻腳的桌子) --[[User:Bopengleepzsch|Bopengleepzsch]]
+*我又读了一遍Naughton 2005那本语法，反而令我更困惑了……他举了这么几个例子：In figurative senses standard plural forms occur, e.g. '''dvě ucha''' ‘two handles’, '''hrnec s dvěma uchy''' ‘a pot with two handles’, but '''mechanické ruce''' ‘mechanical arms’. 所以这样看来，oko和ucho是有完整两套体系的（不仅仅是工具格，其他格也是既有双数和复数），而ruka和noha只是属格、方位格和工具格有两套写法（主格、宾格和呼格的双数和复数写法都是ruce和nohy）？也许只是我自己搞乱了，见谅……--[[User:Ludwigzhou|Ludwigzhou]]（[[User talk:Ludwigzhou|留言]]） 2014年7月24日 (四) 09:41 (UTC)
+**我知道有些有雙數型態的名詞與他們的複數在某些格位他們湊巧是一樣的, 但是我良心建議, 在做變格練習時還是搞清楚所指的字義是: nohy('''生物的成對的雙腳''')還是nohy('''二到四隻不成對的腳'''或'''非生物的腳'''). 尤其如果當你在內文無法確定腳到底有幾隻時, 很可怕, 無法決定你該怎麼做正確的字尾變化. 所以我們來做個有趣的整理:
+***Člověk má nohy. Pes má nohy.(人有雙腳. 狗有腳)
+***Tam je člověk s noh'''ama'''.Tady je pes s čtyř'''ma''' noh'''ama'''. (那是有雙腳的人. 這是有四隻腳的狗)
+***Ale kteří muži nebo stůl mají taky nohy. Naopak...(但是某些男人或者桌子也都有腳. 相反的...)
+***ty jsou jen skupina z mužů s noh'''ami'''. (他們只是一群具有腳的男人. "換言之, 這群人都缺一隻腳")
+***i stůl s nohami. (以及具有腳的桌子 "甚至無法確定桌子有幾隻腳") 
+***Kdyby existoval stůl s nohama, běhal by stůl. (若存在有'''雙腳'''的桌子, 桌子就會走動了) --[[User:Bopengleepzsch|Bopengleepzsch]]
