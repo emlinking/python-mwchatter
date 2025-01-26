@@ -1,0 +1,358 @@
+== Einwohner ??? ==
+
+die neueingefügte einwohnerzahl stimmt aber nicht mit jener überein, die auf dem entsprechende Link angegeben is ... (4 Mio oder 3,2 Mio ???) <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/83.221.78.151|83.221.78.151]] ([[Benutzer Diskussion:83.221.78.151|Diskussion]])<nowiki/> 11:43, 1. Jun. 2014 (CEST))</small>
+
+==Proteste==
+Sollte man nicht den Absatz ueber die Proteste weiter nach unten (Geschichte, Politik?) verschieben? Es gibt naehmlich mittlerweile gar keine Proteste mehr.--[[Benutzer:Kleine Chrysantheme|Kleine Chrysantheme]] ([[Benutzer Diskussion:Kleine Chrysantheme|Diskussion]]) 15:58, 14. Mär. 2012 (CET)
+==Unterschiedliche Flächenangaben==
+Es werden zwei verschiedene Flächen angegeben!
+==Schreibweise Omans==
+Heißt es "Oman" oder "der Oman"? In Google (dt.) kommt beides gleichermaßen vor: "in Oman" bzw. "im Oman". Durch die Änderung in "Oman", "in Oman", etc sind nun aber einige interne Links kaputt gegangen, das sollte man dann aber auch nachziehen, zB "Tourismus in/im Oman" [[Benutzer:AxelF|AxelF]] 00:26, 21. Jan 2006 (CET)
+
+'''1. Grundsätzliches zur Schreibung von Ländernamen'''
+:*Im deutschen sind die meisten Staaten(kurz)namen Neutra und werden ohne Artikel geschrieben, wie beispielsweise [[Spanien]], [[Polen]], [[Frankreich]] oder [[Russland]]. Allerdings gibt es von dieser Regel auch Ausnahmen wie z. B. „die [[Schweiz]]“.
+:*Es gibt eine Reihe von Ländernamen, die im Plural stehen und deshalb einen weiblichen Artikel tragen, wie z. B. „die [[Philippinen]]“ oder „die [[Malediven]]“.
+:*Eine weitere Ländergruppe, der Namen auf -ei endet, wie z. B. „die [[Türkei]]“, „die [[Mongolei]]“, „die [[Slowakei]]“ oder (veraltet) „die [[Tschechei]]“, sind weiblich und tragen einen Artikel wie alle Substantive auf -ei. Genannt seinen hier beispielsweise „die [[Eselsecke|Eselei]]“ oder „die [[Ziegelei]]“. Auch hier gibt es eine Ausnahme: [[Brunei]] (das Sultanat Brunei), das zwar auf -ei endet, jedoch auch als Neutrum gebraucht wird.
+:*[http://www.auswaertiges-amt.de/diplo/de/Infoservice/Terminologie/Staatennamen.pdf Quelle zu den grammatikalischen Anmerkungen]
+
+'''2. Schreibweise arabischer Ländernamen'''
+:*Für die Schreibweise der arabischen Länder lässt sich eine schöne Regelmäßigkeit erkennen, die sich aus der Ursprungssprache ableitet. Die meisten Ländernamen, die in der Ursprungssprache Arabisch einen Artikel tragen, sind im deutschen männlich und tragen ebenfalls einen Artikel: 
+
+::السودان = as-Sūdān -> der Sudan (im Sudan)
+::اليمن = al-Yaman -> der Jemen (im Jemen)
+::العراق = al-ʿIrāq -> der Irak (im Irak)
+
+:Allerdings bestätigt auch hier die Ausnahme die Regel. Der Libanon trägt im arabischen keinen Artikel, jedoch im deutschen sehr wohl:
+::لبنان  = Lubnān -> der Libanon (im Libanon)
+
+:*Für Länderbezeichungen, die im arabischen keinen Artikel tragen, wurde dieses Prinzip auf die deutsche Sprache übertragen. Ein Beispiel ist Oman, das sächlich und ohne Artikel geschrieben wird.
+::عمان: = ʿumān -> Oman (in Oman)
+
+'''3. Schreibweise Omans'''
+:*Im deutschen hat sich seit der ersten umfassenden Reisebeschreibung von Niebuhr (Carsten Niebuhr: Beschreibung von Arabien, Kopenhagen: Möller, 1772) die sächliche Schreibweise etabliert.
+:*Oman ist demnach ein Neutrum und wird ohne Artikel geschrieben. Demnach heißt es „in Oman“ oder „das schöne Oman“. 
+:* Allerdings lässt sich seit ca. den 1970er / 1980er (?) Jahren in der Literatur auch die Nutzung der männlichen Form parallel zur sächlichen Form finden. Über die Gründe kann nur spekuliert werden. Vielleicht werden hier Parallelen zur Schreibweise anderer arabischen Länder gezogen (der Jemen, der Irak) oder vielleicht wird aus der Verkürzung des offiziellen Bezeichnung „im (Sultanat) Oman“ einfach auf „im Oman“ geschlossen. Allerdings muss man hinzufügen, dass selbst für einen geübten Schreiber der Ländername Oman ein exotisches Wort darstellt und es daher verständlicherweise zu Unsicherheiten über die Schreibweise kommen kann, insbesondere, wenn man des arabischen nicht mächtig ist.
+
+'''4. Amtliche Schreibweise für das Sultanat Oman'''
+:Für die Schreibweise von Oman in amtlichen Texte gilt folgendes:
+:*In '''Deutschland''' ist Oman sachlich und wird ohne Artikel geschrieben (vgl. [http://www.auswaertiges-amt.de/diplo/de/Infoservice/Terminologie/Laenderverzeichnis.pdf Auswärtiges Amt (Hrsg.): Länderverzeichnis für den amtlichen Gebrauch in der Bundesrepublik Deutschland, Stand: 21.06.2010, S. 18).]
+:*Dies gilt auch in '''Österreich''' (vgl. [http://www.bmeia.gv.at/fileadmin/user_upload/oracle/staatennamen_de.pdf Bundesministerium für europäische und internationale Angelegenheiten (Hrsg.): Liste der Staatennamen und deren Ableitungen in den vom Bundesministerium für europäische und internationale Angelegenheiten verwendeten Formen, Wien, Stand: 23.09.2008).]
+:*Lt. schriftlich Auskunft des "Eidgenössisches Departement für auswärtige Angelegenheiten EDA" gilt für '''schweizer''' Texte folgendes: "Die Bezeichnung „Oman“ gehört zu dieser Gruppe von Staatennamen mit schwankendem Artikelgebrauch und Genus. [...] Für Schweizer amtliche Texte gibt es in den Schreibweisungen keine explizite Regel, das heisst, grundsätzlich sind beide Muster möglich. Die [deutsche] [http://www.eda.admin.ch/etc/medialib/downloads/edazen/topics/intla/cintla.Par.0011.File.tmp/lt_080506_statenames_de.pdf Liste der Staatenbezeichnungen] mit der Genusangabe „m“ spricht eher für Variante 2." "Variante 2: Sie können aber auch mit dem maskulinen Artikel verwendet werden: die Hauptstadt des Irak, im Libanon geboren sein." -> ansonsten kann man Oman auch mit Artikel schreiben (vgl. [http://www.stagn.de/Portals/0/080923_STAATENNAMEN_10_komplett.pdf Staatennamenliste] (hier vom StAGN). Die Lücke in den ''„Schreibweisungen der Schweizerischen Bundeskanzlei für amtliche Texte der Schweiz“'' soll demnächst geschlossen werden.
+[[Benutzer:Hemeier|Hemeier]] 22:03, 6. Nov. 2010 (CET)
+
+: Unter 3., Punkt 2 hat es korrekt zu heißen: "Oman ist demnach ein Neutrum". Schlampereien dieser Art sind es, an denen unsere Wikipedia krankt und siecht. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/46.189.28.34|46.189.28.34]] ([[Benutzer Diskussion:46.189.28.34|Diskussion]])<nowiki/> 15:32, 20. Nov. 2014 (CET))</small>
+:: Reine Besserwisserei. Es wäre besser und einfacher gewesen die Schreibweise selber zu korrigieren. Übrigens: Neutra ist Plural für Neutrum; sollte sich wohl mal auf mehrere Länder beziehen. --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 13:27, 4. Feb. 2016 (CET)
+::: an selber stelle stand auch ''Demnach heißt es „in Oman“ oder „das schöne Oman“.'' -- auch das stimmt nicht: "das Haus" - "im Haus" -> "im Oman". ich habs auch korrigiert --[[Benutzer:W!B:|W!B:]] ([[Benutzer Diskussion:W!B:|Diskussion]]) 09:31, 21. Aug. 2017 (CEST) 
+:::: Sorry, es heißt "in Spanien" und nicht "im Spanien" (ähnlich: "in Italien", "in Polen", "in Portugal" etc.) und darum natürlich auch "in Oman". --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 11:10, 21. Aug. 2017 (CEST)
+
+nachtrag: 
+* (zu 4.2.) das [http://www.bmeia.gv.at/fileadmin/user_upload/oracle/staatennamen_de.pdf pdf des bmeia (stand 2017)] gibt keine angabe zu genus und artikel mehr. aktuell wird (wieder?) "der" verwendet, cf. https://www.bmeia.gv.at/reise-aufenthalt/reiseinformation/land/oman/ zb Einreise & Ausreise: "bei der Einreise in den Oman", sonst aber "Botschaft des Sultanats Oman" (amtlicher langname/vollform lt. pdf). 
+* (zu 2.2.) das süddeutsche ''der Oman'' beruht (angabe im pdf) wohl offenkundig auf frz. ''l'Oman (m.)'': diplomatensprache, dürfte sich also schon im 19. jh, eingebürgert haben 
+--[[Benutzer:W!B:|W!B:]] ([[Benutzer Diskussion:W!B:|Diskussion]]) 09:19, 21. Aug. 2017 (CEST)
+
+==Versionslöschung==
+Die Versionen zwischen dem 27. März 2004 und dem 5. Januar 2005 mussten wegen einer Urheberrechtsverletzung entfernt werden. Versionsgeschichte für die gelöschten Versionen:
+
+# 12:04, 5. Jan 2005 . . Raymond (Tabelle weiter nach oben, + Kat.)
+# 15:36, 4. Jan 2005 . . 217.82.39.243 (Überarbeitung nach Omanreise)
+# 13:37, 3. Jan 2005 . . FlaBot (robot Ergänze:lt,th,gl)
+# 19:48, 25. Dez 2004 . . 62.46.240.198 ()
+# 17:41, 23. Dez 2004 . . OinkOink ()
+# 17:39, 23. Dez 2004 . . OinkOink ()
+# 17:38, 23. Dez 2004 . . OinkOink ()
+# 01:00, 18. Dez 2004 . . Crux (bild durch commons ersetzt)
+# 01:52, 7. Dez 2004 . . 217.225.194.150 (link)
+# 18:37, 4. Dez 2004 . . 217.82.34.134 (links und andere kleine korrekturen)
+# 23:44, 1. Dez 2004 . . FlaBot (robot Ergänze:nds)
+# 20:52, 20. Nov 2004 . . Bierdimpfl (+ks: pl: bs: id: ms: sa: he: fi:)
+# 17:20, 6. Nov 2004 . . Hoheit ()
+# 02:14, 1. Nov 2004 . . Barny22 (Geschichte)
+# 10:17, 12. Okt 2004 . . Chris schulz ()
+# 09:55, 12. Okt 2004 . . Chris schulz (Land)
+# 09:53, 12. Okt 2004 . . Chris schulz (Land)
+# 00:19, 16. Sep 2004 . . Isidor (Geschichte)
+# 00:18, 16. Sep 2004 . . Isidor (Geschichte)
+# 19:27, 11. Sep 2004 . . Karl-Henner (+ sk)
+# 21:53, 3. Sep 2004 . . BWBot (Bananeweizen - Bot: Begriffsauflösung Unabhängigkeit)
+# 16:11, 27. Aug 2004 . . Botteler (Botteler - robot Ergänze:pt,no,et)
+# 00:00, 27. Aug 2004 . . 80.108.204.156 (Verkehrswesen)
+# 14:58, 20. Aug 2004 . . 62.159.105.210 (+uk)
+# 17:09, 18. Aug 2004 . . Ska13351 (InterWiki +da)
+# 23:33, 17. Aug 2004 . . Janneman (Navigationsleiste Arabische Liga)
+# 09:35, 16. Aug 2004 . . Kookaburra (+link)
+# 17:55, 15. Aug 2004 . . Baba66 ()
+# 20:14, 5. Aug 2004 . . Zumbo (linkfix)
+# 09:33, 1. Aug 2004 . . 134.96.70.221 (Zement)
+# 14:39, 21. Jul 2004 . . 80.185.171.33 (Head - warnfile Ergänze:cy)
+# 21:16, 7. Jul 2004 . . Weiacher Geschichte(n) ()
+# 15:07, 22. Jun 2004 . . Robodoc (int. Verweise)
+# 18:52, 14. Jun 2004 . . Fedi (Kategorie)
+# 19:14, 23. Mai 2004 . . 61.186.112.214 ()
+# 00:20, 16. Mai 2004 . . Schnargel (Einwohner)
+# 19:38, 19. Apr 2004 . . Zenogantner ()
+# 12:25, 19. Apr 2004 . . Isidor (=Geschichte=)
+# 12:02, 19. Apr 2004 . . Isidor (=Geschichte=)
+# 22:45, 15. Apr 2004 . . Raymond (Liste der internationalen Kraftfahrzeugkennzeichen)
+# 12:14, 15. Apr 2004 . . Zenogantner (Länderkennzeichen -> Kfz-Kennzeichen)
+# 11:01, 15. Apr 2004 . . Pio (typo)
+# 14:15, 28. Mär 2004 . . Zwobot (Kat - Bot-unterstützte Begriffsklärung: Arabisch)
+# 02:08, 28. Mär 2004 . . Driessel (wikif)
+# 16:18, 27. Mär 2004 . . 145.254.77.199 ()
+
+--[[Benutzer:Rdb|rdb]][[Benutzer Diskussion:Rdb|''?'']] 13:02, 13. Mai 2005 (CEST)
+
+
+== Karte ==
+
+das erste bild zeigt nur die exklave. gibt es kein bild für ganz oman?--[[Benutzer:Tresckow|Tresckow]] 11:25, 24. Okt 2005 (CEST)
+
+== Religöse Zusammensetzung unklar ==
+
+Man findet überall widerspechende Daten zur religösen Zusammensetzung der Bevölkerung:
+
+CIA Word Factbook [https://www.cia.gov/library/publications/the-world-factbook/geos/MU.html#People]
+Auswärtiges Amt [http://www.auswaertiges-amt.de/diplo/de/Laender/Oman.html]
+Englischsprachige Wikipedia I: [http://en.wikipedia.org/wiki/Demographics_of_Oman]
+
+Das auswärtige Amt gibt an, dass 88 % der Bevölkerung dem muslimischen Glauben angehören und stimmt bei der Einteilung der Muslime dem derzeitigen Text zu. http://www.auswaertiges-amt.de/diplo/de/Laenderinformationen/01-Laender/Oman.html
+
+Wir sollten es daher machen, wie in der englischsprachigen Wikipedia hier: [http://en.wikipedia.org/wiki/Oman#Demographics] - exact numbers are not certain... --[[Benutzer:Legalides|legalides]] 11:19, 12. Jul. 2007 (CEST)
+
+es sollten sich zumindest nicht wikiartikel untereinander unterscheiden:
+"wobei die Ibaditen mit ca. 75 % der Gesamtbevölkerung den größten Teil ausmachten"
+beim Artikel Charidschiten heisst es es gibt 1,2 Mio ibaditen im Oman
+wenn es aber 2,5 Mio Menschen im Oman gibt koennen das kaum 75 Prozent der Bevoelkerung
+sein kann jemand helfen das anzugleichen mfg --[[Benutzer:N.a.b.a.d.w.i.s|N.a.b.a.d.w.i.s]] 22:50, 17. Aug. 2007 (CEST)
+
+: Der Text liest sich zuerst so, dass 100% Muslime sind. Beim genaueren Hingucken dann nur noch 97%. Kleines Defizit zu den 88%, oder? Wär ja auch ulkig bei einem Ausländeranteil von 27% keine Hindus und Buddhisten zu haben... --[[Spezial:Beiträge/178.25.253.118|178.25.253.118]] 19:56, 26. Mär. 2013 (CET)
+
+== Shura-Wahlen 2007 ==
+
+[http://english.aljazeera.net/NR/exeres/822D3E16-DF5D-42BE-8014-645C47DEE0CD.htm '''Diese Meldung'''] scheint im Detail von einigen Angaben im [[Oman#Politisches System|Artikel]] abzuweichen (z.B. was die zu "pickenden 84 members" betrifft – sind das die im Art. genannten 82, und wird für drei oder für vier Jahre 'gewählt'?). Vllt. kann ein Oman-Kundigerer als ich damit etwas anfangen und wenn nötig die entspr. Änderungen im Artikel vornehmen? --[[Benutzer:ThoR|ThoR]] 22:06, 27. Okt. 2007 (CEST)
+
+== Bildung ==
+
+"Außerdem gibt es noch sechs private und zwölf private Colleges, ..." Ja, was jetzt? --[[Benutzer:Bleichi|Bleichi]] 22:28, 29. Nov. 2007 (CET)
+
+:Es muss natürlich "sechs staatliche" heißen. Habe ich im Artikel korrigiert.--[[Benutzer:Hemeier|Hemeier]] 22:43, 2. Dez. 2007 (CET)
+
+== Bewässerungssystem ==
+Die beiden Weblinks, die ich dazu eingefügt habe, sollten mit ihrer Information im Text berücksichtigt werden.
+:Austerlitz -- [[Spezial:Beiträge/88.75.90.90|88.75.90.90]] 10:39, 16. Feb. 2008 (CET)
+
+== Religion im Oman ==
+
+Könnte bitte jemand die religiöse Zusammensetzung überprüfen.
+Der Fischer Weltalmanach (2005) gibt an 53,5 % Muslime, 28,0% Hindus und 14,7% Christen (1994)
+Andere Quellen wie das Meyers Lexikon http://lexikon.meyers.de/meyers/Oman geben an, dass bis zu 
+90 % der Bevölkerung Muslime sind.
+Die Unterteilung der Muslime nach Glaubensrichtungen scheint in Ordnung zu sein.
+Danke 23:27, 22.02.2008
+:@Unbekannter Benutzer: es sollte auch noch geklärt werden, ob es im Oman Religionsfreiheit gibt oder der Islam Staatsreligion ist. --[[Benutzer:Holger1974|Holger]] 18:10, 9. Apr. 2008 (CEST)
+
+Das auswärtige Amt gibt an, dass 88 % der Bevölkerung dem muslimischen Glauben angehören und stimmt bei der Einteilung der Muslime dem derzeitigen Text zu.
+http://www.auswaertiges-amt.de/diplo/de/Laenderinformationen/01-Laender/Oman.html
+
+Im entsprechenden Wikitext (Ibaditen) wird von 75% gesprochen, die im Oman leben. In diesem Text allerdings wird von 75% Muslimen +(!) Sunniten gesprochen... ich ändere mal Islam zu Ibaditen um das ganze zu entwirren.
+gruss Michael[[Spezial:Beiträge/213.103.149.230|213.103.149.230]] 15:15, 17. Jul. 2008 (CEST)
+
+== Widersprüchliche Angaben im Text zur Arbeitslosigkeit ==
+
+"Nennenswerte Arbeitslosigkeit kennt das Land nicht."  "Die Arbeitslosigkeit unter den omanischen Staatsangehörigen lag 2005 im Durchschnitt bei 13,5%". Ja was denn nun??? --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 05:40, 30. Mär. 2008 (CEST)
+
+:Da nach einem Jahr nichts geschehen ist, habe ich jetzt mittels des CIA Factbooks die Arbeitslosigkeit für 2004 belegt und die andere Ausssage gestrichen. --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 00:14, 13. Mär. 2009 (CET)
+
+:: Ich habe mir das CIA "Faktenbuch" und das Statistische Jahrbuch von Oman heruntergeladen. Im aktuellen CIA "Faktenbuch" sind 15 % mit den Hinweis "2004 est." (= Schätzung) vermerkt. Leider bleibt das CIA "Faktenbuch" jeden Nachweis schuldig, woher es diese Angaben hat. Im offiziellen omanischen Statistischen Jahrbuch werden keine Arbeitsloigkeitszahlen veröffentlicht. Ich denke, dass der CIA die Daten der [[ILO]] (International Labor Organization) verwendet.
+
+:: Von omanischer Seite werden zwar regelmäßig Erhebungen durchgeführt (Vgl. [http://www.mone.gov.om/labour_force_content.asp Website des Wirtschaftsministeriums mit Hinweis auf die Erhebung]), mir ist aber nicht bekannt, dass diese Ergebnisse auch veröffentlich werden.
+
+:: Ich würde den Hinweis auf die Arbeitslosenrate ganz streichen, da ich bezweifle, dass die Daten korrekt erhoben wurden. Es handelt sich wahrscheinlich nur um eine (grobe) Schätzung und bei der ist unklar, auf welcher Basis diese erfolgte. Auch sagt das "Fact book" nichts darüber aus, wie diese Qoute gemessen wird (nach den Standards der ILO, nach US-amerikanischen Standards oder am Ende nach eigenen CIA Standards?).--[[Benutzer:Hemeier|Hemeier]] 19:41, 15. Mär. 2009 (CET)
+
+== Das grenzenlose Innere ==
+''Das Landesinnere erstreckt sich südlich und westlich des Hajjar-Gebirges (Adam, Al-Ghubar, Bahla, Hayma, Ibra, Nizwa) bis hin zu den Grenzen ...''. Ist ein Landesinnere, das sich bis zu den Grenzen erstreckt, nicht ein Widerspruch?
+*Nein, das ist kein Widerspruch. Als Innerer Oman wird derjenige Teil des Landes bezeichnet, der sich westlich vom Fuße des Hajjar-Gebirge befindet.--[[Benutzer:Hemeier|Hemeier]] 22:47, 16. Jul. 2008 (CEST)
+* Das stimmt, es mag nicht ganz logisch sein, aber tatsaechlich spricht man von dem gesammetn besagten Gebiet vom "interior" also Inneren Oman.--[[Spezial:Beiträge/90.136.140.71|90.136.140.71]] 00:28, 28. Jul. 2008 (CEST)
+* Mag sein, dass das als "Innerer Oman" bezeichnet wird. Das wiederum ist aber nicht synonym mit "Landesinnere". Das Landesinnere kann nicht bis zu irgendeiner Grenze gehen. Dann muss in dem Zitat oben "Landesinnere" durch der "Innere Oman" ersetzt werden. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/188.108.151.176|188.108.151.176]] ([[Benutzer Diskussion:188.108.151.176|Diskussion]]) 03:43, 2. Jan. 2012 (CET)) </small>
+Eine "klassische" Grobeinteilung Omans ist die Einteilung in die Küstenregion (die im 19. und 20. Jahrhundert in der Regel unter des Herrschers in Maskat stand) und "das Innere" (das sich weitgehend einer Kontrolle Maskats entzog bzw. 1913-1955 zum Teil unter der Herrschaft - falls man das so nennen will - des Imams der Ibaditen stand). Aus dieser Tradition stammen Daher die verwendeten Begriffe. --[[Benutzer:Jduester|Jduester]] 18:41, 2. Sep. 2008 (CEST)
+
+== "Der" oder "das" schöne Oman ...  ==
+
+1. Die Artikelfrage: Sie wurde 2006 schon mal gestellt, aber nicht beantwortet: korrekt ist Oman sächlich und ohne Artikel. Warum behaupte ich das so apodiktisch: Ich arbeite seit 1975 an Bibliographien über Oman und habe die meiste Literatur über das Land auch gesammelt. Wenn man sich das umfangreiche deutschsprachige wissenschaftliche Schrifttum zu Oman über 200 Jahre hinweg ansieht, so etwa ab Carsten Niebuhrs Reisebeschreibung und seiner „Beschreibung von Arabien“, so wird Oman darin ausnahmslos sächlich und ohne Artikel genannt. Das gilt auch für alte Zeitungsartikel und selbst für die nicht so zahlreichen belletristischen Werke in deutscher Sprache, in denen Oman vorkommt. Erst seit ca. 15-20 Jahren, seit nicht mehr nur gebildete Reisende oder Wissenschaftler zu Oman publizieren, liest man neuerdings (und leider immer häufiger) "der Oman". Ich kann mir das nur so erklären, dass hier eine (falsche) Parallele zum Jemen und zu anderen arabischen Ländern wie dem Libanon und dem Irak hergestellt wird, Länder, die im Deutschen männlich sind und einen Artikel haben (wenn man mal die sehr spezielle Auffassung des Auswärtigen Amts außen vor lässt, wonach Länder grundsätzlich sächlich und ohne Artikel sind). Dass sich ein "falscher" Sprachgebrauch so weit einschleicht, dass selbst Wörterbuch-Redaktionen kapitulieren und die falsche Form als Nebenform registrieren, kann nur daran liegen, dass Oman vielen Leuten in Deutschland so unbekannt ist (oder war), dass ihnen der falsche Sprachgebrauch gar nicht aufstößt. Das wäre sicher bei einem bekannteren Landesnamen nicht möglich. 
+
+Leider sind auch Artikelüberschriften ("Tourismus im Oman") und Kategorien ("Orte im Oman") vom falschen Sprachgebrauch betroffen - da lassen sich die Fehler nicht so leicht bereinigen wie im Text eines Artikels. Was tun?
+
+2. Uneinheitlich ist auch der Gebrauch der Bezeichnung Oman: mal wird in den Artikeln damit das gleichnamige Sultanat bezeichnet, mal die Landschaft/Region Oman. Historisch und geographisch gehören auch fast das gesamte Staatsgebiet der VAE zur Landschaft "Oman". Dagegen gehört in diesem Sinne Dhofar, die Südprovinz des Sultanats Oman, nicht zur "Landschaft Oman". Wie eben Texas im Süden der Vereinigten Staaten von Amerika liegt, aber nicht in Südamerika. Es wäre besser, immer dann die Vollform "Sultanat Oman" zu benutzen oder kurz vom "Sultanat" zu sprechen, wenn die Bezeichnung "Oman" nicht wirklich passt. -- [[Benutzer:Jduester|Jduester]] 18:30, 2. Sep. 2008 (CEST)
+
+:1. Ich hätte schwören können, dass "der Oman" richtig ist, habe mich aber durch meine eigenen Bücher vom Gegenteil überzeugt. Die Namen der Artikel lassen sich einfach durch Verschieben ändern, für Katgorien braucht es eine Anfrage im Kategorien-Projekt.
+:2. Heute bezeichnet Oman in erster Linie den Staat Oman, daher ist ein Zusatz zur Unterscheidung meist nicht nötig (vgl. [[Sudan]]). Wichtig ist so eine Unterscheidung vor allem bei Geschichts-Abschnitten, wenn nicht klar ist, ob nun Sultanat, Region oder etwas anderes gemeint ist. -- [[Benutzer:NCC1291|NCC1291]] 21:05, 2. Sep. 2008 (CEST)
+::Hinweis: Für die Kategorie "Ort im Oman" habe ich [[Wikipedia:WikiProjekt_Kategorien/Diskussionen/2008/September/4|hier]] einfach mal eine Anfrage gestartet. -- [[Benutzer:X-Weinzar|X-&#39;Weinzar]] 21:00, 4. Sep. 2008 (CEST)
+
+:::Ich lasse mich ja gern überzeugen, aber habe mit den obigen Begründungen doch Schwierigkeiten. Niebuhr schreibt auch "in Jemen" und so weiter. Nach obiger Logik würde daraus folgen, dass auch "der Jemen" falsch wäre? Zweitens: Semitische Sprachen kennen kein Neutrum... --[[Benutzer:Insel der Aphrodite|Insel der Aphrodite]] 21:14, 3. Mär. 2011 (CET)
+:::Okay, [http://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Kategorien/Diskussionen/2008/September/4<hier] hat 1001 die richtige Begründung geliefert, die ich übersehen hatte. Aber dann kommen demnächst womöglich noch Leute, die meinen, man müsste "in der Kairo" sagen. Tja... hm... --[[Benutzer:Insel der Aphrodite|Insel der Aphrodite]] 21:21, 3. Mär. 2011 (CET)
+* Das ist ein schönes Beispiel, dass die Deutschen geborene Millimeter*** sind. Der Irak (weil in irgendeiner Sprache der Artikel steht), aber Iran (weil dort im Perischen eben kein Artikel steht oder es keinen gibt oder wasauchimmer). He Leute, die deutsche Sprache ist unsere, nicht iranisch oder irakisch oder omanistisch. Wir können die nennen und schreiben, wie wir wollen. Eines Tages werden wir uns nicht mehr trauen Mailand zu sagen, sondern nur noch Milano. Oder alles English: Mexico City statt Mexiko-Stadt. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/188.108.151.176|188.108.151.176]] ([[Benutzer Diskussion:188.108.151.176|Diskussion]]) 03:43, 2. Jan. 2012 (CET)) </small>
+
+s.o. [[#Schreibweise Omans]] --[[Benutzer:W!B:|W!B:]] ([[Benutzer Diskussion:W!B:|Diskussion]]) 09:35, 21. Aug. 2017 (CEST)
+
+:: Bitte [https://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Kategorien/Diskussionen/2008/September/4 hier] die Begründung durchlesen. Nach einer [http://wortschatz.uni-leipzig.de/de Wortschatzabfrage] wird Oman öfters ohne als mit Artikel verwendet. --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 11:17, 21. Aug. 2017 (CEST)
+
+== Diplomatie ==
+
+bei den diplomatischen Beziehungen ist mir, aus der Sicht eines EU Österreichers, das irgendwie zu Deutschlastig. --[[Benutzer: Eleazar|Eleazar]] [[Benutzer Diskussion: Eleazar| ' ©.  ✉]] 18:55, 15. Jan. 2009 (CET)
+:Das stimmt schon, leider gab es im letzten Jahr nur wenige Bearbeitungen, die den Artikel weitergebracht haben, für Oman gibt es leider nur sehr wenige deutschsprachige Experten, denke ich. Vielleicht sollte man es einfach ganz entfernen. --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 00:19, 13. Mär. 2009 (CET)
+:: Richtige Informationen löschen, weil sie zu "deutschlastig" sind? Was ist denn das für eine Logik? Wäre nicht der richtigere Weg, zusätzlich die diplomatischen Beziehungen zu Österreich und der Schweiz hier darzustellen, anstatt Informationen zu löschen? --[[Benutzer:Hemeier|Hemeier]] 19:05, 15. Mär. 2009 (CET)
+:::Ich halte den Teil über die diplomatischen Beziehungen in einem Übersichtsartikel eher für verzichtbar, zudem würde die Hinzufügung der Schweiz und Österreichs den Abschnitt soweit aufblähen, dass er in einem Missverhältnis zu den anderen Abschnitten steht. Ich habe mir gerade eine Reihe von Länderartikeln angesehen, die mit "lesenswert" ausgezeichnet wurden, und die hatten alle keinen solchen Abschnitt. Dies ist ja nicht die DACH-Pedia. Statt äußerst wichtiger Sätze wie "Anlässlich der ITB in Berlin im März 2005 und 2006 weilte jeweils die omanische Tourismusministerin in Berlin" (das pflegen nun mal Tourismusminister zu tun, wo ist der Erkenntnisgewinn? schreiben wir das in den USA-Artikel auch so rein?) bräuchte der Artikel vor allem eine Fundierung durch Literatur oder verlässliche Internetquellen. Das sind letztendlich Wünsche eines interessierten Außenstehenden und natürlich keine Arbeitsaufträge an irgend jemand, zaubern kann niemand. --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 19:19, 16. Mär. 2009 (CET)
+:::: Ich habe den entsprechenden Abschnitt einer Überarbeitung unterzogen. Die in der Tat nicht ganz so relvanten Besuche und Gegenbesuche habe ich gelöscht.--[[Benutzer:Hemeier|Hemeier]] 01:22, 17. Mär. 2009 (CET)
+:::::Vielleicht gibt es ja mal irgendwann einen Artikel wie "Politik Omans", wie ihn andere Staaten auch haben, da könnte man dann auf etwas globaler auf Außenbeziehungen eingehen. Ansonsten ist für mich jetzt die Frage "Abschnitt hier ja oder nein" jetzt auch erst einmal nebensächlich, da gäbe es erst einmal andere Möglichkeiten, den Artikel im Laufe der Zeit zu verbessern. --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 03:06, 17. Mär. 2009 (CET)
+::::::Ich finde auch, dass die Struktur des Artikels durchaus noch verbessert werden könnte. Das geht aber sicherlich nicht von heut auf morgen.--[[Benutzer:Hemeier|Hemeier]] 03:11, 17. Mär. 2009 (CET)
+:::::::Klar, das "im Laufe der Zeit" war auch langfristig gedacht, so realistisch muss man sein. Wäre ich nicht für die nächste Zeit mit anderer Artikelarbeit ausgelastet, hätte ich mir durchaus mal bereits Literatur zum Land vorgenommen. --[[Benutzer:Marcus Schätzle|Marcus Schätzle]] 03:16, 17. Mär. 2009 (CET)
+Habe mal einen Versuch der Internationalisierung des Abschnitts "Beziehungen zu Deutschland" unternommen. Insbesondere die zu offensichtlichen Übernahmen aus dem gleichnamigen Kapitel auf der Webseite des deutschen Auswärtigen Amts habe ich nicht weiterverwendet (z.B. ..Beziehungen sind freundschaftlich .. deutsche Messen bei omanischen Geschäftslauten beliebt..). Die Erwähnung der Mitgliedschaft Omans in der UNO und dem Golf-Kooperationsrat sowie ein paar Infos von der Seite des EDA (Schweiz) rechtfertigen hoffentlich die Umbenennung in "Internationale Beziehungen". [[Benutzer:Traveletti|Traveletti]] 23:05, 17. Mär. 2011 (CET)
+:Merci! Gruß --[[Benutzer:Sir James|Sir James]] 15:39, 18. Mär. 2011 (CET)
+* Vielleicht wäre eine WP.at nicht das Schlechteste. Endlich "heuer im Jänner Paradeiser bis die Rettung uns ins Spital bringt". <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/188.108.151.176|188.108.151.176]] ([[Benutzer Diskussion:188.108.151.176|Diskussion]]) 03:43, 2. Jan. 2012 (CET)) </small>
+
+== Bildungsaustausch ==
+
+In neuester Zeit (seit 2008) vergibt der Oman Regierungsstipendien für ein Studium in Deutschland, die Beziehungen werden in dieser Hinsicht also ausgebaut. -- [[Spezial:Beiträge/87.178.123.232|87.178.123.232]] 20:47, 29. Mär. 2009 (CEST)
+: Nun ja, insgesamt studieren 6 Omanis in Deutschland; das kann man nicht direkt einen intensiven Austausch nennen.[[Benutzer:Hemeier|Hemeier]] 22:27, 29. Mär. 2009 (CEST)
+
+Alleine die Uni Heidelberg hat zur Zeit (SS 2009) 11 Regierungsstipendiaten in den studienvorbereitenden Kursen; daher muss ich Hemeier widersprechen.--[[Spezial:Beiträge/87.178.100.222|87.178.100.222]] 19:15, 13. Apr. 2009 (CEST)
+
+Auch die Uni Hannover bereitet eine solche Gruppe auf das Studium in Deutschland vor. Der Ausbau der kulturellen Beziehungen schreitet also voran. Die Zahl von 6 omanischen Studenten ist überholt.--[[Spezial:Beiträge/87.178.109.253|87.178.109.253]] <small>(18:25, 6. Mai 2009 (CEST), ''Datum/Uhrzeit nachträglich eingefügt, siehe [[Hilfe:Signatur]]'')</small>
+
+Auf der Eröffnungsveranstaltung der Ausstellung Religiöse Toleranz - Der Islam im Sultanat Oman in der VHS Ludwigshafen waren ca. 30 Omanische Studenten anwesend. Insgesamt wird von ca. 80 Omani in Deutschland gesprochen. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Benutzer:80.81.27.186|80.81.27.186]] ([[Benutzer Diskussion:80.81.27.186|Diskussion]]&nbsp;|&nbsp;[[Spezial:Beiträge/80.81.27.186|Beiträge]]) 15:37, 7. Mai 2010 (CEST)) </small>
+
+== Weblinks ==
+
+Die Weblinks, v.a. der erste sind hoffnungslos veraltet: Tote Links keine updates seit 10 Jahren etc.. Evtl wäre der Link zur deutsch-omanischen Gesellschaft (www.deutschoman.de) sinnvoll. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Benutzer:93.104.244.144|93.104.244.144]] ([[Benutzer Diskussion:93.104.244.144|Diskussion]]&nbsp;|&nbsp;[[Spezial:Beiträge/93.104.244.144|Beiträge]]) 17:46, 10. Mai 2010 (CEST)) </small>
+Ja!Aber das hat nur die Hälfte etwas mit Oman zutun; deswegen Velleicht--[[Spezial:Beiträge/212.60.44.234|212.60.44.234]] 12:28, 24. Nov. 2010 (CET)
+
+== Bevölkerungsentwicklung, aktuelle Bevölkerungszahl ==
+"Zwischen 1994 und 2004 wuchs die Bevölkerung um 1,8 %" - Das kann ja wohl kaum sein, wenn die Bevölkerung sich im Zeitraum 1980-2003 (siehe selber Artikelabschnitt) mehr als verdoppelt hat. Dann müsste es ja '80-'94 eine ungemeine Bevölkerungsexplosion gegeben haben. Oder ist "pro Jahr" gemeint? Da würde eher noch ein Schuh draus. Und auch dann kann sich die Bevölkerung von 2003 auf 2004 auch kaum um 200.000 Einwohner vergrößert haben. Da muss irgendwie nachgebessert werden. Das Auswärtige Amt spricht für 2008 schon von 2,88 mio. Einwohnern und von einer Wachstumsrate von 4,4%. Gibt es irgendeinen Grund, die aktuelle Bevölkerungszahl nicht in den Artikel zu übernehmen? Sonst mache ich das mal. --Berbe 01:30, 25. Jul. 2010 (CEST)
+
+== März 2011: Ankündigung von Verfassungsreformen durch Sultan ==
+
+* [http://www.nzz.ch/nachrichten/politik/international/sultan_von_oman_kuendigt_reformen_an_1.9878291.html NZZ:Sultan von Oman kündigt Reformen an]
+
+Sultan von Oman kündigt Verfassungsreformen an. Oman soll von einer absoluten Monarchie zu einer konstitutionellen Monarchie umgestaltet werden. [[Spezial:Beiträge/92.252.86.64|92.252.86.64]] 01:20, 14. Mär. 2011 (CET)
+
+:Ich glaube, es ist ein wenig vorschnell zu behaupten, dass Oman auf dem Weg zu einer konstitutionellen Monarchie sei. Der Sultan hat lediglich eine Kommission eingesetzt, die Vorschläge zu einer Verfassungsreform erarbeiten soll. Ob diese umgesetzt werden, bleibt abzuwarten. Ob damit die absolute Macht von Sultan Qabus eingeschränkt wird, ebenfalls. Weitere Informationen sind im Artikel [[Proteste in Oman 2011]] zu finden. [[Benutzer:Hemeier|Hemeier]] 15:10, 24. Mär. 2011 (CET)
+
+== nur in der Schweiz mit Artikel? ==
+ich komme aus dem schönen Norddeutschland, bin deutschen Sprachraum also so weit weg, wie es nur irgend geht. Ich benutze den Oman immer mit Artikel (''er lebt im Oman'' statt ''in Oman'', ''das ist die Hauptstadt vom Oman'' statt ''von Oman'', ''der Oman ist ein schönes Land'' statt ''Oman ist ein schönes Land''). Auch im Bekanntenkreis hör ich meistens einen Artikel vor dem Staatsnamen. Es ist also definitiv nicht so, dass nur in der Schweiz der Artikel gebräuchlich ist! Ohne Artikel kommt mir das sogar sehr seltsam und falsch vor.--[[Spezial:Beiträge/31.17.152.107|31.17.152.107]] 17:41, 15. Nov. 2011 (CET)
+: Ich kann mich da nur wiederholen. Die meisten Ländernamen sind sächlich und tragen keinen Artikel, z. B. ich fahre nach Spanien/Italien/Frankreich/Holland/Deutschland etc. (und nicht: ich fahre nach die/der/das/dem/den Spanien). [[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 21:26, 12. Jul. 2012 (CEST)
+:: ich fahre nach der USA? Wo wohnst du denn? Aber: "Die USA gefällt mir". oder: "Der Oman gefällt mir." wäre bei uns in Mitteldeutschland auch nicht falsch. --[[Spezial:Beiträge/178.25.253.118|178.25.253.118]] 20:04, 26. Mär. 2013 (CET)
+::: Das Beispiel zieht nicht, da ich lediglich behauptet habe, dass die ''meisten'' Ländernamen sächlich sind und ohne Artikel geschrieben werden. Es gibt aber Ausnahmen, z. B. die Schweiz oder die Vereinigten Arabischen Emirate (bitte hierzu die Ausführungen unter [[Diskussion:Oman#Schreibweise Omans]] nachlesen). Trotzdem lautete es korrekt: "Oman gefällt mir" und nicht "Der/die/das Oman gefällt mir". Etwas anderes klingt in meinen Ohren auch falsch. Dass manche Leute den Ländernamen Oman falsch verwenden, heißt noch lange nicht, dass diese Verwendung richtig ist. Beispielsweise schreiben in Deutschland auch viele Leute das Wort "Strasse" falsch. Diese Schreibweise ist nur in der Schweiz korrekt. Auch nach neuer deutschen Schreibweise schreibt man korrekt "Straße", da nach einem langen Vokal ein "ß" folgt. Die Schreibweise "Strasse" wird nicht dadurch richtig, dass viele Leute es nicht besser wissen. [[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 16:31, 31. Mai 2013 (CEST)
+
+== Infrastruktur ==
+
+Sollte man nicht deutlicher auf die Tatsache eingehen, daß Oman die Statistik für die größte Anzahl an Verkehrsunfällen pro Einwohner (weltweit gesehen) anführt? Jedes Jahr wird eine Verkehrssicherheits-Woche veranstaltet und die Statisik in den lokalen Zeitungen diskutiert. Die Verkehrspolizei führt dann Info-Veranstaltungen durch und versucht den - mäßig interessierten - Zuhörern einen defensiveren Fahrstil nahe zu bringen. Bislang jedoch ohne Erfolg. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/85.154.78.234|85.154.78.234]] ([[Benutzer Diskussion:85.154.78.234|Diskussion]])<nowiki/> 00:49, 12. Jul 2012 (CEST)) </small>
+:Die bestehenden Regeln werden von der Polizei nicht konsequent durchgesetzt. Kontrollen sind selten, die Bußgelder niedrig und die Bestrafung hängt davon ab, wie viel "Wasta" (Einfluss) der Ertappte hat. Wer Wasta hat, bezahlt nie und hat wenig Veranlassung, sein Verhalten zu ändern. Neben unangepasster Geschwindigkeit, ist das mobile Telefonieren bzw. das Tippen von Kurznachrichten, während man am Steuer sitzt, eine häufige Unfallursache. [[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 16:35, 31. Mai 2013 (CEST)
+
+Habe noch einen Link gefunden für die Verkehrssituation: http://www.who.int/entity/violence_injury_prevention/road_safety_status/2013/report/country_profiles.pdf?ua=1
+
+Ein Eisenbahnnetz existiert nicht - und es gibt auch nicht die genannte Ausnahme: diese Bahn ist seit 2 Jahren stillgelegt und wird  - inshallah - ersetzt werden.
+
+== Wirtschaft und Korruption ==
+
+Ich wundere mich, daß mit keinem Wort die grassierende Korruption erwähnt wird. Als die vorherige Regierung im März 2012 vom Sultan entlassen wurde, konnte man in den lokalen Zeitungen detailliert nachlesen welcher Minister sich wieviel Millionen in die eigene Tasche gesteckt hatte. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/85.154.78.234|85.154.78.234]] ([[Benutzer Diskussion:85.154.78.234|Diskussion]])<nowiki/> 00:49, 12. Jul 2012 (CEST)) </small>
+
+: Korruption ist kein singuläres Phänomen der Arabischen Halbinsel. Nach dem "Corruption Perceptions Index 2016" von [[Transparency International]] liegt Oman auf Rang 64 von 176 Staaten (mit einem Scoring von 45 von 100). Nur zum Vergleich: Die EU-Staaten Griechenland (Rang 69, Scoring 44) und Bulgarien (Rang 75, Sccoring 41) liegen hinter Oman. Damit bewegt sich Oman in etwa auf dem Niveau von Ungarn (Rang 57, Scoring 48). --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 11:29, 21. Aug. 2017 (CEST)
+
+== Währung ==
+Die Inflationsrate hat sich seit 2004 markant geändert:
+2004 - 0,76 %
+2005 - 1,86 %
+2006 - 3,2 %
+2007 - 5,96 %
+2008 - 12,09 %
+2009 - 3,94 %
+2010 - 3,2 %
+2011 - 4,07 %
+2012 - 2,91 %
+2013 - 1,25 %
+http://www.theglobaleconomy.com/Oman/Inflation/
+
+== Presse ==
+Ein wort zur "freien" Presse fehlt leider: die in den Zeitungen veröffentlichen Meldungen und Artikel müssen vorher genehmigt werden, deshalb ist der eigentliche Inhalt der arabisch sprachigen und der englisch sprachigen Zeitungen identisch - nur ein paar Fotos sind anders... <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/85.154.78.234|85.154.78.234]] ([[Benutzer Diskussion:85.154.78.234|Diskussion]])<nowiki/> 00:49, 12. Jul 2012 (CEST)) </small>
+== schwarzes Stachelschwein ==
+
+[http://de.wikipedia.org/wiki/Oman#Flora_und_Fauna] welche Art soll das schwarze Stachelschwein sein? Quellenangabe?? [[Benutzer:Rabe19|Rabe19]] ([[Benutzer Diskussion:Rabe19|Diskussion]]) 15:24, 15. Aug. 2013 (CEST)
+
+== Situation der Frauen ==
+
+Es erscheint mir bezeichnend, daß niemand die soziale und rechtliche Position der Frauen dort reflektiert. Angst vor den Rächern der Mohammed-Karikaturen :-?
+
+Vielleicht habe ich den Artikel ja nur nicht gründlich genug studiert... <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Benutzer:ModoK|ModoK]] ([[Benutzer Diskussion:ModoK|Diskussion]]&nbsp;&#124;&nbsp;[[Spezial:Beiträge/ModoK|Beiträge]])<nowiki/> 16:15, 26. Dez. 2013 (CET))</small>
+
+:: Nein, Sie haben recht. Bezeichnend ist, dass hier die Scharia gilt. Und die Menschenrechte auch nur unter Vorbehalt der Scharia. Also islamische Frauen"rechte".
+
+== Zusammenarbeit mit westlichen Geheimdiensten ==
+
+In welchen Absatz gehört die Nennung des Overseas Processing Centre 1 bei Seeb? Oder ein neuer Absatz?
+http://www.theregister.co.uk/2014/06/03/revealed_beyond_top_secret_british_intelligence_middleeast_internet_spy_base/
+
+Man könnte es als Teil der Infastruktur (Unterseekabel) auffassen oder als Teil der Internationalen Beziehungen. <small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/91.4.151.38|91.4.151.38]] ([[Benutzer Diskussion:91.4.151.38|Diskussion]])<nowiki/> 11:39, 5. Jun. 2014 (CEST))</small>
+
+== Kultur ==
+
+Feiertage in Oman (2014):
+1. Januar  -  Neujahr, 
+13. Januar  -  Milad Un Nabi (Geburtstag des Propheten), 
+27. Mai  -  Lailat Al Miraj (Himmelfahrt des Propheten), 
+23. Juli  -  Renaissance Day (Jahrestag der Machtergreifung), 
+28. Juli  -  Eid Al Fitr (4 Tage, Fest am Ende von Ramadan), 
+4. Oktober  -  Eid Al Adha (4 Tage, Opferfest),  
+25. Oktober  -  Al Hijra (Islamisches Neujahr), 
+5. November  -  Geburtstag von Sultan Qaboos, 
+22. November  -  Oman National Feiertag
+http://www.gulftalent.com/home/Oman-Public-Holidays-2014
+
+== Süddeutsch? ==
+Gibt es irgendwelche Indikatoren dafür, dass die folgende Behauptung am Angang stimmt? "in Süddeutschland, Österreich und der Schweiz maskulin und mit Artikel (der Oman)". Das sage ich zumindest auch im Norden. [[Spezial:Beiträge/95.166.61.216|95.166.61.216]] 01:20, 28. Okt. 2016 (CEST)
+
+: Bitte die dazugehörige Diskussion weiter oben lesen. --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 11:36, 21. Aug. 2017 (CEST)
+::Weiter oben steht nix von "süddeutsch". wäre also theoretisch zu belegen. Hab den Unsinn aber entfernt. Laut Duden und den offiziellen amtlichen Statements der DACH-Länder ist der Landesname in seiner Kurzform einfach im gesamten deutschen Sprachraum maskulin. Und laut der besagten Statements wird er jedoch '''ohne''' Artikel verwendet.--Ciao • [[Benutzer:bestoernesto|<span style="display:inline-block;transform:rotate(-6deg);-moz-transform:rotate(-6deg);-webkit-transform:rotate(-6deg);-o-transform:rotate(-6deg);">Bestoernesto</span>]] • [[Benutzer Diskussion:Bestoernesto|<b>✉</b>]] 01:25, 22. Aug. 2021 (CEST)
+
+== "Islamisches Recht" ==
+"Die Rechtssprechung folgt islamischem Recht" - steht im Artikel. Wieso diese euphemistische Vernebelung, anstatt die Dinge beim Namen zu nennen? Unter dem passenderen - da präziseren - Begriff "Sharia" könnten sich die deutschsprachigen Wikipedia-Leser mittlerweile nämlich weitaus mehr vorstellen. Oder will man diesen zurecht stark negativ konnotierten Begriff - eventuell aus PR-Gründen - nicht im Artikel haben?--<small>(''nicht [[Hilfe:Signatur|signierter]] Beitrag von'' [[Spezial:Beiträge/91.119.1.245|91.119.1.245]] ([[Benutzer Diskussion:91.119.1.245|Diskussion]]) 02:13, 7. Jun. 2017 (CEST))</small>
+
+:Islamisches Recht = Scharia, eine Weiterleitung besteht. Jegliche Spekulationen über irgendwelche finsteren Hintergedanken sind daher überflüssig. --[[Benutzer:J budissin|j.budissin]]<sup>[[Benutzer Diskussion:J budissin|+/-]]</sup> 17:52, 7. Jun. 2017 (CEST)
+
+== Artikelzurücksetzung. ==
+Hallo [[Benutzer:Matthiasb]],
+
+als Begründung für eine Revertierung lasse ich "Nö" nicht gelten. Bitte nennen Sie einen nachvollziehbaren Grund.
+
+Die Änderungen im Artikeltext sind gerechtfertigt, da Oman sächlich ist, so wie die meisten Ländernamen. Es heißt beispielsweise "in Spanien" und nicht "im Spanien" oder "Spanien liegt auf der [[Iberische Halbinsel|Iberischen Halbinsel]] und nicht "der/die Spanien liegt [...]". --[[Benutzer:Hemeier|Hemeier]] ([[Benutzer Diskussion:Hemeier|Diskussion]]) 20:13, 12. Okt. 2017 (CEST)
+:Komisch, der erste Satz des Artikels, den ich gelesen habe, lautet ''Oman (in Süddeutschland, Österreich und der Schweiz maskulin und mit Artikel (der Oman)''. Damit fällt die Änderung unter unerwünschte Korrekturen (cf. [[WP:Korrektoren]]) und ist zurückzusetzen. --[[Benutzer:Matthiasb|Matthiasb]]&nbsp;– [[File:Blue ribbon.svg|8px|link=:en:Blue Ribbon Online Free Speech Campaign]] <sup>([[BD:Matthiasb|CallMyCenter]])</sup> 20:39, 13. Okt. 2017 (CEST)
+
+== Sport ==
+
+fehlt komplett. [[Spezial:Beiträge/87.140.111.165|87.140.111.165]] 11:34, 3. Jul. 2019 (CEST)
+
+== Wie geht es weiter? ==
+
+Der herrschende Sultan ist tot, und er hatte keinen Sohn. Man darf gespannt sein, wie es weitergeht, siehe [https://www.n-tv.de/politik/Sultan-von-Oman-gestorben-article21502540.html hier]. --[[Benutzer:Holger1974|H.A.]] ([[Benutzer Diskussion:Holger1974|Diskussion]]) 05:51, 11. Jan. 2020 (CET)
+
+:Er hat einen Brief mit dem Namen seines Wunschnachfolgers hinterlassen, der jetzt die Geschäfte führt. --[[Benutzer:J budissin|j.budissin]]<sup>[[Benutzer Diskussion:J budissin|+/-]]</sup> 16:34, 11. Jan. 2020 (CET)
+
+== Weihrauch ==
+
+Schön das es da auch Weihrauchbäume gibt. Soweit ich weiß ist der Oman ein wichtiger Hersteller des Weirauchs. Peinlich, dass das niergendwo erwähnt wird? {{unsigniert|2001:16B8:1442:A000:D558:4AD3:D39A:A9B6|10:54, 19. Apr. 2020 (CEST)}}
+:Weihrauch ist jetzt verlinkt. -- [[Benutzer:Bertramz|Bertramz]] ([[Benutzer Diskussion:Bertramz|Diskussion]]) 11:06, 19. Apr. 2020 (CEST)
+
+== Muscat & Oman ==
+
+Früher (ca 1968-1970) hieß der Staat Muscat & Oman, fehlt dies im Artikel? --[[Benutzer:Ra-raisch|Ra-raisch]] ([[Benutzer Diskussion:Ra-raisch|Diskussion]]) 15:12, 27. Sep. 2022 (CEST)
+:Steht nix drin. Wenn Du dafür ne reputable Quelle hast, bitte einfügen.--Ciao • [[Benutzer:bestoernesto|<span style="display:inline-block;transform:rotate(-6deg);-moz-transform:rotate(-6deg);-webkit-transform:rotate(-6deg);-o-transform:rotate(-6deg);">Bestoernesto</span>]] • [[Benutzer Diskussion:Bestoernesto|<b>✉</b>]] 07:59, 28. Sep. 2022 (CEST)
+
+== Regen oder kein Regen?  ==
+
+Im Text steht "Die hohe Luftfeuchtigkeit (vor allem im Sommer) führt zu Nebelbildung und gelegentlich zu Sprühregen.". Im Text steht auch "Im Sommer gibt es keinen Niederschlag.". Was stimmt nun? [[Benutzer:Mischma2000|Mischma2000]] ([[Benutzer Diskussion:Mischma2000|Diskussion]]) 05:35, 18. Apr. 2023 (CEST)
+
+== Staubige Autos ==
+
+"In Oman sind staubige Autos seit 1973 gesetzlich verboten. Wer sein Auto im wasserarmen Land nicht regelmäßig wäscht, riskiert ein Bußgeld …" Warum? [[Benutzer:Mischma2000|Mischma2000]] ([[Benutzer Diskussion:Mischma2000|Diskussion]]) 06:17, 18. Apr. 2023 (CEST)
+
+== Nochmal Kultur ==
+
+Die Einwohnerschaft dieses Landes hat also keinerlei Kultur, außer Sultans Geburtstag und das dazugehörige "riesige" Feuerwerk? Den Rest des Jahres hängen die alle nur so rum und warten auf November? Kann ich mir fast nicht vorstellen. [[Benutzer:Mischma2000|Mischma2000]] ([[Benutzer Diskussion:Mischma2000|Diskussion]]) 06:25, 18. Apr. 2023 (CEST)
