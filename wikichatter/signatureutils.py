@@ -42,13 +42,17 @@ _TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-[0-9]{1,2}\)"
 
 ## German timestamp formats
 # 10:34, 19. Jan. 2025 (CET)
-# 22:50, 17. Aug. 2007 (CEST)
-# 10. Februar 2009 (CET)
-# 10. Februar 2009 (CEST)
 _TIMESTAMP_RE_8 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CET\)"
+# 22:50, 17. Aug. 2007 (CEST)
 _TIMESTAMP_RE_9 = r"[0-9]{2}:[0-9]{2}\, [0-9]{1,2}\. [^\W\d]+\. [0-9]{4} \(CEST\)"
+# 10. Februar 2009 (CET)
 _TIMESTAMP_RE_10 = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} \(CET\)"
+# 10. Februar 2009 (CEST)
 _TIMESTAMP_RE_11 = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} \(CEST\)"
+# 3. Jul 2005 17:50 (CEST)
+_TIMESTAMP_RE_11a = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} [0-9]{2}:[0-9]{2} \(CEST\)"
+# 3. Jul 2005 17:50 (CET)
+_TIMESTAMP_RE_11b = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} [0-9]{2}:[0-9]{2} \(CET\)"
 
 ## French timestamp formats
 # 18 octobre 2006 à 15:58 (CEST)
@@ -64,7 +68,11 @@ _TIMESTAMP_RE_15 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} UTC"
 # 18:41، 24 نوفمبر 2016 (ت ع م)
 # _TIMESTAMP_RE_16 = r"[0-9]{2}:[0-9]{2}، [0-9]{1,2} [^\W\d]+ [0-9]{4} \(ت ع م\)"
 
-_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14, _TIMESTAMP_RE_15]
+_TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, 
+               _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, 
+               _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_11a, _TIMESTAMP_RE_11b,
+               _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14, 
+               _TIMESTAMP_RE_15]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
