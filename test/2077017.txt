@@ -1,0 +1,42 @@
+{{PR|Música clásica|importancia=alta|calidad=aceptable}}
+
+
+== Propuesta ==
+Hola, he observado que mientras que los otros períodos de la música clásica europea se llaman "Música del Renacimiento", "Música del Barroco", "Música del Romanticismo", "Música clásica del siglo XX" y "Música clásica contemporánea", este se llama sencillamente "Música clásica".
+
+Desde mi punto de vista esto es un grave error, pues la inmensa mayoría de la población cuando busca por "Música clásica" realmente está buscando "Música clásica europea" y no la música de uno de sus períodos en concreto, que probablemente ni siquiera sabrá que existe.
+
+En definitivas cuentas, propongo renombrar "Música clásica" a "Música del Clasicismo", y redirigir todas las consultas relativas a "Música clásica" a "Música clásica europea" y allí aclarar el embrollo.
+
+Si nadie tiene ningún inconveniente al respecto en los siete días sucesivos, lo haré yo mismo. [[Usuario_Discusión:Asiderisas|Así de risas]]
+
+¿Seguro? ¿Nadie? [[Usuario_Discusión:Asiderisas|Así de risas]]
+
+:Si bien los dos títulos son correctos (música clásica y música del clasicismo), estoy de acuerdo contigo en que música del clasicismo evitaría confusiones a los lectores inexpertos. No tengo problemas en que lo cambies. Saludos. --[[Usuario:Clavedefa|Clavedefa]] ([[Usuario Discusión:Clavedefa|discusión]]) 00:12 27 nov 2008 (UTC)
+
+::De acuerdo. <s>Solo un comentario cuando se traslade, el título debe ser ''Música del '''c'''lasicismo'' (la "C" en minúscula). Saludos, --'''[[Usuario:BetoCG|BetoCG]]''' – ''[[Usuario Discusión:BetoCG|¿decías?]]'' 00:22 27 nov 2008 (UTC)</s>
+
+:::BetoCG, estás seguro de lo que dices? Lo digo porque acabo de consultar el tema de las mayúsculas en el diccionario panhispánico de dudas de la RAE y encontré esto:
+
+:::''4. Uso de mayúscula inicial independientemente de la puntuación.''
+::::''[...]''
+:::''4.26. Los nombres de edades y épocas históricas, cómputos cronológicos, acontecimientos históricos y movimientos religiosos, políticos o culturales: la Edad de los Metales, la Antigüedad, la Edad Media, la Hégira, el Cisma de Occidente, la Contrarreforma, la Primera Guerra Mundial, la Revolución de los Claveles, el Renacimiento. Igualmente se escriben con mayúscula los sustantivos que dan nombre a eras y períodos geológicos: Cuaternario, Mioceno, Pleistoceno, Jurásico. El adjetivo especificador que acompaña, en estos casos, a los sustantivos Revolución e Imperio se escribe con minúscula: la Revolución francesa, el Imperio romano.''
+:::[[Usuario_Discusión:Asiderisas|Así de risas]]
+
+::::El comentario anterior fue porque hace no mucho tiempo hubo una discusión sobre la convención que se usaría para los títulos. He revisado nuestra [[WP:CT|política]] y ya que no menciona ese tema en particular, nos quedamos con lo que dice la [[RAE]]. Saludos y buen día. --'''[[Usuario:BetoCG|BetoCG]]''' – ''[[Usuario Discusión:BetoCG|¿decías?]]'' 02:38 27 nov 2008 (UTC)
+
+:::::Ok, procedo pues [[Usuario_Discusión:Asiderisas|Así de risas]]
+
+== Tabla ==
+Hay una tabla bastante util en otros periodos como el barroco o el romanticismo que deberiais poner en este articulo (yo no se, si no lo pondria) ademas esa tabla dirige directamente a este.
+
+== Informe de error ==
+
+En el tema Música del clasicismo (S XVIII) se define indistintamente a Clasicismo como Neoclasicismo.
+El Neoclasicismo surge después del Romanticismo, como una vuelta a las estructuras clásicas. Ver Igor Stravinsky - --[[Especial:Contributions/186.124.186.133|186.124.186.133]] ([[Usuario Discusión:186.124.186.133|discusión]]) 18:39 26 sep 2012 (UTC)&nbsp;&nbsp;<small>Trasladado desde [[Wikipedia:Informes de error]] por [[Usuario:Jembot|Jembot]] ([[Usuario Discusión:Jembot|discusión]]) 18:13 9 oct 2012 (UTC)</small>
+
+Falso. El Neoclasicismo en las artes surge durante el siglo XVIII, previo al Romanticismo, como respuesta a la degeneración manierista del Barroco tardío y el Rococó, suponiendo una vuelta a los cánones estéticos del período clásico grecorromano en su mayor pureza. En la música se llama "clasicismo", pues no había referencias musicales del período clásico grecorromano como sí las tuvieron las demás artes. --[[Usuario:Nenuco1971|Nenuco1971]] ([[Usuario Discusión:Nenuco1971|discusión]]) 16:59 26 abr 2013 (UTC)
+
+== Reescritura del artículo ==
+Me parece que este artículo está muy flojo en varios aspectos: faltan contenidos, está mal estructurado, apenas tiene referencias, está mal escrito, se centra en cuestiones secundarias y pasa por alto otros fundamentales, está lleno de afirmaciones dudosas o banales... Creo que merece reescribirse de arriba a abajo. He empezado por darle un peinado para adecentarlo; agradecería colaboración.
+--[[Usuario:Christopher Simpson|Christopher Simpson]] ([[Usuario Discusión:Christopher Simpson|discusión]]) 15:27 28 mar 2013 (UTC)

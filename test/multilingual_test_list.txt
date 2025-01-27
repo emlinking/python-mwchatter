@@ -30,3 +30,4 @@ arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%
 823242.txt, https://es.wikipedia.org/w/index.php?title=Usuario_discusi%C3%B3n:200.112.115.76&action=edit
 908179.txt, https://es.wikipedia.org/w/index.php?title=Usuario_discusi%C3%B3n:Ale_euforia&action=edit
 9264693.txt, https://es.wikipedia.org/w/index.php?title=Discusi%C3%B3n:SARS-CoV-2&action=edit
+2077017.txt, https://es.wikipedia.org/?curid=2077017
