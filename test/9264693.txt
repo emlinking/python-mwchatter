@@ -1,0 +1,116 @@
+{{PR|Enfermedades/COVID-19}}
+{{PR|Medicina}}
+
+== Mecanismo de transmisión ==
+En el apartado Mecanismo de transmisión, se indica que el virus se transmite mediante "pequeñas gotas de menos de 5 micras de diámetro que pueden alcanzar cruzando el aire distancias de dos metros". Esta información no es correcta. Uno de las referencias que la soportan (Informe técnico ministerio de sanidad) está desactualizada. El documento actualizado se encuentra en https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/20200306_ITCoronavirus.V2.pdf e indica lo contrario: Gotas de menos de 5 micras. Ello es fundamental, porque si el virus se encontrase en gotas mayores de 5 micras, la estrategia de protección (tomar distancia, fundamentalmente) sería totalmente diferente a la que se indica en el resto del artículo.
+--[[Usuario:Kinkiozu|Kinkiozu]] ([[Usuario Discusión:Kinkiozu|discusión]]) 07:29 17 mar 2020 (UTC)
+
+== Proteger  ==
+
+Ya se han resuelto algunos problemas de usuarios anónimos dañando el articulo gracias por tu reporte.
+--[[Especial:Contributions/2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C]] ([[Usuario Discusión:2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|discusión]]) 16:17 9 jun 2021 (UTC)Wikipedia
+
+== Protección de información ==
+
+Los usuarios de esta pagina están eliminando los datos guardados por otros usuarios y están evitando que los usuarios interesados en saber y aprender sobre el coronavirus y muchas otras cosas en esta pagina lo hagan--[[Especial:Contributions/2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C]] ([[Usuario Discusión:2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|discusión]]) 16:16 9 jun 2021 (UTC)Anonimo
+
+== Nombre del Virus ==
+
+Creo que el nombre del virus está mal. El artículo afirma que el virus se llama Covid-19, cuando ese es el nombre que ha dado la OMS a LA ENFERMEDAD causada por el virus, no al virus, que ha sido llamado por el  Comité Internacional para la Taxonomía de Virus como SARS-CoV-2. Así figura además en la versión inglesa del artículo.
+https://www.biorxiv.org/content/10.1101/2020.02.07.937862v1
+https://www.bbc.com/news/world-asia-china-51466362 {{nofirmado|2.153.254.213|18:59 11 feb 2020‎ --[[Usuario:Leptospira|Leptospira]] ([[Usuario Discusión:Leptospira|discusión]]) 22:15 11 feb 2020 (UTC)}}
+
+== Proposición de traslado a [[SARS-CoV-2]] ==
+
+Tal y como se informa en el artículo que he colocado como referencia [https://www.biorxiv.org/content/10.1101/2020.02.07.937862v1.full.pdf], el nombre oficial que se le ha dado al virus hoy es SARS-CoV-2, por lo que propongo el traslado del artículo al nombre oficial. Aclaro que COVID-19, como bien dice el usuario anónimo de la sección anterior, es el nombre oficial de la enfermedad que causa el virus. --[[Usuario:Leptospira|Leptospira]] ([[Usuario Discusión:Leptospira|discusión]]) 21:33 11 feb 2020 (UTC)
+:De acuerdo. Pienso que deberíamos remover las citas a Wuhan en el nombre del virus también. En acuerdo con [https://apps.who.int/iris/bitstream/handle/10665/163636/WHO_HSE_FOS_15.1_eng.pdf la recomendación de OMS]. [[Usuario:Chicocvenancio|Chico Venancio]] ([[Usuario Discusión:Chicocvenancio|discusión]]) 00:26 12 feb 2020 (UTC)
+: No son lo mismo, ordenen sus ideas primero, en realidad el argumento dado por el anónimo deja en claro que no se tiene que confundir a la enfermedad ([[COVID-19]]) con el virus en si ([[SARS-CoV-2]]) (un ejemplo de existencia de este tipo de artículos separados puede ser [[Ebolavirus]] y [[Enfermedad por el virus del Ébola]]), lo que diga la OMS es correcto, pero al tratarse de un tema reciente es aún muy precipitado unir ambos artículos, saludos. --[[Usuario:LLs|LLs]] ([[Usuario Discusión:LLs|discusión]]) 02:13 14 feb 2020 (PET)
+::{{Ping|LLs}} Creo que te has confundido, esto es la propuesta de traslado a SARS-CoV-2 cuando el artículo se llamaba "Coronavirus de Wuhan". Un anónimo colocó ayer la plantilla de fusión sin dar argumentos. Yo estoy en contra por los mismos motivos que dices, así que voy a retirarla ya que tampoco explicó el por qué de esa fusión. [[Usuario:Leptospira|Leptospira]] ([[Usuario Discusión:Leptospira|discusión]]) 11:15 14 feb 2020 (UTC)
+
+Tener en cuenta que en el texto aparece como posible origen del virus el Pangolin, sin embargo este ya ha sido descartado. https://www.lavanguardia.com/ciencia/20200227/473809390510/origen-coronavirus-covid-19-pangolin.html
+
+== Nombre común ==
+Debe modificarse el nombre de este virus, ya que en la mayoría de países hispanohablantes se le llama a este virus "Coronavirus"--[[Especial:Contributions/2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C]] ([[Usuario Discusión:2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|discusión]]) 16:12 9 jun 2021 (UTC)Anonimo
+
+:No, porque existe el [[SARS-CoV]], el que provocó una [[Epidemia de síndrome respiratorio agudo grave de 2002-2004|epidemia entre 2002 y 2004]]. [[File:Flag_of_Chile.svg|20px|link=]] '''[[Usuario:Amitie 10g|Davod]]''' ([[Usuario_discusión:Amitie 10g|desquítense n_n]]) 03:40 29 jul 2021 (UTC)
+
+== Estructura del artículo ==
+Las estructuras luego de las entradillas del artículos en inglés y de este:
+{|class="wikitable"
+! en inglés
+! en español
+|- valign="top"
+|
+* 1 Virología
+** 1.1 Infección
+** 1.2 Reservorio
+** 1.3 Filogenética y taxonomía
+** 1.4 Biología estructural
+* 2 Epidemología
+* 3 Referencias
+* 4 Lectura adicional
+* 5 Enlaces externos
+||
+* 1 Historia
+* 2 Periodo de incubación
+* 3 Mecanismo de transmisión
+* 4 Clínica
+* 5 Virología
+* 6 Contención del virus
+* 7 Fuente del virus
+* 8 Medidas preventivas
+* 9 Vacunas y antivirales
+** 9.1 Trabajos de investigación
+* 10 Seguimiento de la cantidad de infectados
+* 11 Notas
+* 12 Véase también
+* 13 Referencias
+* 14 Enlaces externos
+|}
+Sin embargo la primera versión ocupa 49 kB. y esta 37 ¿estructuramos el contenido de una forma algo análoga a la versión en inglés, manteniendo el contenido que esa no tenga? Saludos.[[Usuario:Uvulum|~&nbsp;u&nbsp;v&nbsp;u&nbsp;l&nbsp;u&nbsp;m]]&nbsp;|&nbsp;[[Usuario discusión:Uvulum|(discusión)]] 20:33 20 mar 2020 (UTC)
+:De acuerdo, algo hay que hacer, se están mezclando el virus, la enfermedad y la pandemia. Sin embargo, «Contención del virus», «Seguimiento de la cantidad de infectados» y parte de «Historia» corresponden realmente a alguno de los artículos de la pandemia. Las «Medidas preventivas» y «Vacunas y antivirales» tendrían que ir a [[COVID-19]], el de la enfermedad. El resto, intentar reordenarlo de forma lógica. Un saludo, --[[Usuario:PePeEfe|PePeEfe]] ([[Usuario Discusión:PePeEfe|discusión]]) 20:57 20 mar 2020 (UTC)
+
+== Historia ==
+
+El 7 de enero de 2020 las autoridades chinas declararon que se ''hubiera '''descubrido''''' que la causa de la enfermedad era un nuevo virus de la familia de los coronavirus que fue nombrado provisionalmente como 2019-nCoV (coronavirus de Wuhan)
+
+error ortográfico y gramatical, cambiar: ''hubiera descubrido''
+por ''descubrió''‎ <small><span class="autosigned">— El comentario anterior [[WP:FIRMA|sin firmar]] es obra de [[Usuario:Fabianri|Fabianri]] ([[Usuario Discusión:Fabianri|{{leng|ESP|disc.|talk}}]] • [[Special:Contributions/Fabianri|contribs]]<span class="para_biblios"> • [[Special:Block/Fabianri|bloq]]</span>). 13:22 21 mar 2020 (UTC)</span></small>
+
+== No se ha actualizado la información del mecanismo de transmisión ==
+
+La información de cómo se transmite el contagio del virus está muy desactulizada. [[Usuario:W. NOHEL. M|W. NOHEL. M]] ([[Usuario Discusión:W. NOHEL. M|discusión]]) 13:42 31 mar 2020 (UTC)
+::Que información específicamente debe ser actualizada, tiene alguna fuente que podamos usar? --[[Usuario:Wilfredor|Wilfredor]] ([[Usuario Discusión:Wilfredor|discusión]]) 15:07 31 mar 2020 (UTC)
+
+== Introducción con grandes deficiencias ==
+El artículo trata sobre el virus, no sobre la enfermedad. La introducción debe resumir las caracteristicas principales del virus. Las medidas preventivas para evitar la enfermedad sobran en la introducción y están muy mal redactadas, parece una traducción defectuosa. Ya existe una sección con las medidas de prevención. --[[Usuario:Neuroeurope|Neuroeurope]] ([[Usuario Discusión:Neuroeurope|discusión]]) 18:30 3 abr 2020 (UTC)
+
+
+Origen mal especificado
+se dice "no descartan que pueda tener su origen en un laboratorio". Lo que sospecha el gobierno americano en su informe es que se haya producido un accidente en el laboratorio, liberándose el mismo. Pero esta redacción da a entender que el virus se ha creado en un laboratorio, cosa totalmente descartada por la comunidad científica.
+Habría que citar que ese laboratorio trabaja con virus zoonóticos, y que se sospecha de un accidente que liberó al virus y contagió a humanos.
+--[[Usuario:JLesta|JLesta]] ([[Usuario Discusión:JLesta|discusión]]) 19:14 19 jun 2021 (UTC)
+
+== Fuente del Virus ==
+El artículo afirma que el virus SARS-CoV-2 tiene una semejanza del 99% con el CoV encontrado en los pangolines, esto es incorrecto ya que el articulo mencionadocomo fuente del dato indica que la semejanza se detecto en fragmentos del genoma de ambos virus. El CoV encontrado en pangolines tiene menos del 90% de semejanza con el SARS-CoV-2. 
+Mayores datos y detalles en el estudio a continuación:
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30251-8/fulltext {{no firmado|181.94.229.43|13:19 7 abr 2020}}
+:{{ping|181.94.229.43}} No consigo localizar la información en el artículo que citas, ¿podrías indicar dónde dice eso? --[[Usuario:Leptospira|Leptospira]] ([[Usuario Discusión:Leptospira|discusión]]) 13:55 7 abr 2020 (UTC)
+
+@Leptospira El articulo y la información están ahí, solo es que esta en ingles pero en si la información esta allí--[[Especial:Contributions/2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C]] ([[Usuario Discusión:2806:2F0:7260:1452:7D6C:E1DD:138B:8D9C|discusión]]) 16:21 9 jun 2021 (UTC)Anonimo
+
+== Información duplicada ==
+Gran parte del contenido se encuentra más desarrollado en [[Pandemia de enfermedad por coronavirus de 2019-2020]] o en [[COVID-19]]. ¿No sería razonable retirarlo o dejar pequeños resúmenes apuntando a los artículos principales? --[[Usuario:Leptospira|Leptospira]] ([[Usuario Discusión:Leptospira|discusión]]) 13:55 7 abr 2020 (UTC)
+
+== Nombre en español ==
+
+Hola, la Organización Mundial de la Salud tiene un nombre oficial en español para el virus. El español es uno de sus seis idiomas oficiales.<br>El nombre oficial de la OMS es «coronavirus de tipo 2 causante del síndrome respiratorio agudo severo» o «SRAS-CoV-2» (como abreviatura).<br>Fuente: {{cita web|url =https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it |título =Los nombres de la enfermedad por coronavirus (COVID-19) y del virus que la causa |fechaacceso = 3 de noviembre de 2020 |sitioweb =who.int |editorial =Organización Mundial de la Salud |urlarchivo = |fechaarchivo =}}
+--[[Especial:Contributions/90.4.51.57|90.4.51.57]] ([[Usuario Discusión:90.4.51.57|discusión]]) 10:24 3 nov 2020 (UTC)
+
+== Mejorar fuentes ==
+
+Varias de las fuentes relacionadas con el virus son recortes de periódicos (v.g. sobre reinfección). Debe referenciarse con una fuente más confiable como estudios clínicos, que, además, están publicados en la web.
+
+== Origen zoonótico ==
+
+Proponer en la introducción del artículo: "Tiene un origen zoonótico, es decir, que se transmitió de un huésped animal a uno humano.[9]"  sin más, cuando en la misma referencia bibliográfica que se añade no se da por asegurado: "[9]Zhou, Peng; Yang, Xing-Lou; Wang, Xian-Guang; Hu, Ben; Zhang, Lei; Zhang, Wei; Si, Hao-Rui; Zhu, Yan; Li, Bei; Huang, Chao-Lin; Chen, Hui-Dong; Chen, Jing; Luo, Yun; Guo, Hua; Jiang, Ren-Di; Liu, Mei-Qin; Chen, Ying; Shen, Xu-Rui; Wang, Xi; Zheng, Xiao-Shuang; Zhao, Kai; Chen, Quan-Jiao; Deng, Fei; Liu, Lin-Lin; Yan, Bing; Zhan, Fa-Xian; Wang, Yan-Yi; Xiao, Gengfu; Shi, Zheng-Li (23 de enero de 2020). «Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin». bioRxiv (en inglés): 2020.01.22.914952" no es correcto. O habría que actualizar las fuentes de referencia con nuevos artículos científicos que lo confirmen sin lugar a dudas, tanto el origen animal como su huésped original, o habría que reescribir esa parte del artículo. Saludos. [[Usuario:FJSF|FJSF]] ([[Usuario Discusión:FJSF|discusión]]) 10:49 29 sep 2022 (UTC)
