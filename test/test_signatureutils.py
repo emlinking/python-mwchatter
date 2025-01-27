@@ -1,6 +1,6 @@
 import unittest
-import wikichatter.signatureutils as signatureutils
-import wikichatter.mwparsermod as mwpm
+import mwchatter.signatureutils as signatureutils
+import mwchatter.mwparsermod as mwpm
 
 
 class SignatureUtilsTest(unittest.TestCase):

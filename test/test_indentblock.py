@@ -1,6 +1,6 @@
 import unittest
-import wikichatter.indentblock as indentblock
-import wikichatter.mwparsermod as mwpm
+import mwchatter.indentblock as indentblock
+import mwchatter.mwparsermod as mwpm
 
 
 EMPTY = "\n"

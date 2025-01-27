@@ -2,7 +2,7 @@
 import json
 import os
 import pprint
-import wikichatter as wc
+import mwchatter as wc
 
 TEST_DIR = "test/"
 TEST_FILES = "test/multilingual_test_list.txt"

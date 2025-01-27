@@ -1,5 +1,5 @@
 import unittest
-import wikichatter.mwparsermod as mwpm
+import mwchatter.mwparsermod as mwpm
 import mwparserfromhell as mwp
 
 

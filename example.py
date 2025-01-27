@@ -1,5 +1,5 @@
 import os
-import wikichatter as wc
+import mwchatter as wc
 import json
 
 talk_samples_base = "./talk_samples/"

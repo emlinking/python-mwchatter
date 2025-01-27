@@ -8,7 +8,7 @@ import mwxml
 import os
 import sys
 import tqdm
-import wikichatter as wc
+import mwchatter as wc
 import bz2
 
 def main(fp, output_dir):
