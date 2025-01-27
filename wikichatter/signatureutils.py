@@ -37,8 +37,20 @@ _TIMESTAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UT
 ## Spanish timestamp formats
 # 23:48 23 sep 2012 (UTC)
 _TIMESTAMP_RE_6 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
+# 23:48 23 sep 2012 (UTC-3)
+_TIMESTAMP_RE_6a = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC[-+]?[0-9]{1,2}\)"
+# 22:54 mar 2022 (UTC)
+_TIMESTAMP_RE_6b = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC[-+]?[0-9]\)"
 # 22:54 mar 2022 (UTC-3)
-_TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-[0-9]{1,2}\)"
+_TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC[-+]?[0-9]{1,2}\)"
+# 01:33 19 may 2007 (CEST)
+_TIMESTAMP_RE_7a = r"[0-9]{2}:[0-9]{2} [0-9]{2} [^\W\d]+ [0-9]{4} \(CEST\)"
+# 22:54 mar 2022 (CEST)
+_TIMESTAMP_RE_7b = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(CEST\)"
+# 01:33 19 may 2007 (CET)
+_TIMESTAMP_RE_7c = r"[0-9]{2}:[0-9]{2} [0-9]{2} [^\W\d]+ [0-9]{4} \(CET\)"
+# 22:54 mar 2022 (CET)
+_TIMESTAMP_RE_7d = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(CET\)"
 
 ## German timestamp formats
 # 10:34, 19. Jan. 2025 (CET)
@@ -56,23 +68,32 @@ _TIMESTAMP_RE_11b = r"[0-9]{1,2}\. [^\W\d]+\ [0-9]{4} [0-9]{2}:[0-9]{2} \(CET\)"
 
 ## French timestamp formats
 # 18 octobre 2006 à 15:58 (CEST)
-# 24 novembre 2007 à 00:49 (CET)
-# 23.11.2007/19:54&nbsp;UTC, 24.11.2007/06:55&nbsp;UTC
-# 24 novembre 2007 à 06:38 UTC
 _TIMESTAMP_RE_12 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CEST\)"
+# 24 novembre 2007 à 00:49 (CET)
 _TIMESTAMP_RE_13 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(CET\)"
+# 24 novembre 2007 à 00:49 (UTC)
+_TIMESTAMP_RE_13a = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} \(UTC\)"
+# 23.11.2007/19:54&nbsp;UTC, 24.11.2007/06:55&nbsp;UTC
 _TIMESTAMP_RE_14 = r"[0-9]{1,2}\.[0-9]{2}\.[0-9]{4}\/[0-9]{2}:[0-9]{2}\&nbsp\;UTC"
+# 24 novembre 2007 à 06:38 UTC
 _TIMESTAMP_RE_15 = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} UTC"
+# 24 novembre 2007 à 06:38 CEST
+_TIMESTAMP_RE_15a = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} CEST"
+# 24 novembre 2007 à 06:38 CET
+_TIMESTAMP_RE_15b = r"[0-9]{1,2} [^\W\d]+ [0-9]{4} à [0-9]{2}:[0-9]{2} CET"
 
 # Arabic timestamps
 # 18:41، 24 نوفمبر 2016 (ت ع م)
 # _TIMESTAMP_RE_16 = r"[0-9]{2}:[0-9]{2}، [0-9]{1,2} [^\W\d]+ [0-9]{4} \(ت ع م\)"
 
 _TIMESTAMPS = [_TIMESTAMP_RE_0, _TIMESTAMP_RE_1, _TIMESTAMP_RE_2, _TIMESTAMP_RE_3, _TIMESTAMP_RE_4, 
-               _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, _TIMESTAMP_RE_7, _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, 
+               _TIMESTAMP_RE_5, _TIMESTAMP_RE_6, 
+               _TIMESTAMP_RE_6a, _TIMESTAMP_RE_6b,
+               _TIMESTAMP_RE_7, _TIMESTAMP_RE_7a, _TIMESTAMP_RE_7b, _TIMESTAMP_RE_7c, _TIMESTAMP_RE_7d,
+               _TIMESTAMP_RE_8, _TIMESTAMP_RE_9, 
                _TIMESTAMP_RE_10, _TIMESTAMP_RE_11, _TIMESTAMP_RE_11a, _TIMESTAMP_RE_11b,
-               _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_14, 
-               _TIMESTAMP_RE_15]
+               _TIMESTAMP_RE_12, _TIMESTAMP_RE_13, _TIMESTAMP_RE_13a, _TIMESTAMP_RE_14, 
+               _TIMESTAMP_RE_15, _TIMESTAMP_RE_15a, _TIMESTAMP_RE_15b]
 TIMESTAMP_RE = re.compile(r'|'.join(_TIMESTAMPS))
 
 # English or Chinese or Spanish user page link format
