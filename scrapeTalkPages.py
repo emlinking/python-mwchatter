@@ -71,9 +71,7 @@ def main(fp, output_dir):
                     parse = wc.parse(revision.text)
 
                     # save the parse
-                    # https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/#convert-dictionary-in-python-to-json-file-using-jsondump
-                    with open(save_path, "w") as outfile:
-                        json.dump(parse, outfile)
+                    json.dump(parse, open(save_path, "w"))
                         
                 except wc.error.MalformedWikitextError as e:
                     print("Encountered malformed Wikitext on page '{}' (id: {})".format(page.title, page.id))
