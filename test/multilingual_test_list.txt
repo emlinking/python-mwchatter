@@ -25,3 +25,4 @@ arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%
 872850.txt, https://es.wikipedia.org/?curid=872850
 1279194.txt, https://es.wikipedia.org/?curid=1279194
 2476292.txt, https://es.wikipedia.org/?curid=2476292
+2483507.txt, https://es.wikipedia.org/?curid=2483507

@@ -1,0 +1,202 @@
+{| width="100%" cellspacing="0" cellpadding="6" style="font-size:95%; line-height: 15px; background: #faf6ed; border: 1px solid #faecc8;"
+|-
+| colspan="4" style="background: #faecc8;" |<big>'''Hola, {{BASEPAGENAME}}.''' Te damos la bienvenida a Wikipedia en español </big>
+|-
+| colspan="4" | Gracias por participar en el proyecto. Esperamos que la colaboración te resulte agradable y que aproveches tu estancia por aquí. 
+|-
+| colspan="4" | [[Wikipedia en español]] es una enciclopedia de '''[[Wikipedia:La enciclopedia libre|contenido libre]]''' que surgió en [[mayo]] de [[2001]]; desde entonces se han establecido varios principios definidos por la comunidad. Por favor, tómate un tiempo para '''explorar los temas siguientes''', antes de comenzar a editar en Wikipedia.
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app lassist.png|30x30px
+default [[Wikipedia:Los cinco pilares]]
+desc none
+</imagemap>
+| [[Wikipedia:Los cinco pilares|'''Los cinco pilares de Wikipedia'''.<br>Principios fundamentales del proyecto]].
+| align="right" | <imagemap>
+Imagen:Gtk-dialog-info.svg|30x30px
+default [[Ayuda:Contenidos]]
+desc none
+</imagemap>
+| [[Ayuda:Contenidos|'''Ayuda'''.<br>Manual general de Wikipedia]].
+|-
+| width="8%"  align="right" | <imagemap>
+Imagen:Crystal Clear app Startup Wizard.png|30x30px
+default [[Ayuda:Tutorial]]
+desc none
+</imagemap>
+| width="38%" | [[Ayuda:Tutorial|'''Tutorial'''.<br>Aprender a editar paso a paso en un instante]].
+| align="right" | <imagemap>
+Imagen:Crystal Clear app kedit.png|30x30px
+default [[Wikipedia:Zona de pruebas]]
+desc none
+</imagemap>
+| width="38%" | [[Wikipedia:Zona de pruebas|'''Zona de pruebas'''.<br>Para que realices pruebas de edición]].
+|-
+| align="right" | <imagemap>
+Imagen:Cicero-head.png|30x30px
+default [[Wikipedia:Programa de tutoría]]
+desc none
+</imagemap>
+| [[Wikipedia:Programa de tutoría| '''Programa de tutoría'''.<br>Solicita ayuda personalizada en tus primeros pasos]].
+| align="right" | <imagemap>
+Imagen:Crystal Clear action edit.png|30x30px
+default [[Ayuda:Cómo empezar una página]]
+desc none
+</imagemap>
+| [[Ayuda:Cómo empezar una página|'''Cómo empezar una página'''.<br />Consejos sobre cómo iniciar un artículo enciclopédico]].
+|-
+| align="right" | <imagemap>
+Imagen:Nuvola apps important yellow.svg|30x30px
+default [[Wikipedia:Lo que Wikipedia no es]]
+desc none
+</imagemap>
+| [[Wikipedia:Lo que Wikipedia no es|'''Cosas que no se deben hacer'''.<br>Resumen de errores más comunes a evitar]].
+| width="8%"  align="right" | <imagemap>
+Imagen:Crystal Clear action apply.png|30x30px
+default [[Ayuda:Cómo se edita una página]]
+desc none
+</imagemap>
+| [[Ayuda:Cómo se edita una página|'''Aprende a editar páginas'''.<br>Guía de edición de páginas wiki]].
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app file-manager.png|30x30px
+default [[Wikipedia:Políticas]]
+desc none
+</imagemap>
+| [[Wikipedia:Políticas|'''Las políticas de Wikipedia'''.<br>Estándares y reglas aprobadas por la comunidad]].
+| align="right" | <imagemap>
+Imagen:Nuvola apps ksirc.png|30x30px
+default [[Ayuda:FAQ]]
+desc none
+</imagemap>
+| [[Ayuda:FAQ|'''Preguntas más frecuentes'''.<br>Preguntas que toda la gente hace]].
+|-
+| align="right" | <imagemap>
+Imagen:Nuvola apps kteatime.png|30x30px
+default [[Wikipedia:Café]]
+desc none
+</imagemap>
+| [[Wikipedia:Café|'''Café'''.<br>Donde puedes preguntar a otros wikipedistas]].
+| align="right" | <imagemap>
+Imagen:Curly Brackets.svg|30x30px
+default [[Ayuda:Referencia rápida]]
+desc none
+</imagemap>
+| [[Ayuda:Referencia rápida| '''Referencia rápida'''.<br />Un resumen sobre cómo utilizar el wikicódigo]].
+|-
+| colspan="4" style="border-top:2px solid #faecc8;" |
+[[Imagen:Firma.png|right]]
+Ésta es tu [[:Wikipedia:Políticas de edición y páginas de discusión|'''página de discusión''']], en la cual puedes recibir mensajes de otros [[:Wikipedia:Wikipedistas|wikipedistas]]. Para dejar un mensaje a otro wikipedista debes escribir '''en su página de discusión''', si no, no será notificado. Al final del mensaje debes [[Ayuda:Cómo se edita una página#Firmar un comentario|firmar escribiendo cuatro <big><nowiki>~~~~</nowiki></big>]] o presionando el botón mostrado en la imagen. Recuerda que [[Wikipedia:Acerca de firmar artículos|''los artículos no se firman'']].
+----
+|}
+Esperamos que pases buenos momentos en Wikipedia. --[[Usuario:Galio|galio...]] [[Usuario discusión:Galio|любая проблема?]] 15:07 7 may 2009 (UTC)
+
+
+==RE:Srta Isha==
+Otro bezito para Ud. [[Usuario:Isha|Isha]] [[Usuario Discusión:Isha|«]] 15:20 8 may 2009 (UTC)
+
+== Bot ==
+
+Hola. Pues no se si sea porque no hay más errores, pero el bot no está poniendo la plantilla. Saludos ~~ [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario:Camilo|Camilo]] [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario Discusión:Camilo|{¿?¿Me dices?¿?}]] 01:52 19 may 2009 (UTC)
+
+:Hmm veo... entonces eran pocos los errores!! Saludos y gracias por la aclaración ~~ [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario:Camilo|Camilo]] [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario Discusión:Camilo|{¿?¿Me dices?¿?}]] 01:57 19 may 2009 (UTC)
+
+== Re:Bot que detecta Texto en negritas ==
+Hola, ¿nos conocemos? (lo digo por lo de estimado). Mi experiencia a la hora de revertir es que ediciones de ese tipo no iban acompañadas de vandalismos mayores, por lo que no creo que sea necesaria una revisión humana, además si el bot trabaja a todo trapo créeme que la lista crecerá y crecerá. Creo que, efectivamente, va a ser de gran ayuda que haya bots que se complementen con AVBOT, porque aun hay mucho por hacer. Si piensas usar el bot de forma frecuente te recomiendo solicitar el flag correspondiente. Te mando un saludo, [[Usuario:poco_a_poco|Poco a poco]]...[[ Usuario Discusión:poco_a_poco|¡adelante!]] 10:57 19 may 2009 (UTC)
+
+==¡Eh!==
+Macreatelos vos, así aprendés <code style="background:yellow">:)</code>.  Besote, [[Usuario:Isha|Isha]] [[Usuario Discusión:Isha|«]] 17:21 19 may 2009 (UTC)
+
+== Bot ==
+
+Hola Pyr0, me gustaria ayudarte con la tarea de Panderine! con la plantilla {{tl|revisar}}. Que utiliza tu bot? <small>by</small> [[Usuario:Manuelt15|Màñüé£†¹5]] [[Archivo:Inverted Pentagram.svg|15px]] [[Usuario Discusión:Manuelt15|<sup>(m†¹5™)</sup>]] 17:59 30 may 2009 (UTC)
+:Me refiero a ayudarte en la tarea de encontrar esos errores con mi bot, que script utilizas? <small>by</small> [[Usuario:Manuelt15|Màñüé£†¹5]] [[Archivo:Inverted Pentagram.svg|15px]] [[Usuario Discusión:Manuelt15|<sup>(m†¹5™)</sup>]] 16:40 1 jun 2009 (UTC)
+::Se podrá agregar al script este caso <nowiki><ref></ref></nowiki> apareció aca [http://es.wikipedia.org/w/index.php?title=Claudia_di_Gir%C3%B3lamo&diff=27167791&oldid=27167721] junto con otro error que encontró. Saludos!!! [[Usuario:Ezarate|Esteban]] ([[Usuario Discusión:Ezarate|discusión]]) 01:01 12 jun 2009 (UTC)
+
+== Panderine! ==
+
+El bot, {{u|Panderine!}} ha sido [[Wikipedia:Bot/Autorizaciones/Archivo 2009#Panderine!|aprobado]]. No olvides colocarle la etiqueta {{tl|Usuario:Userbox/Bot autorizado}} ¡Felicidades!. --'''[[Usuario:BetoCG|Beto]]·[[Usuario Discusión:BetoCG|<span style="cursor:help;" title="¿Dudas?">CG</span>]]''' 00:43 17 jun 2009 (UTC)
+
+== rbmediawiki ==
+
+Al fin :) De forma local puedes modificar el código de la gem (hay que encontrar dónde lo instaló). Luego si haces funciones y mejoras el código te doy sin problemas acceso al repositorio git del proyecto y subes los cambios tú mismo, y de vez en cuando hacemos un release. Lo de euoffset = result['query-continue']['alllinks']['alcontinue'] y aloffset... definitivamente debería decir aloffset :).—[[Usuario:Chabacano|Chabacano]] 16:22 22 jun 2009 (UTC)
+
+:Lo ideal para hacer esto sería hacer una consulta sql en el toolserver. El continue es siempre igual: Al hacer una petición como http://en.wikipedia.org/w/api.php?action=query&titles=Albert%20Einstein|France&prop=links&pllimit=500 (por cierto, que el límite para bots es de 5000 enlaces, ahí puedes agilizar un poco) al final sale un <links plcontinue="736|0|Vera Weizmann" />. El valor de los continues lo puedes meter tal cual en la nueva petición: http://en.wikipedia.org/w/api.php?action=query&titles=Albert Einstein|France&prop=links&pllimit=500&plcontinue=736|0|Vera Weizmann . Quizá con el límite a 5000 y usando el continue pueda sacarse más rápido. Otra posibilidad es suponer que las páginas sin enlaces no tendrán interwikis (se pueden sacar solo las páginas sin interwikis con prop=allpages y usando el parámetro apfilterlanglinks=withoutlanglinks) o suponer que serán menores a un tamaño dado (en allpages puedes listar solo las páginas menores a un tamaño que digas).—[[Usuario:Chabacano|Chabacano]] 22:53 23 jun 2009 (UTC)
+
+== Toolserveraccount ==
+Hello Pyr0,<br/>
+please send your real-name, your wikiname, your Freenode-nick (if you have one), your prefered login-name and the public part of your ssh-key to [[image:zedler-admins.png]]. We plan to create your account soon then. --[[w:de:User:DaB.|DaB.]] 15:28 5 jul 2009 (UTC)
+
+== Re: Re: No fue un error....  ==
+
+Si, esta bien, solo que en esos tiempos el bot ''Panderine!'' ponia unas cosas de revisar, y me canse de estar revirtiendo los cambios. perdonen por si fui un poco duro. Saludos. [[Usuario:RubiksMaster110|Ricardo P.]] [[Archivo:Nuvola Honduran flag.svg|23px]]  [[Usuario Discusión:RubiksMaster110|¿Preguntas?]]  19:04 16 ago 2009 (UTC)
+
+==Sobre HATAKEDO==
+Cordial saludo Pyr0. Aplicaste una plantilla de "Artículo o sección sin relevancia enciclopédica aparente" a mi contribución sobre el HATAKEDO. Apenas inicio mis contribuciones a Wikipedia y no capto completamente la esencia de mi error al publicar. Si pudieras ampliarme más, con seguridad puedo corregir y mejor la contribución. [[Usuario:David Gaviria|David Gaviria]] ([[Usuario Discusión:David Gaviria|discusión]]) 16:57 20 ago 2009 (UTC)
+
+[[Archivo:Navidad.jpg|thumb|270px|center|Te deseo una Feliz Navidad y próspero año 2010]][[Usuario:Ezarate|Esteban]]
+
+== Enhorabuena ==
+
+Hola, vengo a felicitarte por tu bot Panderine! Acabo de descubrirlo y me parece muy útil para detectar pruebas de edición o vandalismos que no son detectados al instante. Nos vemos. [[Usuario:Karshan|Karshan]] <sup>''[[Usuario Discusión:Karshan|susúrrame]]''</sup> 13:45 23 mar 2010 (UTC)
+==  Hi pyro ==
+Se trata que ha intervenido casi la totalidad de las páginas en las que estoy trabajando en la que más insiste en una que he creado nueva [[Show del Oso Yogi]]. ¿? por vandalismo. --[[Usuario:FrankRost|CRAWLER]] ([[Usuario Discusión:FrankRost|discusión]]) 21:39 26 abr 2010 (UTC)
+*Entonces con razón que aparece constantemente. Lo corregiré enseguida. Merci pour tout le votre atención. Messie. --[[Usuario:FrankRost|CRAWLER]] ([[Usuario Discusión:FrankRost|discusión]]) 20:23 28 abr 2010 (UTC)
+
+== Firma ==
+Pues tampoco sé si se debe hacer o no (nunca la uso), quizás fue error mío. [[Usuario:Drini|Drini]] ([[Usuario Discusión:Drini|discusión]]) 23:36 3 jul 2010 (UTC)
+
+==Invitación==
+¡Hola! Pasaba para invitarte al [[Wikipedia:Encuentros/VII Encuentro de Wikipedistas en Buenos Aires|VII Encuentro de Wikipedistas]] en Buenos Aires, que se realizará el domingo 19 de septiembre en Balvanera. ¡Estaría muy bueno si venís! Saludos, [[Usuario:Aleposta|Aleposta]] ([[Usuario Discusión:Aleposta|discusión]]) 00:20 10 sep 2010 (UTC)
+
+==Invitación==
+[[Archivo:Wikipedia 10 - Buenos Aires.png|800px|Wikipedia 10 Buenos Aires]]
+
+Estimado {{PAGENAME}},
+
+A través de este mensaje queremos invitarte a la [[Wikipedia:Encuentros/Celebración del 10° Aniversario de Wikipedia en Buenos Aires|celebración de Wikipedia 10 en Buenos Aires]], a realizarse el sábado 21 de mayo en el [[Centro Cultural San Martín]] (Sarmiento 1221) a partir de las 15 h, organizado por Wikimedia Argentina.
+
+Contaremos, además de con una charla de introducción a Wikipedia para el público en general y de un taller de edición, con dos actividades con importantes invitados. Por un lado, Ariel Torres, responsable del suplemento Informática de La Nación, disertará sobre los diez años de Wikipedia en español, sus desafíos e impactos. A continuación, un panel con representantes del Ministerio de Educación de la Nación presentará Wikipedia en el aula, una sección del portal Educ.ar dedicada al uso de Wikipedia en el ámbito educativo, que surgió inspirada por el cuadernillo del mismo nombre editado por Wikimedia Argentina.
+
+Luego del cierre de las actividades, previsto para las 19 h, nos reuniremos los wikipedistas presentes a celebrar el aniversario de Wikipedia como corresponde, con un asado. Para eso, haremos una reserva por la cantidad aproximada de comensales en una parrilla cercana. Te pedimos que, si planeás asistir, [[Wikipedia:Encuentros/Celebración del 10° Aniversario de Wikipedia en Buenos Aires#Participantes|lo indiques firmando acá]]. En el caso de que asistas al ciclo de charla pero no seas de la partida con el asado, anotate igual indicando esto último.
+
+¡Esperamos contar con tu presencia!
+
+Un saludo,
+[[Usuario:Aleposta|Aleposta]] ([[Usuario Discusión:Aleposta|discusión]]) 20:47 4 may 2011 (UTC)
+
+== Re: Plantae ==
+
+Hola PyrO, gracias por contestar. Lo que te quería avisar es que a veces el bot Panderine!, por apurado, se pone a revisar páginas que acaban de ser vandalizadas, como cuando agregaron textos en Plantae que decían "archivo:Ejemplo.jpg", en ese caso solamente había que revertir el vandalismo, el bot pasó una revisión sobre la parte vandalizada. Por supuesto que va a encontrar cosas para revisar en las partes vandalizadas de las páginas, el tema es que no hay que revisar los vandalismos, lo que hay que hacer es revertirlos. [http://es.wikipedia.org/w/index.php?title=Plantae&diff=next&oldid=47043687 Acá] está el diff en que lo vi. Como Panderine! no está hecho para ver si un texto recién agregado es un vandalismo o no, está hecho para revisar texto, entonces habría que buscar la forma de que no revise los textos que sean posibles vandalismos. Por ejemplo podrías acoplarlo a AVBot o alguno de los que revisan vandalismos para que pase por la página después de ellos, de forma de asegurarse de no estar revisando los errores comunes en un texto vandalizado. Fijate cómo está funcionando, funcionaría mejor si se optimizara para que recorriera solamente textos que ya fueron revisados para ver si son vandálicos y se descartó que lo fueran. Saludos. —[[Usuario:RoRo|RoRo]] ([[Usuario Discusión:RoRo|discusión]]) 18:53 8 jul 2011 (UTC)
+
+== Re; Re; Dallas Texans Soccer Club ==
+
+Ya veo, no me fijé en eso, pensé que era por vandalismo. ¡Muchas Gracias!--[[Usuario:LidZeppelen|LidZeppelen]] ([[Usuario Discusión:LidZeppelen|discusión]]) 23:19 10 jun 2012 (UTC)
+
+== RE: Filtro 78 ==
+
+Hola Pyr0. Si vuelve a suceder, plantéalo [[WP:TFE/FP|aquí]], para que se lo corrija. Saludos, --[[Usuario:Metrónomo|Metrónomo's ''truth of the day'']]: <span style="font-size:85%">[[Usuario discusión:Metrónomo|«Lo hizo el presidente» no es una excusa]].</span> 02:34 25 oct 2013 (UTC)
+
+==RE:Limpieza de "residuos" del Asistente para la creación de artículos==
+
+Hola, Pyr0. Y de "disculpas por el retraso" nada, que aquí cada cual (y yo también) trabajamos al ritmo que buenamente podemos.
+
+El problema viene del [[Plantilla:Asistente para la creación de artículos/esqueleto|esqueleto de artículo]] del asistente, así que supongo que lo que habría que hacer sería eliminar las apariciones de:
+
+* Incluye aquí el título del artículo 
+* es (escribe una breve introducción) 
+* Además, él/ella (di cuáles fueron sus premios)
+* <nowiki><ref>Añade referencias</ref></nowiki> (Específicamente cuando venga entre <nowiki>"<ref>" y "</ref>"</nowiki>, claro para no estropear las plantillas en las que también aparece esa frase).
+* Describe el texto sobre algún tema. Puedes reemplazar la subsección si fuera necesario. Sigue este ejemplo para crear otras secciones.
+* <nowiki>[http://www.enlace_externo_ejemplo.com Enlace externo a modo de ejemplo]</nowiki>
+
+Evidentemente, sin afectar a la propia plantilla. E, idealmente, sin actuar tampoco sobre páginas "taller" (fuera del espacio principal de nombres). ¿Sería posible hacerlo así?
+
+En cuanto a cómo dí con tu bot, fue [[Usuario:Metrónomo]] quien me dio la indicación cuando puse un mensaje en el [[Wikipedia:Café/Archivo/Técnica/Actual#Retirada de "Enlace externo a modo de ejemplo" en el espacio principal.|café]]. Por cierto, también he avisado en [[WP:BOT/S]], así que si te haces cargo del tema comentalo allí para que se sepa y nadie se ponga a hacer trabajo doble.
+
+Un saludo, y gracias por atender mi petición. --[[Usuario:Fremen|Fremen]] ([[Usuario Discusión:Fremen|discusión]]) 21:12 9 oct 2014 (UTC)
+
+== Panderine! ==
+
+Buenas, he visto que [[Especial:Contribuciones/Panderine!|Panderine!]] no ha editado por casi un año, dentro de 5 días, se cumple el año, y de acuerdo a [[Wikipedia:Política de bots#R6|la política de actividad]], el flag de bot tiene que ser removido de la cuenta. Si aún quieres que el bot tenga el flag, por favor haz con él algunas ediciones antes del 23, si no tienes intención de seguir usándolo, entonces no hagas nada, y el flag será removido por inactividad. [[Usuario:Matiia|Matiia]] ([[Usuario Discusión:Matiia|discusión]]) 02:38 18 oct 2015 (UTC)
+:Flag <span class="plainlinks">[https://es.wikipedia.org/wiki/Especial:Registro/rights?page=User:Panderine! removido]</span>. [[Usuario:Matiia|Matiia]] ([[Usuario Discusión:Matiia|discusión]]) 01:46 24 oct 2015 (UTC)

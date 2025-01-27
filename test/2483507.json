@@ -1,0 +1,577 @@
+{
+    "sections": [
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "{| width=\"100%\" cellspacing=\"0\" cellpadding=\"6\" style=\"font-size:95%; line-height: 15px; background: #faf6ed; border: 1px solid #faecc8;\"\n|-\n| colspan=\"4\" style=\"background: #faecc8;\" |<big>'''Hola, {{BASEPAGENAME}}.''' Te damos la bienvenida a Wikipedia en espa\u00f1ol </big>\n|-\n| colspan=\"4\" | Gracias por participar en el proyecto. Esperamos que la colaboraci\u00f3n te resulte agradable y que aproveches tu estancia por aqu\u00ed. \n|-\n| colspan=\"4\" | [[Wikipedia en espa\u00f1ol]] es una enciclopedia de '''[[Wikipedia:La enciclopedia libre|contenido libre]]''' que surgi\u00f3 en [[mayo]] de [[2001]]; desde entonces se han establecido varios principios definidos por la comunidad. Por favor, t\u00f3mate un tiempo para '''explorar los temas siguientes''', antes de comenzar a editar en Wikipedia.\n|-\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app lassist.png|30x30px\ndefault [[Wikipedia:Los cinco pilares]]\ndesc none\n</imagemap>\n| [[Wikipedia:Los cinco pilares|'''Los cinco pilares de Wikipedia'''.<br>Principios fundamentales del proyecto]].\n| align=\"right\" | <imagemap>\nImagen:Gtk-dialog-info.svg|30x30px\ndefault [[Ayuda:Contenidos]]\ndesc none\n</imagemap>\n| [[Ayuda:Contenidos|'''Ayuda'''.<br>Manual general de Wikipedia]].\n|-\n| width=\"8%\"  align=\"right\" | <imagemap>\nImagen:Crystal Clear app Startup Wizard.png|30x30px\ndefault [[Ayuda:Tutorial]]\ndesc none\n</imagemap>\n| width=\"38%\" | [[Ayuda:Tutorial|'''Tutorial'''.<br>Aprender a editar paso a paso en un instante]].\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app kedit.png|30x30px\ndefault [[Wikipedia:Zona de pruebas]]\ndesc none\n</imagemap>\n| width=\"38%\" | [[Wikipedia:Zona de pruebas|'''Zona de pruebas'''.<br>Para que realices pruebas de edici\u00f3n]].\n|-\n| align=\"right\" | <imagemap>\nImagen:Cicero-head.png|30x30px\ndefault [[Wikipedia:Programa de tutor\u00eda]]\ndesc none\n</imagemap>\n| [[Wikipedia:Programa de tutor\u00eda| '''Programa de tutor\u00eda'''.<br>Solicita ayuda personalizada en tus primeros pasos]].\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear action edit.png|30x30px\ndefault [[Ayuda:C\u00f3mo empezar una p\u00e1gina]]\ndesc none\n</imagemap>\n| [[Ayuda:C\u00f3mo empezar una p\u00e1gina|'''C\u00f3mo empezar una p\u00e1gina'''.<br />Consejos sobre c\u00f3mo iniciar un art\u00edculo enciclop\u00e9dico]].\n|-\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps important yellow.svg|30x30px\ndefault [[Wikipedia:Lo que Wikipedia no es]]\ndesc none\n</imagemap>\n| [[Wikipedia:Lo que Wikipedia no es|'''Cosas que no se deben hacer'''.<br>Resumen de errores m\u00e1s comunes a evitar]].\n| width=\"8%\"  align=\"right\" | <imagemap>\nImagen:Crystal Clear action apply.png|30x30px\ndefault [[Ayuda:C\u00f3mo se edita una p\u00e1gina]]\ndesc none\n</imagemap>\n| [[Ayuda:C\u00f3mo se edita una p\u00e1gina|'''Aprende a editar p\u00e1ginas'''.<br>Gu\u00eda de edici\u00f3n de p\u00e1ginas wiki]].\n|-\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app file-manager.png|30x30px\ndefault [[Wikipedia:Pol\u00edticas]]\ndesc none\n</imagemap>\n| [[Wikipedia:Pol\u00edticas|'''Las pol\u00edticas de Wikipedia'''.<br>Est\u00e1ndares y reglas aprobadas por la comunidad]].\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps ksirc.png|30x30px\ndefault [[Ayuda:FAQ]]\ndesc none\n</imagemap>\n| [[Ayuda:FAQ|'''Preguntas m\u00e1s frecuentes'''.<br>Preguntas que toda la gente hace]].\n|-\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps kteatime.png|30x30px\ndefault [[Wikipedia:Caf\u00e9]]\ndesc none\n</imagemap>\n| [[Wikipedia:Caf\u00e9|'''Caf\u00e9'''.<br>Donde puedes preguntar a otros wikipedistas]].\n| align=\"right\" | <imagemap>\nImagen:Curly Brackets.svg|30x30px\ndefault [[Ayuda:Referencia r\u00e1pida]]\ndesc none\n</imagemap>\n| [[Ayuda:Referencia r\u00e1pida| '''Referencia r\u00e1pida'''.<br />Un resumen sobre c\u00f3mo utilizar el wikic\u00f3digo]].\n|-\n| colspan=\"4\" style=\"border-top:2px solid #faecc8;\" |\n[[Imagen:Firma.png|right]]\n\u00c9sta es tu [[:Wikipedia:Pol\u00edticas de edici\u00f3n y p\u00e1ginas de discusi\u00f3n|'''p\u00e1gina de discusi\u00f3n''']], en la cual puedes recibir mensajes de otros [[:Wikipedia:Wikipedistas|wikipedistas]]. Para dejar un mensaje a otro wikipedista debes escribir '''en su p\u00e1gina de discusi\u00f3n''', si no, no ser\u00e1 notificado. Al final del mensaje debes [[Ayuda:C\u00f3mo se edita una p\u00e1gina#Firmar un comentario|firmar escribiendo cuatro <big><nowiki>~~~~</nowiki></big>]] o presionando el bot\u00f3n mostrado en la imagen. Recuerda que [[Wikipedia:Acerca de firmar art\u00edculos|''los art\u00edculos no se firman'']].\n----\n|}\n",
+                        "Esperamos que pases buenos momentos en Wikipedia. --[[Usuario:Galio|galio...]] [[Usuario discusi\u00f3n:Galio|\u043b\u044e\u0431\u0430\u044f \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?]] 15:07 7 may 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Galio",
+                    "time_stamp": "15:07 7 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n",
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ]
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==RE:Srta Isha==\n",
+                        "Otro bezito para Ud. [[Usuario:Isha|Isha]] [[Usuario Discusi\u00f3n:Isha|\u00ab]] 15:20 8 may 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Isha",
+                    "time_stamp": "15:20 8 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "RE:Srta Isha"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Bot ==\n",
+                        "\n",
+                        "Hola. Pues no se si sea porque no hay m\u00e1s errores, pero el bot no est\u00e1 poniendo la plantilla. Saludos ~~ [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario:Camilo|Camilo]] [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario Discusi\u00f3n:Camilo|{\u00bf?\u00bfMe dices?\u00bf?}]] 01:52 19 may 2009 (UTC)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "\n",
+                                ":Hmm veo... entonces eran pocos los errores!! Saludos y gracias por la aclaraci\u00f3n ~~ [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario:Camilo|Camilo]] [[Image:Wikipedia-logo (inverse).png|15px]] [[Usuario Discusi\u00f3n:Camilo|{\u00bf?\u00bfMe dices?\u00bf?}]] 01:57 19 may 2009 (UTC)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Camilo",
+                            "time_stamp": "01:57 19 may 2009 (UTC)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Camilo",
+                    "time_stamp": "01:52 19 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Bot "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Re:Bot que detecta Texto en negritas ==\n",
+                        "Hola, \u00bfnos conocemos? (lo digo por lo de estimado). Mi experiencia a la hora de revertir es que ediciones de ese tipo no iban acompa\u00f1adas de vandalismos mayores, por lo que no creo que sea necesaria una revisi\u00f3n humana, adem\u00e1s si el bot trabaja a todo trapo cr\u00e9eme que la lista crecer\u00e1 y crecer\u00e1. Creo que, efectivamente, va a ser de gran ayuda que haya bots que se complementen con AVBOT, porque aun hay mucho por hacer. Si piensas usar el bot de forma frecuente te recomiendo solicitar el flag correspondiente. Te mando un saludo, [[Usuario:poco_a_poco|Poco a poco]]...[[ Usuario Discusi\u00f3n:poco_a_poco|\u00a1adelante!]] 10:57 19 may 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "poco_a_poco",
+                    "time_stamp": "10:57 19 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Re:Bot que detecta Texto en negritas "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==\u00a1Eh!==\n",
+                        "Macreatelos vos, as\u00ed aprend\u00e9s <code style=\"background:yellow\">:)</code>.  Besote, [[Usuario:Isha|Isha]] [[Usuario Discusi\u00f3n:Isha|\u00ab]] 17:21 19 may 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Isha",
+                    "time_stamp": "17:21 19 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "\u00a1Eh!"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Bot ==\n",
+                        "\n",
+                        "Hola Pyr0, me gustaria ayudarte con la tarea de Panderine! con la plantilla {{tl|revisar}}. Que utiliza tu bot? <small>by</small> [[Usuario:Manuelt15|M\u00e0\u00f1\u00fc\u00e9\u00a3\u2020\u00b95]] [[Archivo:Inverted Pentagram.svg|15px]] [[Usuario Discusi\u00f3n:Manuelt15|<sup>(m\u2020\u00b95\u2122)</sup>]] 17:59 30 may 2009 (UTC)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Me refiero a ayudarte en la tarea de encontrar esos errores con mi bot, que script utilizas? <small>by</small> [[Usuario:Manuelt15|M\u00e0\u00f1\u00fc\u00e9\u00a3\u2020\u00b95]] [[Archivo:Inverted Pentagram.svg|15px]] [[Usuario Discusi\u00f3n:Manuelt15|<sup>(m\u2020\u00b95\u2122)</sup>]] 16:40 1 jun 2009 (UTC)\n"
+                            ],
+                            "comments": [
+                                {
+                                    "text_blocks": [
+                                        "::Se podr\u00e1 agregar al script este caso <nowiki><ref></ref></nowiki> apareci\u00f3 aca [http://es.wikipedia.org/w/index.php?title=Claudia_di_Gir%C3%B3lamo&diff=27167791&oldid=27167721] junto con otro error que encontr\u00f3. Saludos!!! [[Usuario:Ezarate|Esteban]] ([[Usuario Discusi\u00f3n:Ezarate|discusi\u00f3n]]) 01:01 12 jun 2009 (UTC)\n"
+                                    ],
+                                    "comments": [],
+                                    "cosigners": [],
+                                    "author": "Ezarate",
+                                    "time_stamp": "01:01 12 jun 2009 (UTC)"
+                                }
+                            ],
+                            "cosigners": [],
+                            "author": "Manuelt15",
+                            "time_stamp": "16:40 1 jun 2009 (UTC)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Manuelt15",
+                    "time_stamp": "17:59 30 may 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Bot "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Panderine! ==\n",
+                        "\n",
+                        "El bot, {{u|Panderine!}} ha sido [[Wikipedia:Bot/Autorizaciones/Archivo 2009#Panderine!|aprobado]]. No olvides colocarle la etiqueta {{tl|Usuario:Userbox/Bot autorizado}} \u00a1Felicidades!. --'''[[Usuario:BetoCG|Beto]]\u00b7[[Usuario Discusi\u00f3n:BetoCG|<span style=\"cursor:help;\" title=\"\u00bfDudas?\">CG</span>]]''' 00:43 17 jun 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "BetoCG",
+                    "time_stamp": "00:43 17 jun 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Panderine! "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== rbmediawiki ==\n",
+                        "\n",
+                        "Al fin :) De forma local puedes modificar el c\u00f3digo de la gem (hay que encontrar d\u00f3nde lo instal\u00f3). Luego si haces funciones y mejoras el c\u00f3digo te doy sin problemas acceso al repositorio git del proyecto y subes los cambios t\u00fa mismo, y de vez en cuando hacemos un release. Lo de euoffset = result['query-continue']['alllinks']['alcontinue'] y aloffset... definitivamente deber\u00eda decir aloffset :).\u2014[[Usuario:Chabacano|Chabacano]] 16:22 22 jun 2009 (UTC)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "\n",
+                                ":Lo ideal para hacer esto ser\u00eda hacer una consulta sql en el toolserver. El continue es siempre igual: Al hacer una petici\u00f3n como http://en.wikipedia.org/w/api.php?action=query&titles=Albert%20Einstein|France&prop=links&pllimit=500 (por cierto, que el l\u00edmite para bots es de 5000 enlaces, ah\u00ed puedes agilizar un poco) al final sale un <links plcontinue=\"736|0|Vera Weizmann\" />. El valor de los continues lo puedes meter tal cual en la nueva petici\u00f3n: http://en.wikipedia.org/w/api.php?action=query&titles=Albert Einstein|France&prop=links&pllimit=500&plcontinue=736|0|Vera Weizmann . Quiz\u00e1 con el l\u00edmite a 5000 y usando el continue pueda sacarse m\u00e1s r\u00e1pido. Otra posibilidad es suponer que las p\u00e1ginas sin enlaces no tendr\u00e1n interwikis (se pueden sacar solo las p\u00e1ginas sin interwikis con prop=allpages y usando el par\u00e1metro apfilterlanglinks=withoutlanglinks) o suponer que ser\u00e1n menores a un tama\u00f1o dado (en allpages puedes listar solo las p\u00e1ginas menores a un tama\u00f1o que digas).\u2014[[Usuario:Chabacano|Chabacano]] 22:53 23 jun 2009 (UTC)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Chabacano",
+                            "time_stamp": "22:53 23 jun 2009 (UTC)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Chabacano",
+                    "time_stamp": "16:22 22 jun 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " rbmediawiki "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Toolserveraccount ==\n",
+                        "Hello Pyr0,<br/>\n",
+                        "please send your real-name, your wikiname, your Freenode-nick (if you have one), your prefered login-name and the public part of your ssh-key to [[image:zedler-admins.png]]. We plan to create your account soon then. --[[w:de:User:DaB.|DaB.]] 15:28 5 jul 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "DaB.",
+                    "time_stamp": "15:28 5 jul 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Toolserveraccount "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Re: Re: No fue un error....  ==\n",
+                        "\n",
+                        "Si, esta bien, solo que en esos tiempos el bot ''Panderine!'' ponia unas cosas de revisar, y me canse de estar revirtiendo los cambios. perdonen por si fui un poco duro. Saludos. [[Usuario:RubiksMaster110|Ricardo P.]] [[Archivo:Nuvola Honduran flag.svg|23px]]  [[Usuario Discusi\u00f3n:RubiksMaster110|\u00bfPreguntas?]]  19:04 16 ago 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "RubiksMaster110",
+                    "time_stamp": "19:04 16 ago 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Re: Re: No fue un error....  "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==Sobre HATAKEDO==\n",
+                        "Cordial saludo Pyr0. Aplicaste una plantilla de \"Art\u00edculo o secci\u00f3n sin relevancia enciclop\u00e9dica aparente\" a mi contribuci\u00f3n sobre el HATAKEDO. Apenas inicio mis contribuciones a Wikipedia y no capto completamente la esencia de mi error al publicar. Si pudieras ampliarme m\u00e1s, con seguridad puedo corregir y mejor la contribuci\u00f3n. [[Usuario:David Gaviria|David Gaviria]] ([[Usuario Discusi\u00f3n:David Gaviria|discusi\u00f3n]]) 16:57 20 ago 2009 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "David Gaviria",
+                    "time_stamp": "16:57 20 ago 2009 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n",
+                        "[[Archivo:Navidad.jpg|thumb|270px|center|Te deseo una Feliz Navidad y pr\u00f3spero a\u00f1o 2010]][[Usuario:Ezarate|Esteban]]\n",
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "Sobre HATAKEDO"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Enhorabuena ==\n",
+                        "\n",
+                        "Hola, vengo a felicitarte por tu bot Panderine! Acabo de descubrirlo y me parece muy \u00fatil para detectar pruebas de edici\u00f3n o vandalismos que no son detectados al instante. Nos vemos. [[Usuario:Karshan|Karshan]] <sup>''[[Usuario Discusi\u00f3n:Karshan|sus\u00farrame]]''</sup> 13:45 23 mar 2010 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Karshan",
+                    "time_stamp": "13:45 23 mar 2010 (UTC)"
+                }
+            ],
+            "heading": " Enhorabuena "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==  Hi pyro ==\n",
+                        "Se trata que ha intervenido casi la totalidad de las p\u00e1ginas en las que estoy trabajando en la que m\u00e1s insiste en una que he creado nueva [[Show del Oso Yogi]]. \u00bf? por vandalismo. --[[Usuario:FrankRost|CRAWLER]] ([[Usuario Discusi\u00f3n:FrankRost|discusi\u00f3n]]) 21:39 26 abr 2010 (UTC)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                "*Entonces con raz\u00f3n que aparece constantemente. Lo corregir\u00e9 enseguida. Merci pour tout le votre atenci\u00f3n. Messie. --[[Usuario:FrankRost|CRAWLER]] ([[Usuario Discusi\u00f3n:FrankRost|discusi\u00f3n]]) 20:23 28 abr 2010 (UTC)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "FrankRost",
+                            "time_stamp": "20:23 28 abr 2010 (UTC)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "FrankRost",
+                    "time_stamp": "21:39 26 abr 2010 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "  Hi pyro "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Firma ==\n",
+                        "Pues tampoco s\u00e9 si se debe hacer o no (nunca la uso), quiz\u00e1s fue error m\u00edo. [[Usuario:Drini|Drini]] ([[Usuario Discusi\u00f3n:Drini|discusi\u00f3n]]) 23:36 3 jul 2010 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Drini",
+                    "time_stamp": "23:36 3 jul 2010 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Firma "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==Invitaci\u00f3n==\n",
+                        "\u00a1Hola! Pasaba para invitarte al [[Wikipedia:Encuentros/VII Encuentro de Wikipedistas en Buenos Aires|VII Encuentro de Wikipedistas]] en Buenos Aires, que se realizar\u00e1 el domingo 19 de septiembre en Balvanera. \u00a1Estar\u00eda muy bueno si ven\u00eds! Saludos, [[Usuario:Aleposta|Aleposta]] ([[Usuario Discusi\u00f3n:Aleposta|discusi\u00f3n]]) 00:20 10 sep 2010 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Aleposta",
+                    "time_stamp": "00:20 10 sep 2010 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "Invitaci\u00f3n"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==Invitaci\u00f3n==\n",
+                        "[[Archivo:Wikipedia 10 - Buenos Aires.png|800px|Wikipedia 10 Buenos Aires]]\n",
+                        "\n",
+                        "Estimado {{PAGENAME}},\n",
+                        "\n",
+                        "A trav\u00e9s de este mensaje queremos invitarte a la [[Wikipedia:Encuentros/Celebraci\u00f3n del 10\u00b0 Aniversario de Wikipedia en Buenos Aires|celebraci\u00f3n de Wikipedia 10 en Buenos Aires]], a realizarse el s\u00e1bado 21 de mayo en el [[Centro Cultural San Mart\u00edn]] (Sarmiento 1221) a partir de las 15 h, organizado por Wikimedia Argentina.\n",
+                        "\n",
+                        "Contaremos, adem\u00e1s de con una charla de introducci\u00f3n a Wikipedia para el p\u00fablico en general y de un taller de edici\u00f3n, con dos actividades con importantes invitados. Por un lado, Ariel Torres, responsable del suplemento Inform\u00e1tica de La Naci\u00f3n, disertar\u00e1 sobre los diez a\u00f1os de Wikipedia en espa\u00f1ol, sus desaf\u00edos e impactos. A continuaci\u00f3n, un panel con representantes del Ministerio de Educaci\u00f3n de la Naci\u00f3n presentar\u00e1 Wikipedia en el aula, una secci\u00f3n del portal Educ.ar dedicada al uso de Wikipedia en el \u00e1mbito educativo, que surgi\u00f3 inspirada por el cuadernillo del mismo nombre editado por Wikimedia Argentina.\n",
+                        "\n",
+                        "Luego del cierre de las actividades, previsto para las 19 h, nos reuniremos los wikipedistas presentes a celebrar el aniversario de Wikipedia como corresponde, con un asado. Para eso, haremos una reserva por la cantidad aproximada de comensales en una parrilla cercana. Te pedimos que, si plane\u00e1s asistir, [[Wikipedia:Encuentros/Celebraci\u00f3n del 10\u00b0 Aniversario de Wikipedia en Buenos Aires#Participantes|lo indiques firmando ac\u00e1]]. En el caso de que asistas al ciclo de charla pero no seas de la partida con el asado, anotate igual indicando esto \u00faltimo.\n",
+                        "\n",
+                        "\u00a1Esperamos contar con tu presencia!\n",
+                        "\n",
+                        "Un saludo,\n",
+                        "[[Usuario:Aleposta|Aleposta]] ([[Usuario Discusi\u00f3n:Aleposta|discusi\u00f3n]]) 20:47 4 may 2011 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Aleposta",
+                    "time_stamp": "20:47 4 may 2011 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "Invitaci\u00f3n"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Re: Plantae ==\n",
+                        "\n",
+                        "Hola PyrO, gracias por contestar. Lo que te quer\u00eda avisar es que a veces el bot Panderine!, por apurado, se pone a revisar p\u00e1ginas que acaban de ser vandalizadas, como cuando agregaron textos en Plantae que dec\u00edan \"archivo:Ejemplo.jpg\", en ese caso solamente hab\u00eda que revertir el vandalismo, el bot pas\u00f3 una revisi\u00f3n sobre la parte vandalizada. Por supuesto que va a encontrar cosas para revisar en las partes vandalizadas de las p\u00e1ginas, el tema es que no hay que revisar los vandalismos, lo que hay que hacer es revertirlos. [http://es.wikipedia.org/w/index.php?title=Plantae&diff=next&oldid=47043687 Ac\u00e1] est\u00e1 el diff en que lo vi. Como Panderine! no est\u00e1 hecho para ver si un texto reci\u00e9n agregado es un vandalismo o no, est\u00e1 hecho para revisar texto, entonces habr\u00eda que buscar la forma de que no revise los textos que sean posibles vandalismos. Por ejemplo podr\u00edas acoplarlo a AVBot o alguno de los que revisan vandalismos para que pase por la p\u00e1gina despu\u00e9s de ellos, de forma de asegurarse de no estar revisando los errores comunes en un texto vandalizado. Fijate c\u00f3mo est\u00e1 funcionando, funcionar\u00eda mejor si se optimizara para que recorriera solamente textos que ya fueron revisados para ver si son vand\u00e1licos y se descart\u00f3 que lo fueran. Saludos. \u2014[[Usuario:RoRo|RoRo]] ([[Usuario Discusi\u00f3n:RoRo|discusi\u00f3n]]) 18:53 8 jul 2011 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "RoRo",
+                    "time_stamp": "18:53 8 jul 2011 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Re: Plantae "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Re; Re; Dallas Texans Soccer Club ==\n",
+                        "\n",
+                        "Ya veo, no me fij\u00e9 en eso, pens\u00e9 que era por vandalismo. \u00a1Muchas Gracias!--[[Usuario:LidZeppelen|LidZeppelen]] ([[Usuario Discusi\u00f3n:LidZeppelen|discusi\u00f3n]]) 23:19 10 jun 2012 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "LidZeppelen",
+                    "time_stamp": "23:19 10 jun 2012 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Re; Re; Dallas Texans Soccer Club "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== RE: Filtro 78 ==\n",
+                        "\n",
+                        "Hola Pyr0. Si vuelve a suceder, plant\u00e9alo [[WP:TFE/FP|aqu\u00ed]], para que se lo corrija. Saludos, --[[Usuario:Metr\u00f3nomo|Metr\u00f3nomo's ''truth of the day'']]: <span style=\"font-size:85%\">[[Usuario discusi\u00f3n:Metr\u00f3nomo|\u00abLo hizo el presidente\u00bb no es una excusa]].</span> 02:34 25 oct 2013 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Metr\u00f3nomo",
+                    "time_stamp": "02:34 25 oct 2013 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " RE: Filtro 78 "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "==RE:Limpieza de \"residuos\" del Asistente para la creaci\u00f3n de art\u00edculos==\n",
+                        "\n",
+                        "Hola, Pyr0. Y de \"disculpas por el retraso\" nada, que aqu\u00ed cada cual (y yo tambi\u00e9n) trabajamos al ritmo que buenamente podemos.\n",
+                        "\n",
+                        "El problema viene del [[Plantilla:Asistente para la creaci\u00f3n de art\u00edculos/esqueleto|esqueleto de art\u00edculo]] del asistente, as\u00ed que supongo que lo que habr\u00eda que hacer ser\u00eda eliminar las apariciones de:\n",
+                        "\n",
+                        "* Incluye aqu\u00ed el t\u00edtulo del art\u00edculo \n",
+                        "* es (escribe una breve introducci\u00f3n) \n",
+                        "* Adem\u00e1s, \u00e9l/ella (di cu\u00e1les fueron sus premios)\n",
+                        "* <nowiki><ref>A\u00f1ade referencias</ref></nowiki> (Espec\u00edficamente cuando venga entre <nowiki>\"<ref>\" y \"</ref>\"</nowiki>, claro para no estropear las plantillas en las que tambi\u00e9n aparece esa frase).\n",
+                        "* Describe el texto sobre alg\u00fan tema. Puedes reemplazar la subsecci\u00f3n si fuera necesario. Sigue este ejemplo para crear otras secciones.\n",
+                        "* <nowiki>[http://www.enlace_externo_ejemplo.com Enlace externo a modo de ejemplo]</nowiki>\n",
+                        "\n",
+                        "Evidentemente, sin afectar a la propia plantilla. E, idealmente, sin actuar tampoco sobre p\u00e1ginas \"taller\" (fuera del espacio principal de nombres). \u00bfSer\u00eda posible hacerlo as\u00ed?\n",
+                        "\n",
+                        "En cuanto a c\u00f3mo d\u00ed con tu bot, fue [[Usuario:Metr\u00f3nomo]] quien me dio la indicaci\u00f3n cuando puse un mensaje en el [[Wikipedia:Caf\u00e9/Archivo/T\u00e9cnica/Actual#Retirada de \"Enlace externo a modo de ejemplo\" en el espacio principal.|caf\u00e9]]. Por cierto, tambi\u00e9n he avisado en [[WP:BOT/S]], as\u00ed que si te haces cargo del tema comentalo all\u00ed para que se sepa y nadie se ponga a hacer trabajo doble.\n",
+                        "\n",
+                        "Un saludo, y gracias por atender mi petici\u00f3n. --[[Usuario:Fremen|Fremen]] ([[Usuario Discusi\u00f3n:Fremen|discusi\u00f3n]]) 21:12 9 oct 2014 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Fremen",
+                    "time_stamp": "21:12 9 oct 2014 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": "RE:Limpieza de \"residuos\" del Asistente para la creaci\u00f3n de art\u00edculos"
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Panderine! ==\n",
+                        "\n",
+                        "Buenas, he visto que [[Especial:Contribuciones/Panderine!|Panderine!]] no ha editado por casi un a\u00f1o, dentro de 5 d\u00edas, se cumple el a\u00f1o, y de acuerdo a [[Wikipedia:Pol\u00edtica de bots#R6|la pol\u00edtica de actividad]], el flag de bot tiene que ser removido de la cuenta. Si a\u00fan quieres que el bot tenga el flag, por favor haz con \u00e9l algunas ediciones antes del 23, si no tienes intenci\u00f3n de seguir us\u00e1ndolo, entonces no hagas nada, y el flag ser\u00e1 removido por inactividad. [[Usuario:Matiia|Matiia]] ([[Usuario Discusi\u00f3n:Matiia|discusi\u00f3n]]) 02:38 18 oct 2015 (UTC)\n"
+                    ],
+                    "comments": [
+                        {
+                            "text_blocks": [
+                                ":Flag <span class=\"plainlinks\">[https://es.wikipedia.org/wiki/Especial:Registro/rights?page=User:Panderine! removido]</span>. [[Usuario:Matiia|Matiia]] ([[Usuario Discusi\u00f3n:Matiia|discusi\u00f3n]]) 01:46 24 oct 2015 (UTC)\n"
+                            ],
+                            "comments": [],
+                            "cosigners": [],
+                            "author": "Matiia",
+                            "time_stamp": "01:46 24 oct 2015 (UTC)"
+                        }
+                    ],
+                    "cosigners": [],
+                    "author": "Matiia",
+                    "time_stamp": "02:38 18 oct 2015 (UTC)"
+                }
+            ],
+            "heading": " Panderine! "
+        }
+    ]
+}
