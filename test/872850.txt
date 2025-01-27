@@ -1,0 +1,95 @@
+
+{| width="100%" cellspacing="0" cellpadding="6" style="font-size:95%; line-height: 15px; background: #faf6ed; border: 1px solid #faecc8;"
+|-
+| colspan="4" style="background: #faecc8;" |<big>'''Hola, {{PAGENAME}}.''' Te damos la bienvenida a Wikipedia en español </big>
+|-
+| colspan="4" | Hola, {{PAGENAME}}. Gracias por participar en el proyecto. Esperamos que la colaboración te resulte agradable y que aproveches tu estancia por aquí. 
+|-
+| colspan="4" | [[Wikipedia en español]] es una enciclopedia de '''[[Wikipedia:La enciclopedia libre|contenido libre]]''' que surgió en [[mayo]] de [[2001]]; desde entonces se han establecido varios principios definidos por la comunidad. Por favor, tómate un tiempo para '''explorar los temas siguientes''', antes de comenzar a editar en Wikipedia.
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app lassist.png|30x30px
+default [[Wikipedia:Los cinco pilares]]
+desc none
+</imagemap>
+| [[Wikipedia:Los cinco pilares|'''Los cinco pilares de Wikipedia'''<br>Lineamientos generales a saber]]
+| align="right" | <imagemap>
+Imagen:Gtk-dialog-info.svg|30x30px
+default [[Ayuda:Contenidos]]
+desc none
+</imagemap>
+| [[Ayuda:Contenidos|'''Ayuda'''<br>Manual general de Wikipedia]]
+|-
+| width="8%"  align="right" | <imagemap>
+Imagen:Crystal Clear app Startup Wizard.png|30x30px
+default [[Ayuda:Tutorial]]
+desc none
+</imagemap>
+| width="38%" | [[Ayuda:Tutorial|'''Tutorial'''<br>Aprender a editar paso-a-paso en un instante]]
+| align="right" | <imagemap>
+Imagen:Crystal Clear app kedit.png|30x30px
+default [[Wikipedia:Zona de pruebas]]
+desc none
+</imagemap>
+| width="38%" | [[Wikipedia:Zona de pruebas|'''Zona de pruebas'''<br>Para que realices pruebas de edición]]
+|-
+| align="right" |<imagemap>
+Imagen:Cicero.PNG|30x30px
+default [[Wikipedia:Programa de tutoría]]
+desc none
+</imagemap>
+| [[Wikipedia:Programa de tutoría| '''Programa de tutoría'''.<br>Solicita ayuda personalizada en tus primeros pasos]]
+| width="8%"  align="right" |  <imagemap>
+Imagen:Crystal Clear action apply.png|30x30px
+default [[Ayuda:Cómo se edita una página]]
+desc none
+</imagemap>
+| [[Ayuda:Cómo se edita una página|'''Aprende a editar páginas'''<br>Guía de edición de páginas wiki]]
+|-
+| align="right" | <imagemap>
+Imagen:Nuvola apps important yellow.svg|30x30px
+default [[WP:NO]]
+desc none
+</imagemap>
+| [[WP:NO|'''Cosas que no se deben hacer'''<br>Resumen de errores más comunes a evitar]]
+| align="right" | <imagemap>
+Imagen:Nuvola apps ksirc.png|30x30px
+default [[Wikipedia:FAQ]]
+desc none
+</imagemap>
+| [[Wikipedia:FAQ|'''Preguntas más frecuentes'''<br>Preguntas que toda la gente hace]]
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app file-manager.png|30x30px
+default [[Wikipedia:Políticas]]
+desc none
+</imagemap>
+| [[Wikipedia:Políticas|'''Las políticas de Wikipedia'''<br>Estándares y reglas aprobadas por la comunidad]]
+| align="right" | <imagemap>
+Imagen:Nuvola apps kteatime.png|30x30px
+default [[Wikipedia:Café]]
+desc none
+</imagemap>
+| [[Wikipedia:Café|'''Café'''<br>Donde puedes preguntar a otros wikipedistas]]
+|-
+| colspan="4" style="border-top:2px solid #faecc8;" |
+[[Imagen:Firma.png|right]]
+Ésta es tu [[:Wikipedia:página de discusión|'''página de discusión''']], en la cual puedes recibir mensajes de otros [[:Wikipedia:Usuarios|wikipedistas]]. Para dejar un mensaje a otro wikipedista debes escribir '''en su página de discusión''', si no, no será notificado. Al final del mensaje debes [[Ayuda:Cómo se edita una página#Firmar un comentario|firmar escribiendo cuatro <big><nowiki>~~~~</nowiki></big>]] o presionando el botón mostrado en la imagen. Recuerda que [[Wikipedia:Acerca de firmar artículos|''los artículos no se firman'']].
+----
+|}
+Esperamos que pases buenos momentos en Wikipedia. Saludos [[Usuario:Airunp|Núria]] ([[Usuario Discusión:Airunp|¿dígame?]]) 00:38 12 abr 2007 (CEST)
+
+----
+=={{ #ifeq: {{{2|}}} | plagio | Violación | Posible violación }}  de derechos de autor {{ #if: Copa América (regata) | en [[Copa América (regata)]] |  }}==
+
+Hola, {{PAGENAME}}.
+
+Gracias por colaborar con Wikipedia. Te damos la bienvenida al proyecto; sin embargo, hay un problema con {{ #if: Copa América (regata) | tus colaboraciones en el artículo [[Copa América (regata)]] | algunas de tus contribuciones }}, que han consistido en la copia literal del contenido de otras páginas web, o de otros medios que {{ #ifeq: {{{2|}}} | plagio | están | podrían estar }} protegidos por derechos de autor. Como se explica en [[Wikipedia:Copyrights]], esta clase de aportaciones no son aceptables, porque {{ #ifeq: {{{2|}}} | plagio | implican | pueden implicar}} una violación a los derechos de los autores del mismo. Por esa razón, el texto ha sido retirado {{ #ifeq: {{{2|}}} | plagio |  | y un aviso de posible  violación de copyright se ha colocado en su lugar}}.
+
+Debes saber que, de acuerdo a la Convención de Berna, que regula la propiedad intelectual a nivel internacional, todas las obras están protegidas y sus autores se reservan todos los derechos de reproducción, salvo que lo contrario se especifique clara y explícitamente. Aún si la página de la que has copiado el texto no indica que todos los derechos están reservados, eso no quiere decir que estén disponibles para su uso en Wikipedia.
+
+Para poder admitir material en Wikipedia se necesita que la licencia bajo la que se publican en dichas páginas sea compatible con la [[GFDL]], que es bajo la que se publica Wikipedia y que exige disponer del derecho a ''copiar'', ''modificar'' y ''comercializar'' sus contenidos, ''sin restricciones adicionales'' (como, por ejemplo, que se restrinja el uso a terceros o sea obligatorio citar al autor original dentro del texto).
+
+Si una página no indica la licencia en la que está disponible, puedes pedir autorización a los propietarios del sitio para reproducir sus contenidos mediante los modelos de solicitud que encontrarás en [[Wikipedia:Autorizaciones]]. Si eres tú mismo el autor de los textos, envía la autorización pertinente desde la dirección asociada al webmaster del sitio, tal como se explica en el enlace anterior.
+
+Recuerda que la política acerca de derechos de autor es innegociable; si bien otras personas pueden estar dispuestas a violar la ley, la responsabilidad del proyecto Wikipedia es demasiado grande para permitírnoslo. Para más información sobre las normas, visita [[Wikipedia:Políticas]].Saludos [[Usuario:Airunp|Núria]] ([[Usuario Discusión:Airunp|¿dígame?]]) 00:38 12 abr 2007 (CEST)

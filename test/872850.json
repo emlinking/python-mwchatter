@@ -1,0 +1,55 @@
+{
+    "sections": [
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "\n",
+                        "{| width=\"100%\" cellspacing=\"0\" cellpadding=\"6\" style=\"font-size:95%; line-height: 15px; background: #faf6ed; border: 1px solid #faecc8;\"\n|-\n| colspan=\"4\" style=\"background: #faecc8;\" |<big>'''Hola, {{PAGENAME}}.''' Te damos la bienvenida a Wikipedia en espa\u00f1ol </big>\n|-\n| colspan=\"4\" | Hola, {{PAGENAME}}. Gracias por participar en el proyecto. Esperamos que la colaboraci\u00f3n te resulte agradable y que aproveches tu estancia por aqu\u00ed. \n|-\n| colspan=\"4\" | [[Wikipedia en espa\u00f1ol]] es una enciclopedia de '''[[Wikipedia:La enciclopedia libre|contenido libre]]''' que surgi\u00f3 en [[mayo]] de [[2001]]; desde entonces se han establecido varios principios definidos por la comunidad. Por favor, t\u00f3mate un tiempo para '''explorar los temas siguientes''', antes de comenzar a editar en Wikipedia.\n|-\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app lassist.png|30x30px\ndefault [[Wikipedia:Los cinco pilares]]\ndesc none\n</imagemap>\n| [[Wikipedia:Los cinco pilares|'''Los cinco pilares de Wikipedia'''<br>Lineamientos generales a saber]]\n| align=\"right\" | <imagemap>\nImagen:Gtk-dialog-info.svg|30x30px\ndefault [[Ayuda:Contenidos]]\ndesc none\n</imagemap>\n| [[Ayuda:Contenidos|'''Ayuda'''<br>Manual general de Wikipedia]]\n|-\n| width=\"8%\"  align=\"right\" | <imagemap>\nImagen:Crystal Clear app Startup Wizard.png|30x30px\ndefault [[Ayuda:Tutorial]]\ndesc none\n</imagemap>\n| width=\"38%\" | [[Ayuda:Tutorial|'''Tutorial'''<br>Aprender a editar paso-a-paso en un instante]]\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app kedit.png|30x30px\ndefault [[Wikipedia:Zona de pruebas]]\ndesc none\n</imagemap>\n| width=\"38%\" | [[Wikipedia:Zona de pruebas|'''Zona de pruebas'''<br>Para que realices pruebas de edici\u00f3n]]\n|-\n| align=\"right\" |<imagemap>\nImagen:Cicero.PNG|30x30px\ndefault [[Wikipedia:Programa de tutor\u00eda]]\ndesc none\n</imagemap>\n| [[Wikipedia:Programa de tutor\u00eda| '''Programa de tutor\u00eda'''.<br>Solicita ayuda personalizada en tus primeros pasos]]\n| width=\"8%\"  align=\"right\" |  <imagemap>\nImagen:Crystal Clear action apply.png|30x30px\ndefault [[Ayuda:C\u00f3mo se edita una p\u00e1gina]]\ndesc none\n</imagemap>\n| [[Ayuda:C\u00f3mo se edita una p\u00e1gina|'''Aprende a editar p\u00e1ginas'''<br>Gu\u00eda de edici\u00f3n de p\u00e1ginas wiki]]\n|-\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps important yellow.svg|30x30px\ndefault [[WP:NO]]\ndesc none\n</imagemap>\n| [[WP:NO|'''Cosas que no se deben hacer'''<br>Resumen de errores m\u00e1s comunes a evitar]]\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps ksirc.png|30x30px\ndefault [[Wikipedia:FAQ]]\ndesc none\n</imagemap>\n| [[Wikipedia:FAQ|'''Preguntas m\u00e1s frecuentes'''<br>Preguntas que toda la gente hace]]\n|-\n| align=\"right\" | <imagemap>\nImagen:Crystal Clear app file-manager.png|30x30px\ndefault [[Wikipedia:Pol\u00edticas]]\ndesc none\n</imagemap>\n| [[Wikipedia:Pol\u00edticas|'''Las pol\u00edticas de Wikipedia'''<br>Est\u00e1ndares y reglas aprobadas por la comunidad]]\n| align=\"right\" | <imagemap>\nImagen:Nuvola apps kteatime.png|30x30px\ndefault [[Wikipedia:Caf\u00e9]]\ndesc none\n</imagemap>\n| [[Wikipedia:Caf\u00e9|'''Caf\u00e9'''<br>Donde puedes preguntar a otros wikipedistas]]\n|-\n| colspan=\"4\" style=\"border-top:2px solid #faecc8;\" |\n[[Imagen:Firma.png|right]]\n\u00c9sta es tu [[:Wikipedia:p\u00e1gina de discusi\u00f3n|'''p\u00e1gina de discusi\u00f3n''']], en la cual puedes recibir mensajes de otros [[:Wikipedia:Usuarios|wikipedistas]]. Para dejar un mensaje a otro wikipedista debes escribir '''en su p\u00e1gina de discusi\u00f3n''', si no, no ser\u00e1 notificado. Al final del mensaje debes [[Ayuda:C\u00f3mo se edita una p\u00e1gina#Firmar un comentario|firmar escribiendo cuatro <big><nowiki>~~~~</nowiki></big>]] o presionando el bot\u00f3n mostrado en la imagen. Recuerda que [[Wikipedia:Acerca de firmar art\u00edculos|''los art\u00edculos no se firman'']].\n----\n|}\n",
+                        "Esperamos que pases buenos momentos en Wikipedia. Saludos [[Usuario:Airunp|N\u00faria]] ([[Usuario Discusi\u00f3n:Airunp|\u00bfd\u00edgame?]]) 00:38 12 abr 2007 (CEST)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Airunp",
+                    "time_stamp": "00:38 12 abr 2007 (CEST)"
+                },
+                {
+                    "text_blocks": [
+                        "\n",
+                        "----\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ]
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "=={{ #ifeq: {{{2|}}} | plagio | Violaci\u00f3n | Posible violaci\u00f3n }}  de derechos de autor {{ #if: Copa Am\u00e9rica (regata) | en [[Copa Am\u00e9rica (regata)]] |  }}==\n",
+                        "\n",
+                        "Hola, {{PAGENAME}}.\n",
+                        "\n",
+                        "Gracias por colaborar con Wikipedia. Te damos la bienvenida al proyecto; sin embargo, hay un problema con {{ #if: Copa Am\u00e9rica (regata) | tus colaboraciones en el art\u00edculo [[Copa Am\u00e9rica (regata)]] | algunas de tus contribuciones }}, que han consistido en la copia literal del contenido de otras p\u00e1ginas web, o de otros medios que {{ #ifeq: {{{2|}}} | plagio | est\u00e1n | podr\u00edan estar }} protegidos por derechos de autor. Como se explica en [[Wikipedia:Copyrights]], esta clase de aportaciones no son aceptables, porque {{ #ifeq: {{{2|}}} | plagio | implican | pueden implicar}} una violaci\u00f3n a los derechos de los autores del mismo. Por esa raz\u00f3n, el texto ha sido retirado {{ #ifeq: {{{2|}}} | plagio |  | y un aviso de posible  violaci\u00f3n de copyright se ha colocado en su lugar}}.\n",
+                        "\n",
+                        "Debes saber que, de acuerdo a la Convenci\u00f3n de Berna, que regula la propiedad intelectual a nivel internacional, todas las obras est\u00e1n protegidas y sus autores se reservan todos los derechos de reproducci\u00f3n, salvo que lo contrario se especifique clara y expl\u00edcitamente. A\u00fan si la p\u00e1gina de la que has copiado el texto no indica que todos los derechos est\u00e1n reservados, eso no quiere decir que est\u00e9n disponibles para su uso en Wikipedia.\n",
+                        "\n",
+                        "Para poder admitir material en Wikipedia se necesita que la licencia bajo la que se publican en dichas p\u00e1ginas sea compatible con la [[GFDL]], que es bajo la que se publica Wikipedia y que exige disponer del derecho a ''copiar'', ''modificar'' y ''comercializar'' sus contenidos, ''sin restricciones adicionales'' (como, por ejemplo, que se restrinja el uso a terceros o sea obligatorio citar al autor original dentro del texto).\n",
+                        "\n",
+                        "Si una p\u00e1gina no indica la licencia en la que est\u00e1 disponible, puedes pedir autorizaci\u00f3n a los propietarios del sitio para reproducir sus contenidos mediante los modelos de solicitud que encontrar\u00e1s en [[Wikipedia:Autorizaciones]]. Si eres t\u00fa mismo el autor de los textos, env\u00eda la autorizaci\u00f3n pertinente desde la direcci\u00f3n asociada al webmaster del sitio, tal como se explica en el enlace anterior.\n",
+                        "\n",
+                        "Recuerda que la pol\u00edtica acerca de derechos de autor es innegociable; si bien otras personas pueden estar dispuestas a violar la ley, la responsabilidad del proyecto Wikipedia es demasiado grande para permit\u00edrnoslo. Para m\u00e1s informaci\u00f3n sobre las normas, visita [[Wikipedia:Pol\u00edticas]].Saludos [[Usuario:Airunp|N\u00faria]] ([[Usuario Discusi\u00f3n:Airunp|\u00bfd\u00edgame?]]) 00:38 12 abr 2007 (CEST)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Airunp",
+                    "time_stamp": "00:38 12 abr 2007 (CEST)"
+                }
+            ],
+            "heading": "{{ #ifeq: {{{2|}}} | plagio | Violaci\u00f3n | Posible violaci\u00f3n }}  de derechos de autor {{ #if: Copa Am\u00e9rica (regata) | en [[Copa Am\u00e9rica (regata)]] |  }}"
+        }
+    ]
+}
