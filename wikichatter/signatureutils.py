@@ -93,11 +93,11 @@ USER_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:user|用户|用戶|使用者|U|Usua
 USER_TALK_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:user[_ ]talk|UT|用户讨论|用戶討論|使用者讨论|使用者討論|Usuario[_ ]Discusión|Usuaria[_ ]Discusión|Benutzer[_ ]Diskussion|Benutzerin[_ ]Diskussion|BD|Discussion[_ ]utilisateur|Discussion[_ ]utilisatrice)\W*:(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 # English, Chinese, or Spanish user contributions/other special page format
-# Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]]
+# Spanish: [[Especial:Contributions/2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4|2806:230:130E:3AE3:F8D3:6BF:E9A4:2FE4]], [[Especial:Contribuciones/Miguu|c]]
 # French: [[Spécial:Contributions/127.0.0.1|127.0.0.1]]
 # Chinese: [[Special:电邮用户/HYH.124|私底下]]
 # German: [[Spezial:Beiträge/178.25.253.118|178.25.253.118]]
-USER_CONTRIBS_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:Special|Especial|Spécial|Spezial):(?:Contributions|用户贡献|用戶貢獻|电邮用户|電郵用戶|Beiträge)/(.*?)(?:\|[^\]]+)?\]\])", re.I)
+USER_CONTRIBS_RE = re.compile(r"(\[\[(?::?\w*:)?\W*(?:Special|Especial|Spécial|Spezial):(?:Contributions|用户贡献|用戶貢獻|电邮用户|電郵用戶|Beiträge|Contribuciones|Registro|ListFiles)/(.*?)(?:\|[^\]]+)?\]\])", re.I)
 
 def extract_signatures(wcode):
     """
