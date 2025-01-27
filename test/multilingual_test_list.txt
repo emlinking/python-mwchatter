@@ -27,3 +27,4 @@ arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%
 2476292.txt, https://es.wikipedia.org/?curid=2476292
 2483507.txt, https://es.wikipedia.org/?curid=2483507
 5324545.txt, https://es.wikipedia.org/w/index.php?title=Usuario_discusi%C3%B3n:190.26.24.178&action=edit
+823242.txt, https://es.wikipedia.org/w/index.php?title=Usuario_discusi%C3%B3n:200.112.115.76&action=edit
