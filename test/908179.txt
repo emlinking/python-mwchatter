@@ -1,0 +1,87 @@
+{| width="100%" cellspacing="0" cellpadding="6" style="font-size:95%; line-height: 15px; background: #faf6ed; border: 1px solid #faecc8;"
+|-
+| colspan="4" style="background: #faecc8;" |<big>'''Hola, {{PAGENAME}}.''' Te damos la bienvenida a Wikipedia en español </big>
+|-
+| colspan="4" | Gracias por participar en el proyecto. Esperamos que la colaboración te resulte agradable y que aproveches tu estancia por aquí. 
+|-
+| colspan="4" | [[Wikipedia en español]] es una enciclopedia de '''[[Wikipedia:La enciclopedia libre|contenido libre]]''' que surgió en [[mayo]] de [[2001]]; desde entonces se han establecido varios principios definidos por la comunidad. Por favor, tómate un tiempo para '''explorar los temas siguientes''', antes de comenzar a editar en Wikipedia.
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app lassist.png|30x30px
+default [[Wikipedia:Los cinco pilares]]
+desc none
+</imagemap>
+| [[Wikipedia:Los cinco pilares|'''Los cinco pilares de Wikipedia'''<br>Principios fundamentales del proyecto]]
+| align="right" | <imagemap>
+Imagen:Gtk-dialog-info.svg|30x30px
+default [[Ayuda:Contenidos]]
+desc none
+</imagemap>
+| [[Ayuda:Contenidos|'''Ayuda'''<br>Manual general de Wikipedia]]
+|-
+| width="8%"  align="right" | <imagemap>
+Imagen:Crystal Clear app Startup Wizard.png|30x30px
+default [[Ayuda:Tutorial]]
+desc none
+</imagemap>
+| width="38%" | [[Ayuda:Tutorial|'''Tutorial'''<br>Aprender a editar paso-a-paso en un instante]]
+| align="right" | <imagemap>
+Imagen:Crystal Clear app kedit.png|30x30px
+default [[Wikipedia:Zona de pruebas]]
+desc none
+</imagemap>
+| width="38%" | [[Wikipedia:Zona de pruebas|'''Zona de pruebas'''<br>Para que realices pruebas de edición]]
+|-
+| align="right" |<imagemap>
+Imagen:Cicero.PNG|30x30px
+default [[Wikipedia:Programa de tutoría]]
+desc none
+</imagemap>
+| [[Wikipedia:Programa de tutoría| '''Programa de tutoría'''.<br>Solicita ayuda personalizada en tus primeros pasos]]
+| width="8%"  align="right" |  <imagemap>
+Imagen:Crystal Clear action apply.png|30x30px
+default [[Ayuda:Cómo se edita una página]]
+desc none
+</imagemap>
+| [[Ayuda:Cómo se edita una página|'''Aprende a editar páginas'''<br>Guía de edición de páginas wiki]]
+|-
+| align="right" | <imagemap>
+Imagen:Nuvola apps important yellow.svg|30x30px
+default [[WP:NO]]
+desc none
+</imagemap>
+| [[WP:NO|'''Cosas que no se deben hacer'''<br>Resumen de errores más comunes a evitar]]
+| align="right" | <imagemap>
+Imagen:Nuvola apps ksirc.png|30x30px
+default [[Wikipedia:FAQ]]
+desc none
+</imagemap>
+| [[Wikipedia:FAQ|'''Preguntas más frecuentes'''<br>Preguntas que toda la gente hace]]
+|-
+| align="right" | <imagemap>
+Imagen:Crystal Clear app file-manager.png|30x30px
+default [[Wikipedia:Políticas]]
+desc none
+</imagemap>
+| [[Wikipedia:Políticas|'''Las políticas de Wikipedia'''<br>Estándares y reglas aprobadas por la comunidad]]
+| align="right" | <imagemap>
+Imagen:Nuvola apps kteatime.png|30x30px
+default [[Wikipedia:Café]]
+desc none
+</imagemap>
+| [[Wikipedia:Café|'''Café'''<br>Donde puedes preguntar a otros wikipedistas]]
+|-
+| colspan="4" style="border-top:2px solid #faecc8;" |
+[[Imagen:Firma.png|right]]
+Ésta es tu [[:Wikipedia:página de discusión|'''página de discusión''']], en la cual puedes recibir mensajes de otros [[:Wikipedia:Usuarios|wikipedistas]]. Para dejar un mensaje a otro wikipedista debes escribir '''en su página de discusión''', si no, no será notificado. Al final del mensaje debes [[Ayuda:Cómo se edita una página#Firmar un comentario|firmar escribiendo cuatro <big><nowiki>~~~~</nowiki></big>]] o presionando el botón mostrado en la imagen. Recuerda que [[Wikipedia:Acerca de firmar artículos|''los artículos no se firman'']].
+----
+|}
+Esperamos que pases buenos momentos en Wikipedia. Saludos [[Image:Love zh.svg|15px]][[Usuario:Humberto, Mex.|''Humberto'']][[Image:Nuvola apps amor.png|15px]]([[Usuario Discusión:Humberto, Mex.|''Se aceptan consejos'']]) 07:27 30 abr 2007 (CEST).
+
+==Re:Euforia==
+¡Hola, que tal!. La respuesta la puede encontrar aquí--->>[[WP:AP]]. Saludos y buen día.
+
+¡Hola, que tal!. Sabiendo que la banda se compone de: ''"tres hermanos Alejandro en bateria,"'' y comparándolo con su "nick" es un poco sospechoso. La política de Wikipedia dice que ''"...es preferible que el autor original no sea dueño de la empresa, trabaje en la empresa o sea amigo o familiar de un dueño o empleado de la empresa. Esto se aplica de igual manera para los artistas; los artículos acerca de un músico poco conocido o un grupo no deberían ser escritos por el músico, miembro del grupo, mánager, etcétera..."''. No se preocupe, si el grupo es muy popular de seguro habrá quien escriba acerca de ellos en el futuro, alguien ya rescató su álbum <code style="background:yellow">:)</code>. [[Inconsciente (álbum)]]. Saludos y buen día. [[Image:Love zh.svg|15px]][[Usuario:Humberto, Mex.|''Humberto'']][[Image:Nuvola apps amor.png|15px]]([[Usuario Discusión:Humberto, Mex.|''Se aceptan consejos'']]) 01:30 1 may 2007 (CEST).
+
+==Euforia==
+Me temo amigo que hay una equivocación. Ni se nada del artículo [[Euforia]] ni he pasado por allí en mi vida. No tienes mas que mirar el historial de modificaciones y verás que nó estoy en el. Es un error. Para saber quién es reitero que tienes que mirar el historial. Allí encontrarás al culpable. Saludos. --[[Usuario:Xabierlozano|Xabierlozano]] 15:17 30 abr 2007 (CEST)
