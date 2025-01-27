@@ -1,0 +1,24 @@
+== Tu cuenta será renombrada ==
+
+<div class="plainlinks mw-content-ltr" lang="es" dir="ltr">
+
+Hola,
+
+Como parte de nuestros esfuerzos continuos por proveer nuevas y mejores herramientas, el equipo de desarrolladores de Wikimedia está realizando algunos cambios en el funcionamiento de las cuentas de usuario como, por ejemplo, la implementación de notificaciones integradas entre distintas wikis. Estos cambios significan que tendrás el mismo nombre de usuario en todos los proyectos. De esa manera podremos ofrecerte nuevas mejoras, que te ayudarán a editar e interactuar mejor con otros usuarios y proporcionará una mayor flexibilidad en los permisos de usuario para usar las distintas herramientas. Una de las consecuencias de este cambio es que las cuentas de usuario deberán ser únicas en las 900 wikis de Wikimedia. Consulta el [[m:Special:MyLanguage/Single User Login finalisation announcement|anuncio público]] para obtener más información.
+
+Desafortunadamente, tu nombre de usuario coincide con otra cuenta, también llamada Miseria. Para asegurarnos que ambos puedan seguir usando las wikis de Wikimedia en el futuro, hemos reservado el nombre global único Miseria~eswiki para ti. Si te gusta no tienes que hacer nada. Si quieres escoger uno diferente, háznoslo saber completando [[Special:GlobalRenameRequest|este formulario]].
+
+Tu cuenta nueva seguirá funcionando como antes, y todas tus contribuciones anteriores te seguirán siendo atribuidas, pero tendrás que usar el nuevo nombre de usuario al iniciar sesión.
+
+Lamentamos el inconveniente.
+
+Atentamente,<br />[[m:User:Keegan (WMF)|Keegan Peterzell]]<br />Enlace con la comunidad, Fundación Wikimedia
+</div> 01:33 18 mar 2015 (UTC)
+<!-- SUL finalisation notification -->
+
+== Renombrada ==
+
+<div class="plainlinks mw-content-ltr" lang="es" dir="ltr">
+Se ha renombrado esta cuenta como parte de la [[m:Special:MyLanguage/Single User Login finalisation announcement|finalización de la cuenta de acceso unificada]]. Si esta cuenta le pertenece, entonces puede [[{{#special:userlogin}}|ingresar utilizando su nombre de usuario y contraseña anteriores]] para obtener más información. Si no le gusta el nuevo nombre de la cuenta, puede elegir el que desee con este formulario después de ingresar: [[{{#special:GlobalRenameRequest}}]]. -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|discusión]])
+</div> 10:24 21 abr 2015 (UTC)
+<!-- SUL post-rename notification -->

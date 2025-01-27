@@ -36,8 +36,8 @@ _TIMESTAMP_RE_5 = r"[0-9]{2}:[0-9]{2} [0-9]{4}年[0-9]{1,2}月[0-9]{1,2}日 \(UT
 
 ## Spanish timestamp formats
 # 23:48 23 sep 2012 (UTC)
-# 22:54 mar 2022 (UTC-3)
 _TIMESTAMP_RE_6 = r"[0-9]{2}:[0-9]{2} [0-9]{1,2} [^\W\d]+ [0-9]{4} \(UTC\)"
+# 22:54 mar 2022 (UTC-3)
 _TIMESTAMP_RE_7 = r"[0-9]{2}:[0-9]{2} [^\W\d]+ [0-9]{4} \(UTC-[0-9]{1,2}\)"
 
 ## German timestamp formats

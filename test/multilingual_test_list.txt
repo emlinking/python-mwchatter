@@ -18,3 +18,4 @@ arabic_test1.txt, https://ar.wikipedia.org/w/index.php?title=%D9%86%D9%82%D8%A7%
 4057641.txt, https://zh.wikipedia.org/?curid=4057641
 272523.txt, https://de.wikipedia.org/w/index.php?title=Diskussion:Oman&action=edit
 782036.txt, https://de.wikipedia.org/?curid=782036
+6751327.txt, https://es.wikipedia.org/w/index.php?title=Usuario_discusi%C3%B3n:Miseria~eswiki&action=edit

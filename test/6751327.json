@@ -1,0 +1,53 @@
+{
+    "sections": [
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Tu cuenta ser\u00e1 renombrada ==\n",
+                        "\n",
+                        "<div class=\"plainlinks mw-content-ltr\" lang=\"es\" dir=\"ltr\">\n\nHola,\n\nComo parte de nuestros esfuerzos continuos por proveer nuevas y mejores herramientas, el equipo de desarrolladores de Wikimedia est\u00e1 realizando algunos cambios en el funcionamiento de las cuentas de usuario como, por ejemplo, la implementaci\u00f3n de notificaciones integradas entre distintas wikis. Estos cambios significan que tendr\u00e1s el mismo nombre de usuario en todos los proyectos. De esa manera podremos ofrecerte nuevas mejoras, que te ayudar\u00e1n a editar e interactuar mejor con otros usuarios y proporcionar\u00e1 una mayor flexibilidad en los permisos de usuario para usar las distintas herramientas. Una de las consecuencias de este cambio es que las cuentas de usuario deber\u00e1n ser \u00fanicas en las 900 wikis de Wikimedia. Consulta el [[m:Special:MyLanguage/Single User Login finalisation announcement|anuncio p\u00fablico]] para obtener m\u00e1s informaci\u00f3n.\n\nDesafortunadamente, tu nombre de usuario coincide con otra cuenta, tambi\u00e9n llamada Miseria. Para asegurarnos que ambos puedan seguir usando las wikis de Wikimedia en el futuro, hemos reservado el nombre global \u00fanico Miseria~eswiki para ti. Si te gusta no tienes que hacer nada. Si quieres escoger uno diferente, h\u00e1znoslo saber completando [[Special:GlobalRenameRequest|este formulario]].\n\nTu cuenta nueva seguir\u00e1 funcionando como antes, y todas tus contribuciones anteriores te seguir\u00e1n siendo atribuidas, pero tendr\u00e1s que usar el nuevo nombre de usuario al iniciar sesi\u00f3n.\n\nLamentamos el inconveniente.\n\nAtentamente,<br />[[m:User:Keegan (WMF)|Keegan Peterzell]]<br />Enlace con la comunidad, Fundaci\u00f3n Wikimedia\n</div> 01:33 18 mar 2015 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Keegan (WMF)",
+                    "time_stamp": "01:33 18 mar 2015 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "<!-- SUL finalisation notification -->\n",
+                        "\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Tu cuenta ser\u00e1 renombrada "
+        },
+        {
+            "subsections": [],
+            "comments": [
+                {
+                    "text_blocks": [
+                        "== Renombrada ==\n",
+                        "\n",
+                        "<div class=\"plainlinks mw-content-ltr\" lang=\"es\" dir=\"ltr\">\nSe ha renombrado esta cuenta como parte de la [[m:Special:MyLanguage/Single User Login finalisation announcement|finalizaci\u00f3n de la cuenta de acceso unificada]]. Si esta cuenta le pertenece, entonces puede [[{{#special:userlogin}}|ingresar utilizando su nombre de usuario y contrase\u00f1a anteriores]] para obtener m\u00e1s informaci\u00f3n. Si no le gusta el nuevo nombre de la cuenta, puede elegir el que desee con este formulario despu\u00e9s de ingresar: [[{{#special:GlobalRenameRequest}}]]. -- [[m:User:Keegan (WMF)|Keegan (WMF)]] ([[m:User talk:Keegan (WMF)|discusi\u00f3n]])\n</div> 10:24 21 abr 2015 (UTC)\n"
+                    ],
+                    "comments": [],
+                    "cosigners": [],
+                    "author": "Keegan (WMF)",
+                    "time_stamp": "10:24 21 abr 2015 (UTC)"
+                },
+                {
+                    "text_blocks": [
+                        "<!-- SUL post-rename notification -->\n"
+                    ],
+                    "comments": [],
+                    "cosigners": []
+                }
+            ],
+            "heading": " Renombrada "
+        }
+    ]
+}
