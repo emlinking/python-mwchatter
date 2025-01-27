@@ -239,7 +239,7 @@ def _extract_rightmost_timestamp(wcode):
     nodes = wcode.nodes
     ts_loc = _find_timestamp_locations(nodes)
     if len(ts_loc) == 0:
-        raise NoTimestampError(text)
+        raise NoTimestampError(ts_loc)
     return mwp.wikicode.Wikicode(nodes[ts_loc[-1]])
 
 
@@ -254,7 +254,8 @@ def _extract_rightmost_user(wcode):
     func_picker.extend([(l[0], l[1], _extract_usercontribs_user) for l in uc_locs])
 
     if len(func_picker) == 0:
-        raise NoUsernameError(text)
+        #raise NoUsernameError(text)
+        return "Error: Nonstandard signature, no user found."
     (start, end, extractor) = max(func_picker, key=lambda e: e[1])
     user = extractor(text[start:end])
     return user
@@ -263,8 +264,8 @@ def _extract_rightmost_user(wcode):
 def _extract_userpage_user(text):
     up = re.findall(USER_RE, text)
     if len(up) == 0:
-        raise NoUsernameError(text)
-    
+        #raise NoUsernameError(text)
+        return "Error: Nonstandard signature, no user found."
     raw_username = up[0][1]
     return _clean_extracted_username(raw_username)
 
@@ -272,8 +273,8 @@ def _extract_userpage_user(text):
 def _extract_usertalk_user(text):
     ut = USER_TALK_RE.match(text)
     if ut is None:
-        raise NoUsernameError(text)
-    
+        #raise NoUsernameError(text)
+        return "Error: Nonstandard signature, no user found."
     raw_username = ut.group(2)
     return _clean_extracted_username(raw_username)
 
@@ -281,7 +282,8 @@ def _extract_usertalk_user(text):
 def _extract_usercontribs_user(text):
     uc = USER_CONTRIBS_RE.match(text)
     if uc is None:
-        raise NoUsernameError(text)
+        #raise NoUsernameError(text)
+        return "Error: Nonstandard signature, no user found."
     raw_username = uc.group(2)
     return _clean_extracted_username(raw_username)
 
