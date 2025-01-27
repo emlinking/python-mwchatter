@@ -9,10 +9,10 @@ I (emlinking) have made some modifications to accomodate parsing Chinese Wiki Ta
 - test/print_test_result.py: show section of a parsed test page
 
 ## Basic use ##
-    import wikichatter as wc
+    import mwchatter as mwc
 
     text = open(some_talk_page).read()
-    parsed_text = wc.parse(text)
+    parsed_text = mwc.parse(text)
     print(parse_text)
 
 ## Current output ##

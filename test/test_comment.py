@@ -1,7 +1,7 @@
 import unittest
-import wikichatter.mwparsermod as mwpm
-import wikichatter.comment as comment
-import wikichatter.indentblock as indentblock
+import mwchatter.mwparsermod as mwpm
+import mwchatter.comment as comment
+import mwchatter.indentblock as indentblock
 
 LEVEL0 = ""
 LEVEL1 = ":"

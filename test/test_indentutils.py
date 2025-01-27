@@ -1,6 +1,6 @@
 import unittest
 import mwparserfromhell as mwp
-import wikichatter.indentutils as indentutils
+import mwchatter.indentutils as indentutils
 
 
 LEVEL0 = ""

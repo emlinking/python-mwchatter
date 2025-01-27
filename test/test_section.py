@@ -1,7 +1,7 @@
 import unittest
-import wikichatter.section as section
-import wikichatter.mwparsermod as mwpm
-from wikichatter.error import MalformedWikitextError
+import mwchatter.section as section
+import mwchatter.mwparsermod as mwpm
+from mwchatter.error import MalformedWikitextError
 
 
 class SectionTest(unittest.TestCase):

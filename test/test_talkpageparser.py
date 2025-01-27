@@ -1,5 +1,5 @@
 import unittest
-import wikichatter.talkpageparser as tpp
+import mwchatter.talkpageparser as tpp
 from test.schema import verify, error_msg
 
 
